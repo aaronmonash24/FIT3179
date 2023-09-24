@@ -1,791 +1,791 @@
-Id,Latitude,Longitude,Country,Status,Capacity
-1,59.206,18.0829,Sweden,Shutdown,9
-2,69.709579,170.30625,Russia,Operational,30
-3,69.709579,170.30625,Russia,Operational,30
-4,,,Iran,Planned,
-5,,,Iran,Planned,
-6,36.144444,33.541111,Türkiye,Under Construction,1114
-7,36.144444,33.541111,Türkiye,Under Construction,1114
-8,36.144444,33.541111,Türkiye,Under Construction,1114
-9,36.144444,33.541111,Türkiye,Under Construction,1114
-10,43.607,51.283,Kazakhstan,Shutdown,52
-11,39.807,-5.698,Spain,Operational,900
-12,39.807,-5.698,Spain,Operational,900
-13,-23.008,-44.457,Brazil,Operational,609
-14,-23.008,-44.457,Brazil,Operational,1245
-15,-23.01,-44.47,Brazil,Under Construction,1340
-16,55.084,36.57,Russia,Shutdown,5
-17,35.31,-93.23,United States,Operational,850
-18,35.31,-93.229,United States,Operational,912
-19,40.182,44.147,Armenia,Shutdown,376
-20,40.182,44.147,Armenia,Operational,375
-21,40.1808,44.1472,Armenia,Planned,
-22,41.202,0.571,Spain,Operational,888
-23,41.202,0.571,Spain,Operational,888
-24,-33.967,-59.209,Argentina,Operational,319
-25,-33.967,-59.209,Argentina,Operational,692
-26,52.092,47.952,Russia,Operational,950
-27,52.092,47.952,Russia,Operational,950
-28,52.092,47.952,Russia,Operational,950
-29,52.092,47.952,Russia,Operational,950
-30,54.939,22.162,Russia,Under Construction,1109
-31,23.952748,52.193298,United Arab Emirates,Operational,1310
-32,23.952748,52.193298,United Arab Emirates,Operational,1310
-33,23.952748,52.203298,United Arab Emirates,Operational,1310
-34,,,India,Planned,
-35,,,India,Planned,
-36,55.745,12.926,Sweden,Shutdown,570
-37,55.745,12.926,Sweden,Shutdown,570
-38,40.624,-80.432,United States,Operational,835
-39,40.624,-80.432,United States,Operational,836
-40,54.766667,26.116667,Belarus,Operational,1110
-41,54.766667,26.116667,Belarus,Operational,1110
-44,47.511,2.871,France,Operational,1310
-45,47.511,2.871,France,Operational,1310
-46,56.842,61.321,Russia,Shutdown,102
-47,56.842,61.321,Russia,Shutdown,146
-48,56.842,61.321,Russia,Operational,560
-49,56.842,61.321,Russia,Operational,820
-50,56.842,61.321,Russia,Planned,
-51,51.692,-2.494,United Kingdom,Shutdown,138
-52,51.692,-2.494,United Kingdom,Shutdown,138
-53,47.552,8.229,Switzerland,Operational,350
-54,47.552,8.229,Switzerland,Operational,350
-55,49.709,8.415,Germany,Shutdown,1146
-56,49.709,8.415,Germany,Shutdown,1178
-57,45.359,-85.195,United States,Shutdown,72
-58,68.059,166.492,Russia,Shutdown,11
-59,68.059,166.492,Russia,Operational,11
-60,68.059,166.492,Russia,Operational,11
-61,68.059,166.492,Russia,Operational,11
-62,45.256,-0.691,France,Operational,910
-63,45.256,-0.691,France,Operational,910
-64,45.256,-0.691,France,Operational,910
-65,45.256,-0.691,France,Operational,910
-66,48.494,17.687,Slovakia,Shutdown,408
-67,48.494,17.687,Slovakia,Shutdown,408
-68,48.494,17.687,Slovakia,Operational,466
-69,48.494,17.687,Slovakia,Operational,466
-70,48.494,17.687,Slovakia,Shutdown,110
-71,18.365,-67.268,United States,Shutdown,17
-72,51.431,3.719,Netherlands,Operational,495
-73,51.217,5.099,Belgium,Shutdown,11
-74,51.742,0.899,United Kingdom,Shutdown,150
-75,51.742,0.899,United Kingdom,Shutdown,150
-76,41.247,-88.23,United States,Operational,1120
-77,41.247,-88.23,United States,Operational,1120
-79,53.85,9.345,Germany,Shutdown,1307
-80,34.704,-87.119,United States,Operational,1065
-81,34.704,-87.119,United States,Operational,1065
-82,34.704,-87.119,United States,Operational,1065
-83,44.341,-81.572,Canada,Operational,732
-84,44.341,-81.572,Canada,Operational,732
-85,44.341,-81.572,Canada,Operational,750
-86,44.341,-81.572,Canada,Operational,750
-87,44.341,-81.572,Canada,Operational,822
-88,44.341,-81.572,Canada,Operational,822
-89,44.341,-81.572,Canada,Operational,822
-90,44.341,-81.572,Canada,Operational,795
-91,53.891,9.202,Germany,Shutdown,770
-92,33.958,-78.007,United States,Operational,821
-93,33.958,-78.007,United States,Operational,821
-94,45.796,5.268,France,Shutdown,540
-95,45.796,5.268,France,Operational,920
-96,45.798,5.268,France,Operational,920
-97,45.8,5.267,France,Operational,900
-98,45.8,5.267,France,Operational,900
-99,28.831,50.887,Iran,Operational,915
-100,28.8287,50.8895,Iran,Under Construction,974
-101,28.8305,50.8872,Iran,Planned,
-102,28.8305,50.8872,Iran,Planned,
-103,42.074,-89.277,United States,Operational,1120
-104,42.074,-89.277,United States,Operational,1120
-105,54.42,-3.491,United Kingdom,Shutdown,35
-106,54.42,-3.491,United Kingdom,Shutdown,35
-107,54.42,-3.491,United Kingdom,Shutdown,35
-108,54.42,-3.491,United Kingdom,Shutdown,35
-109,38.763,-91.781,United States,Operational,1171
-110,38.435,-76.439,United States,Operational,845
-111,38.435,-76.439,United States,Operational,845
-112,45.072,9.872,Italy,Shutdown,840
-113,-33.966667,-59.211111,Argentina,Under Construction,25
-114,34.263,-81.33,United States,Shutdown,17
-115,35.053,-81.071,United States,Operational,1145
-116,35.053,-81.071,United States,Operational,1145
-117,49.416,6.217,France,Operational,1300
-118,49.416,6.217,France,Operational,1300
-119,49.416,6.217,France,Operational,1300
-120,49.416,6.217,France,Operational,1300
-121,39.739,116.03,China,Operational,20
-122,44.322,28.061,Romania,Operational,650
-123,44.322,28.061,Romania,Operational,650
-125,19.46075,108.899917,China,Operational,601
-126,19.46075,108.899917,China,Operational,601
-127,55.014,-3.223,United Kingdom,Shutdown,35
-128,55.014,-3.223,United Kingdom,Shutdown,35
-129,55.014,-3.223,United Kingdom,Shutdown,35
-130,55.014,-3.223,United Kingdom,Shutdown,35
-131,32.392,71.463,Pakistan,Operational,300
-132,32.392,71.463,Pakistan,Operational,300
-133,32.392,71.465,Pakistan,Operational,315
-134,32.391944,71.461667,Pakistan,Operational,313
-135,51.389,30.103,Ukraine,Shutdown,925
-136,51.389,30.103,Ukraine,Shutdown,925
-137,51.389,30.103,Ukraine,Shutdown,925
-138,51.389,30.103,Ukraine,Shutdown,925
-139,25.292,121.567,Taiwan,Shutdown,604
-140,25.292,121.567,Taiwan,Shutdown,604
-141,47.232,0.167,France,Shutdown,68
-142,47.232,0.167,France,Shutdown,170
-143,47.232,0.167,France,Shutdown,480
-144,47.232,0.167,France,Operational,870
-145,47.232,0.167,France,Operational,870
-146,47.232,0.167,France,Operational,905
-147,47.232,0.167,France,Operational,905
-148,50.086,4.792,France,Shutdown,280
-149,50.086,4.792,France,Operational,1455
-150,50.086,4.792,France,Operational,1455
-151,46.457,0.654,France,Operational,1450
-152,46.457,0.654,France,Operational,1450
-153,40.172,-88.834,United States,Operational,950
-154,39.216,-1.051,Spain,Operational,939
-155,46.471,-119.333,United States,Operational,1100
-156,32.301,-97.787,United States,Operational,1150
-157,32.301,-97.787,United States,Operational,1150
-158,40.361,-95.643,United States,Operational,778
-159,44.634,4.757,France,Operational,880
-160,44.634,4.757,France,Operational,915
-161,44.634,4.757,France,Operational,880
-162,44.634,4.757,France,Operational,880
-163,28.966,-82.697,United States,Shutdown,825
-164,47.732,2.513,France,Operational,890
-165,47.732,2.513,France,Operational,890
-166,47.732,2.513,France,Operational,890
-167,47.732,2.513,France,Operational,890
-169,43.867,-78.724,Canada,Operational,881
-170,43.867,-78.724,Canada,Operational,881
-171,43.867,-78.724,Canada,Operational,881
-172,43.867,-78.724,Canada,Operational,881
-173,43.8644,-78.7244,Canada,Planned,
-174,43.8633,-78.7244,Canada,Planned,
-175,41.597,-83.092,United States,Operational,906
-176,22.599,114.544,China,Operational,930
-177,22.599,114.544,China,Operational,930
-178,35.212,-120.854,United States,Operational,1084
-179,35.212,-120.854,United States,Operational,1106
-180,51.323,4.259,Belgium,Operational,392
-181,51.323,4.259,Belgium,Operational,445
-182,51.323,4.259,Belgium,Shutdown,890
-183,51.323,4.259,Belgium,Operational,1000
-184,41.975,-86.564,United States,Operational,1030
-185,41.975,-86.564,United States,Operational,1100
-186,44.326,-81.601,Canada,Shutdown,203
-187,58.577,-3.745,United Kingdom,Shutdown,14
-188,58.577,-3.745,United Kingdom,Shutdown,234
-189,41.353,-88.349,United States,Shutdown,192
-190,41.353,-88.349,United States,Operational,794
-191,41.353,-88.349,United States,Operational,794
-192,42.101,-91.776,United States,Shutdown,601
-193,49.089,16.149,Czechia,Operational,420
-194,49.089,16.149,Czechia,Operational,420
-195,49.089,16.149,Czechia,Operational,420
-196,49.089,16.149,Czechia,Operational,420
-197,50.914,0.962,United Kingdom,Shutdown,275
-198,50.914,0.962,United Kingdom,Shutdown,275
-199,50.914,0.962,United Kingdom,Shutdown,607
-200,50.914,0.962,United Kingdom,Shutdown,607
-201,31.044167,28.497778,Egypt,Under Construction,1100
-202,48.35,-3.866667,France,Shutdown,70
-203,45.297,-93.557,United States,Shutdown,22
-204,-32.232,-64.442,Argentina,Operational,608
-205,52.471,7.322,Germany,Shutdown,1242
-206,45.183333,8.283333,Italy,Shutdown,247
-207,41.96,-83.257,United States,Shutdown,60
-208,41.96,-83.257,United States,Operational,1093
-209,21.6,108.3,China,Operational,1000
-210,21.6,108.3,China,Operational,1000
-211,30.416,120.951,China,Operational,1000
-212,30.416,120.951,China,Operational,1000
-213,31.223,-85.115,United States,Operational,829
-214,31.223,-85.115,United States,Operational,829
-215,47.903,7.564,France,Shutdown,880
-216,47.903,7.564,France,Shutdown,880
-217,43.521,-76.403,United States,Operational,821
-218,49.537,-1.881,France,Operational,1330
-219,49.537,-1.881,France,Operational,1330
-220,49.537,-1.881,France,Under Construction,1630
-221,60.405,18.168,Sweden,Operational,900
-222,60.405,18.168,Sweden,Operational,900
-223,60.405,18.168,Sweden,Operational,1050
-224,41.52,-96.076,United States,Shutdown,478
-225,40.244,-104.874,United States,Shutdown,330
-226,35.751,136.02,Japan,Shutdown,148
-227,37.423,141.032,Japan,Shutdown,439
-228,37.423,141.032,Japan,Shutdown,760
-229,37.423,141.032,Japan,Shutdown,760
-230,37.423,141.032,Japan,Shutdown,760
-231,37.423,141.032,Japan,Shutdown,760
-232,37.423,141.032,Japan,Shutdown,1067
-233,37.315,141.024,Japan,Shutdown,1067
-234,37.315,141.024,Japan,Shutdown,1067
-235,37.315,141.024,Japan,Shutdown,1067
-236,37.315,141.024,Japan,Shutdown,1067
-237,25.443,119.453,China,Operational,1000
-238,25.443,119.453,China,Operational,1000
-239,25.720278,119.383889,China,Operational,1000
-240,25.720278,119.383889,China,Operational,1000
-241,25.720278,119.383889,China,Operational,1075
-242,25.720278,119.383889,China,Operational,1075
-243,44.142,4.713,France,Shutdown,36
-244,44.142,4.713,France,Shutdown,36
-245,41.258,13.835,Italy,Shutdown,150
-246,37.613056,-121.84,United States,Shutdown,24
-247,33.518,129.837,Japan,Shutdown,529
-248,33.518,129.837,Japan,Shutdown,529
-249,33.518,129.837,Japan,Operational,1127
-250,33.518,129.837,Japan,Operational,1127
-251,46.395,-72.357,Canada,Shutdown,250
-252,46.395,-72.357,Canada,Shutdown,645
-253,51.899,5.687,Netherlands,Shutdown,54
-254,47.366,7.969,Switzerland,Operational,920
-255,44.105,0.845,France,Operational,1310
-256,44.105,0.845,France,Operational,1310
-257,49.984,10.186,Germany,Shutdown,1225
-258,32.007,-91.045,United States,Operational,1250
-259,51.014,2.138,France,Operational,910
-260,51.014,2.138,France,Operational,910
-261,51.014,2.138,France,Operational,910
-262,51.014,2.138,France,Operational,910
-263,51.014,2.138,France,Operational,910
-264,51.014,2.138,France,Operational,910
-265,54.143,13.668,Germany,Shutdown,440
-266,54.143,13.668,Germany,Shutdown,408
-267,54.143,13.668,Germany,Shutdown,408
-268,54.143,13.668,Germany,Shutdown,408
-269,54.143,13.668,Germany,Shutdown,408
-270,52.033,9.412,Germany,Shutdown,1289
-271,50.055,8.985,Germany,Decommissioning Completed,23
-272,48.513,10.401,Germany,Shutdown,237
-273,48.513,10.401,Germany,Shutdown,1244
-274,48.513,10.401,Germany,Shutdown,1249
-275,34.402,-80.158,United States,Operational,700
-276,41.483,-72.5,United States,Shutdown,582
-277,36.704,121.382,China,Operational,1126
-278,36.704,121.382,China,Operational,1126
-279,36.704,121.382,China,Under Construction,1161
-280,36.704,121.382,China,Under Construction,1161
-281,40.559,-96.785,United States,Shutdown,75
-282,34.621,138.141,Japan,Shutdown,516
-283,34.621,138.141,Japan,Shutdown,814
-284,34.621,138.141,Japan,Suspended Operation,1056
-285,34.621,138.141,Japan,Suspended Operation,1092
-286,34.621,138.141,Japan,Suspended Operation,1325
-287,34.621,138.141,Japan,Planned,
-288,35.405,126.41,South Korea,Operational,903
-289,35.405,126.41,South Korea,Operational,903
-290,35.405,126.41,South Korea,Operational,950
-291,35.405,126.41,South Korea,Operational,950
-292,35.405,126.41,South Korea,Operational,950
-293,35.405,126.41,South Korea,Operational,993
-294,37.09,129.384444,South Korea,Operational,903
-295,37.09,129.384444,South Korea,Operational,903
-296,37.09,129.384444,South Korea,Operational,997
-297,37.09,129.384444,South Korea,Operational,950
-298,37.09,129.384444,South Korea,Operational,950
-299,37.09,129.384444,South Korea,Operational,950
-300,54.634,-1.18,United Kingdom,Operational,590
-301,54.634,-1.18,United Kingdom,Operational,595
-302,31.935,-82.346,United States,Operational,777
-303,31.935,-82.346,United States,Operational,784
-304,54.029,-2.912,United Kingdom,Operational,611
-305,54.029,-2.912,United Kingdom,Operational,611
-306,54.029,-2.912,United Kingdom,Operational,615
-307,54.029,-2.912,United Kingdom,Operational,615
-308,41.188,141.393,Japan,Suspended Operation,1067
-309,41.1856,141.388,Japan,Planned,
-310,41.1856,141.39,Japan,Planned,
-311,41.1856,141.389,Japan,Planned,
-312,51.209,-3.131,United Kingdom,Shutdown,250
-313,51.209,-3.131,United Kingdom,Shutdown,250
-314,51.209,-3.131,United Kingdom,Shutdown,625
-315,51.209,-3.131,United Kingdom,Shutdown,625
-316,51.2087,-3.1305,United Kingdom,Under Construction,1630
-317,51.2087,-3.1305,United Kingdom,Under Construction,1630
-318,,,China,Planned,
-319,,,China,Planned,
-320,39.797,121.4765,China,Operational,1061
-321,39.797,121.4765,China,Operational,1061
-322,39.797,121.4765,China,Operational,1061
-323,39.797,121.4765,China,Operational,1061
-324,39.797,121.4831,China,Operational,1061
-325,39.797,121.4831,China,Operational,1061
-326,39.467,-75.535,United States,Operational,1067
-327,40.741,-124.21,United States,Shutdown,65
-328,55.722,-4.893,United Kingdom,Shutdown,150
-329,55.722,-4.893,United Kingdom,Shutdown,150
-330,55.722,-4.893,United Kingdom,Shutdown,624
-331,55.722,-4.893,United Kingdom,Shutdown,624
-332,55.604,26.562,Lithuania,Shutdown,1500
-333,55.604,26.562,Lithuania,Shutdown,1500
-335,33.491,132.309,Japan,Shutdown,538
-336,33.491,132.309,Japan,Shutdown,538
-337,33.491,132.309,Japan,Operational,846
-338,41.27,-73.95,United States,Shutdown,265
-339,41.27,-73.95,United States,Shutdown,873
-340,41.27,-73.95,United States,Shutdown,965
-341,48.607,12.296,Germany,Shutdown,870
-342,48.607,12.296,Germany,Shutdown,1285
-343,16.595278,73.341111,India,Planned,
-344,16.595278,73.341111,India,Planned,
-345,,,Indonesia,Planned,
-346,40.362,-2.818,Spain,Shutdown,153
-347,36.4625,140.61,Japan,Shutdown,10
-348,50.903,6.421,Germany,Shutdown,13
-349,50.059,8.987,Germany,Decommissioning Completed,15
-350,14.865,74.438,India,Operational,202
-351,14.865,74.438,India,Operational,202
-352,14.865,74.438,India,Operational,202
-353,14.865,74.438,India,Operational,202
-354,14.868,74.4418,India,Planned,
-355,14.868,74.4422,India,Planned,
-356,21.236,73.351,India,Operational,202
-357,21.236,73.351,India,Operational,202
-358,21.236,73.351,India,Operational,630
-359,21.236,73.351,India,Under Construction,630
-360,57.903,35.057,Russia,Operational,950
-361,57.903,35.057,Russia,Operational,950
-362,57.903,35.057,Russia,Operational,950
-363,57.903,35.057,Russia,Operational,950
-364,12.553,80.174,India,Under Construction,470
-365,12.553,80.174,India,Suspended Operation,202
-366,12.553,80.174,India,Operational,202
-367,,,Japan,Planned,
-368,,,Japan,Planned,
-369,24.845,66.79,Pakistan,Shutdown,125
-370,49.104,8.432,Germany,Shutdown,50
-371,37.434,138.598,Japan,Suspended Operation,1067
-372,37.434,138.598,Japan,Suspended Operation,1067
-373,37.434,138.598,Japan,Suspended Operation,1067
-374,37.434,138.598,Japan,Suspended Operation,1067
-375,37.434,138.598,Japan,Suspended Operation,1067
-376,37.434,138.598,Japan,Suspended Operation,1315
-377,37.434,138.598,Japan,Suspended Operation,1315
-378,44.47,-87.498,United States,Shutdown,535
-379,50.301,26.649,Ukraine,Operational,950
-380,50.301,26.649,Ukraine,Operational,950
-381,50.303056,26.642778,Ukraine,Under Construction,1035
-382,50.303056,26.642778,Ukraine,Under Construction,1035
-383,49.098,8.441,Germany,Shutdown,18
-384,-33.677,18.433,South Africa,Operational,921
-385,-33.677,18.433,South Africa,Operational,921
-386,67.467,32.491,Russia,Operational,411
-387,67.467,32.491,Russia,Operational,411
-388,67.467,32.491,Russia,Operational,411
-389,67.467,32.491,Russia,Operational,411
-390,35.321,129.295,South Korea,Shutdown,558
-391,35.321,129.295,South Korea,Operational,618
-392,35.321,129.295,South Korea,Operational,1001
-393,35.321,129.295,South Korea,Operational,1012
-394,43.744,23.776,Bulgaria,Shutdown,408
-395,43.744,23.776,Bulgaria,Shutdown,408
-396,43.744,23.776,Bulgaria,Shutdown,408
-397,43.744,23.776,Bulgaria,Shutdown,408
-398,43.744,23.776,Bulgaria,Operational,953
-399,43.744,23.776,Bulgaria,Operational,1003
-400,45.939,15.516,Slovenia,Operational,632
-401,53.41,10.41,Germany,Shutdown,1260
-402,8.167,77.713,India,Operational,917
-403,8.167,77.713,India,Operational,917
-404,8.16705,77.708,India,Under Construction,917
-405,8.16666,77.708,India,Under Construction,917
-406,8.16627,77.708,India,Under Construction,917
-407,8.16588,77.708,India,Under Construction,917
-408,,,India,Planned,
-409,,,India,Planned,
-410,,,India,Planned,
-411,,,India,Planned,
-412,25.203,121.662,Taiwan,Shutdown,948
-413,25.203,121.662,Taiwan,Shutdown,948
-414,51.674,35.607,Russia,Shutdown,925
-415,51.674,35.607,Russia,Operational,925
-416,51.674,35.607,Russia,Operational,925
-417,51.674,35.607,Russia,Operational,925
-418,43.559,-91.23,United States,Shutdown,50
-419,19.719,-96.405,Mexico,Operational,780
-420,19.719,-96.405,Mexico,Operational,780
-421,41.246,-88.672,United States,Operational,1078
-422,41.246,-88.672,United States,Operational,1078
-423,41.427,12.808,Italy,Shutdown,200
-424,47.601,8.183,Switzerland,Operational,960
-425,59.837,29.039,Russia,Operational,1066
-426,59.837,29.039,Russia,Operational,1066
-427,59.837,29.039,Russia,Planned,1085
-428,59.837,29.039,Russia,Planned,1085
-429,59.837,29.039,Russia,Shutdown,925
-430,59.837,29.039,Russia,Shutdown,925
-431,59.837,29.039,Russia,Operational,925
-432,59.837,29.039,Russia,Operational,925
-433,,,China,Planned,
-434,,,China,Planned,
-435,40.225,-75.584,United States,Operational,1055
-436,40.225,-75.584,United States,Operational,1055
-437,22.606,114.55,China,Operational,950
-438,22.606,114.55,China,Operational,950
-439,22.609,114.552,China,Operational,1007
-440,22.609,114.552,China,Operational,1007
-441,52.483,7.302,Germany,Shutdown,183
-442,,,China,Planned,
-443,,,China,Planned,
-444,60.372,26.342,Finland,Operational,420
-445,60.372,26.342,Finland,Operational,420
-446,46.693,6.827,Switzerland,Shutdown,6
-449,25.038,121.924,Taiwan,Operational,936
-450,25.038,121.924,Taiwan,Operational,938
-451,43.951,-69.695,United States,Shutdown,825
-452,35.433,-80.946,United States,Operational,1180
-453,35.433,-80.946,United States,Operational,1180
-454,35.701,135.962,Japan,Shutdown,320
-455,35.701,135.962,Japan,Shutdown,470
-456,35.701,135.962,Japan,Operational,780
-457,41.312,-72.166,United States,Shutdown,660
-458,41.312,-72.166,United States,Operational,870
-459,41.312,-72.166,United States,Operational,1159
-460,48.261,18.455,Slovakia,Operational,408
-461,48.261,18.455,Slovakia,Operational,408
-462,48.261,18.455,Slovakia,Operational,440
-463,48.261,18.455,Slovakia,Under Construction,440
-464,35.739,135.988,Japan,Shutdown,246
-465,45.334,-93.85,United States,Operational,545
-466,46.969,7.266,Switzerland,Shutdown,306
-467,50.409,7.485,Germany,Shutdown,1219
-468,28.156,78.409,India,Operational,202
-469,28.155,78.409,India,Operational,202
-470,49.039,9.176,Germany,Shutdown,805
-471,49.039,9.176,Germany,Shutdown,1225
-472,48.604,12.304,Germany,Decommissioning Completed,100
-473,43.522,-76.412,United States,Operational,620
-474,43.522,-76.412,United States,Operational,1100
-475,27.046,120.287,China,Operational,1018
-476,27.046,120.287,China,Operational,1018
-477,27.046,120.287,China,Operational,1018
-478,27.046,120.287,China,Operational,1018
-479,27.046,120.287,China,Planned,
-480,27.046,120.287,China,Planned,
-481,55.786863,42.37215,Russia,Planned,
-482,55.787102,42.37215,Russia,Planned,
-483,48.517,3.52,France,Operational,1310
-484,48.517,3.52,France,Operational,1310
-485,38.061,-77.792,United States,Operational,907
-486,38.061,-77.792,United States,Operational,907
-487,51.273,39.197,Russia,Operational,1114
-488,51.273,39.197,Russia,Operational,1114
-489,51.275,39.206,Russia,Shutdown,197
-490,51.275,39.206,Russia,Shutdown,336
-491,51.275,39.206,Russia,Shutdown,385
-492,51.275,39.206,Russia,Operational,385
-493,52.381,39.211,Russia,Operational,950
-494,49.365,9.077,Germany,Shutdown,283
-495,34.796,-82.894,United States,Operational,887
-496,34.796,-82.894,United States,Operational,887
-497,34.796,-82.894,United States,Operational,887
-498,35.544,135.652,Japan,Shutdown,1120
-499,35.544,135.652,Japan,Shutdown,1120
-500,35.544,135.652,Japan,Operational,1127
-501,35.544,135.652,Japan,Operational,1127
-502,41.507,140.909,Japan,Under Construction,1328
-503,51.649,-2.567,United Kingdom,Shutdown,300
-504,51.649,-2.567,United Kingdom,Shutdown,300
-505,61.235,21.444,Finland,Operational,660
-506,61.235,21.444,Finland,Operational,660
-507,61.234,21.435,Finland,Operational,1600
-508,61.234352,21.436287,Finland,Planned,
-509,38.4,141.504,Japan,Shutdown,498
-510,38.4,141.504,Japan,Suspended Operation,796
-511,38.4,141.504,Japan,Suspended Operation,796
-512,57.415,16.666,Sweden,Shutdown,440
-513,57.415,16.666,Sweden,Shutdown,580
-514,57.415,16.666,Sweden,Operational,1050
-515,39.815,-74.208,United States,Shutdown,650
-516,46.574,18.855,Hungary,Operational,408
-517,46.574,18.855,Hungary,Operational,410
-518,46.574,18.855,Hungary,Operational,410
-519,46.574,18.855,Hungary,Operational,410
-520,42.323,-86.316,United States,Shutdown,805
-521,33.387,-112.863,United States,Operational,1221
-522,33.387,-112.863,United States,Operational,1304
-523,33.387,-112.863,United States,Operational,1304
-524,49.857,0.635,France,Operational,1330
-525,49.857,0.635,France,Operational,1330
-526,49.857,0.635,France,Operational,1330
-527,49.857,0.635,France,Operational,1330
-528,43.603,-96.636,United States,Shutdown,59
-529,39.759,-76.27,United States,Shutdown,40
-530,39.759,-76.27,United States,Operational,1065
-531,39.759,-76.27,United States,Operational,1065
-532,,,China,Planned,
-533,,,China,Planned,
-534,49.975,1.215,France,Operational,1330
-535,49.975,1.215,France,Operational,1330
-536,49.977611,1.21409,France,Planned,
-537,41.801,-81.147,United States,Operational,1205
-538,44.142,4.712,France,Shutdown,233
-539,49.253,8.432,Germany,Shutdown,864
-540,49.253,8.432,Germany,Shutdown,1268
-541,43.812,-79.07,Canada,Operational,508
-542,43.812,-79.07,Canada,Shutdown,508
-543,43.812,-79.07,Canada,Shutdown,508
-544,43.812,-79.07,Canada,Operational,508
-545,43.812,-79.07,Canada,Operational,516
-546,43.812,-79.07,Canada,Operational,516
-547,43.812,-79.07,Canada,Operational,516
-548,43.812,-79.07,Canada,Operational,516
-549,41.945,-70.578,United States,Shutdown,655
-550,40.132222,-84.234722,United States,Shutdown,11
-551,44.282,-87.534,United States,Operational,497
-552,44.282,-87.534,United States,Operational,497
-553,45.068,-66.455,Canada,Operational,660
-554,45.068,-66.4546,Canada,Planned,
-555,44.622,-92.631,United States,Operational,530
-556,44.622,-92.631,United States,Operational,530
-557,30.44,120.95,China,Operational,289
-558,30.44,120.95,China,Operational,610
-559,30.44,120.95,China,Operational,610
-560,30.44,120.95,China,Operational,619
-561,30.44,120.95,China,Operational,619
-562,30.44,120.95,China,Operational,677
-563,30.44,120.95,China,Operational,677
-564,41.727,-90.308,United States,Operational,789
-565,41.727,-90.308,United States,Operational,789
-566,43.279,-77.311,United States,Operational,470
-567,24.876,75.608,India,Suspended Operation,207
-568,24.876,75.608,India,Operational,207
-569,24.876,75.608,India,Operational,202
-570,24.876,75.608,India,Operational,202
-571,24.876,75.608,India,Operational,202
-572,24.876,75.608,India,Operational,202
-573,24.876,75.608,India,Under Construction,630
-574,24.876,75.608,India,Under Construction,630
-575,38.345,-121.12,United States,Shutdown,918
-576,53.147,12.991,Germany,Shutdown,62
-577,57.259,12.111,Sweden,Shutdown,881
-578,57.259,12.111,Sweden,Shutdown,820
-579,57.259,12.111,Sweden,Operational,915
-580,57.259,12.111,Sweden,Operational,1130
-581,30.727,-91.372,United States,Operational,966
-582,46.201,-77.705,Canada,Shutdown,17
-583,47.599,42.373,Russia,Operational,950
-584,47.599,42.373,Russia,Operational,950
-585,47.599,42.373,Russia,Operational,950
-586,47.599,42.373,Russia,Operational,950
-587,51.326,25.9,Ukraine,Operational,361
-588,51.326,25.9,Ukraine,Operational,384
-589,51.326,25.9,Ukraine,Operational,950
-590,51.326,25.9,Ukraine,Operational,950
-591,39.463,-75.534,United States,Operational,1090
-592,39.463,-75.534,United States,Operational,1115
-593,33.368,-117.556,United States,Shutdown,436
-594,33.368,-117.556,United States,Shutdown,1070
-595,33.368,-117.556,United States,Shutdown,1070
-596,29.101,121.642,China,Operational,1157
-597,29.101,121.642,China,Operational,1157
-598,29.101111,121.651944,China,Under Construction,1163
-599,29.101111,121.656944,China,Under Construction,1163
-600,,,China,Planned,
-601,,,China,Planned,
-602,42.775,-3.205,Spain,Shutdown,440
-603,40.226944,-78.241944,United States,Shutdown,3
-604,42.897,-70.849,United States,Operational,1149
-605,31.834,130.193,Japan,Operational,846
-606,31.834,130.193,Japan,Operational,846
-607,,,Japan,Planned,
-608,35.228,-85.094,United States,Operational,1148
-609,35.228,-85.094,United States,Operational,1148
-610,,,China,Planned,
-611,,,China,Planned,
-612,,,China,Planned,
-613,,,China,Planned,
-614,,,China,Planned,
-615,35.635,-78.955,United States,Operational,900
-616,36.979167,122.530556,China,Operational,200
-617,37.061,136.728,Japan,Suspended Operation,505
-618,37.061,136.728,Japan,Suspended Operation,1304
-619,35.537,132.999,Japan,Shutdown,439
-620,35.537,132.999,Japan,Suspended Operation,789
-621,35.537,132.999,Japan,Under Construction,1325
-622,35.722,129.479,South Korea,Operational,950
-623,35.722,129.479,South Korea,Operational,950
-624,37.083889,129.391667,South Korea,Operational,1340
-625,37.083889,129.391667,South Korea,Under Construction,1340
-626,35.327,129.302,South Korea,Operational,998
-627,35.327,129.302,South Korea,Operational,995
-628,35.327,129.302,South Korea,Operational,1340
-629,35.327,129.302,South Korea,Operational,1340
-630,35.327,129.302,South Korea,Under Construction,1340
-631,35.327,129.302,South Korea,Under Construction,1340
-632,40.63,-80.417778,United States,Shutdown,60
-633,40.96,-72.866,United States,Shutdown,809
-634,42,35,Türkiye,Planned,
-635,42,35,Türkiye,Planned,
-636,42,35,Türkiye,Planned,
-637,42,35,Türkiye,Planned,
-638,52.212,1.621,United Kingdom,Shutdown,290
-639,52.212,1.621,United Kingdom,Shutdown,290
-640,52.212,1.621,United Kingdom,Operational,1188
-641,52.21939,1.6228,United Kingdom,Planned,
-642,52.21939,1.6238,United Kingdom,Planned,
-643,54.169,33.245,Russia,Operational,925
-644,54.169,33.245,Russia,Operational,925
-645,54.169,33.245,Russia,Operational,925
-647,28.797,-96.044,United States,Operational,1250
-648,28.796,-96.044,United States,Operational,1250
-649,47.811,31.22,Ukraine,Operational,950
-650,47.811,31.22,Ukraine,Operational,950
-651,47.811,31.22,Ukraine,Operational,950
-652,45.404,4.754,France,Operational,1335
-653,45.404,4.754,France,Operational,1335
-654,47.724,1.582,France,Shutdown,480
-655,47.724,1.582,France,Shutdown,515
-656,47.724,1.582,France,Operational,915
-657,47.72,1.581,France,Operational,880
-658,27.348,-80.244,United States,Operational,830
-659,27.348,-80.244,United States,Operational,830
-660,53.62,9.53,Germany,Shutdown,630
-661,34.299,-81.314,United States,Operational,900
-664,45.76,5.474,France,Shutdown,1200
-665,37.166,-76.7,United States,Operational,788
-666,37.166,-76.7,United States,Operational,788
-667,41.093,-76.143,United States,Operational,1065
-668,41.093,-76.143,United States,Operational,1065
-669,21.917778,112.981944,China,Operational,1660
-670,21.917778,112.981944,China,Operational,1660
-671,35.52,135.503,Japan,Suspended Operation,780
-672,35.52,135.503,Japan,Suspended Operation,780
-673,35.52,135.503,Japan,Operational,830
-674,35.52,135.503,Japan,Operational,830
-675,,,China,Planned,
-676,,,China,Planned,
-677,,,China,Planned,
-678,,,China,Planned,
-679,19.834,72.657,India,Suspended Operation,200
-680,19.834,72.657,India,Suspended Operation,200
-681,19.834,72.657,India,Operational,502
-682,19.834,72.657,India,Operational,502
-683,49.181,14.377,Czechia,Operational,1027
-684,49.181,14.377,Czechia,Operational,1029
-685,40.154,-76.727,United States,Shutdown,819
-686,40.154,-76.727,United States,Shutdown,906
-687,51.68,7.972,Germany,Shutdown,296
-688,34.69,119.456,China,Operational,990
-689,34.69,119.456,China,Operational,990
-690,34.6868,119.456,China,Operational,1060
-691,34.6858,119.456,China,Operational,1060
-692,34.6838,119.456,China,Operational,1000
-693,34.6828,119.456,China,Operational,1000
-694,50.533,5.271,Belgium,Operational,870
-695,50.533,5.271,Belgium,Shutdown,900
-696,50.533,5.271,Belgium,Operational,1020
-697,36.466,140.612,Japan,Shutdown,159
-698,36.466,140.612,Japan,Suspended Operation,1056
-699,43.038,140.515,Japan,Suspended Operation,550
-700,43.038,140.515,Japan,Suspended Operation,550
-701,43.038,140.515,Japan,Suspended Operation,866
-702,55.966,-2.399,United Kingdom,Operational,645
-703,55.966,-2.399,United Kingdom,Operational,645
-704,52.923,-3.947,United Kingdom,Shutdown,250
-705,52.922,-3.947,United Kingdom,Shutdown,250
-706,44.33,4.733,France,Operational,915
-707,44.33,4.733,France,Operational,915
-708,44.331,4.733,France,Operational,915
-709,44.331,4.733,France,Operational,915
-710,40.699,-2.622,Spain,Operational,990
-712,46.04,-122.887,United States,Shutdown,1130
-713,35.672,136.079,Japan,Shutdown,341
-714,35.672,136.079,Japan,Suspended Operation,1115
-715,,,Japan,Planned,
-716,,,Japan,Planned,
-717,25.435,-80.33,United States,Operational,693
-718,25.435,-80.33,United States,Operational,693
-725,53.429,8.477,Germany,Shutdown,1230
-726,40.949,0.867,Spain,Shutdown,480
-727,40.949,0.867,Spain,Operational,930
-728,42.779,-72.514,United States,Shutdown,514
-729,55.6057,26.575842,Lithuania,Planned,
-730,55.6057,26.575842,Lithuania,Planned,
-731,33.143,-81.76,United States,Operational,1122
-732,33.143,-81.76,United States,Operational,1101
-733,33.1399,-81.7686,United States,Operational,1117
-734,33.1399,-81.7712,United States,Under Construction,1117
-735,29.994,-90.471,United States,Operational,1104
-736,35.601,-84.789,United States,Operational,1218
-737,35.601,-84.789,United States,Operational,1165
-738,54.426,-3.505,United Kingdom,Shutdown,32
-739,50.68,-2.272,United Kingdom,Shutdown,92
-740,38.239,-95.691,United States,Operational,1170
-741,35.71,129.476,South Korea,Shutdown,629
-742,35.71,129.476,South Korea,Operational,652
-743,35.71,129.476,South Korea,Operational,665
-744,35.71,129.476,South Korea,Operational,669
-745,35.7101,129.481,South Korea,Planned,
-746,35.7101,129.481,South Korea,Planned,
-747,51.639,9.393,Germany,Shutdown,640
-748,,,China,Planned,
-749,,,China,Planned,
-750,53.416,-4.48,United Kingdom,Shutdown,550
-751,53.416,-4.48,United Kingdom,Shutdown,550
-752,29.66,114.67,China,Planned,
-753,29.66,114.67,China,Planned,
-754,,,China,Planned,
-755,,,China,Planned,
-756,21.706,112.256,China,Operational,1021
-757,21.706,112.256,China,Operational,1000
-758,21.706,112.256,China,Operational,1000
-759,21.8575,111.9825,China,Operational,1000
-760,21.8575,111.9825,China,Operational,1021
-761,21.8575,111.9825,China,Operational,1000
-762,,,China,Planned,
-763,,,China,Planned,
-764,42.728,-72.929,United States,Shutdown,175
-771,47.508,34.627,Ukraine,Operational,950
-772,47.508,34.627,Ukraine,Operational,950
-773,47.508,34.627,Ukraine,Operational,950
-774,47.508,34.627,Ukraine,Operational,950
-775,47.508,34.627,Ukraine,Operational,950
-776,47.508,34.627,Ukraine,Operational,950
-777,23.829167,117.491667,China,Under Construction,1126
-778,42.446,-87.801,United States,Shutdown,1040
-779,42.446,-87.801,United States,Shutdown,1040
-780,21.6,108.3,China,Operational,1000
-781,23.952748,52.203298,United Arab Emirates,Under Construction,1310
-783,24.845,66.79,Pakistan,Operational,1017
-784,21.6,108.3,China,Under Construction,1000
-785,24.845,66.79,Pakistan,Operational,1014
-786,24.066667,89.047222,Bangladesh,Under Construction,1080
-787,51.674,35.607,Russia,Under Construction,1200
-788,24.066667,89.047222,Bangladesh,Under Construction,1080
-789,51.674,35.607,Russia,Under Construction,1200
-790,22.693056,114.983333,China,Under Construction,1116
-791,23.829167,117.491667,China,Under Construction,1126
-792,22.693056,114.983333,China,Under Construction,1116
-793,26.803611,120.155,China,Under Construction,642
-794,26.803611,120.155,China,Under Construction,600
-799,27.201487,120.517974,China,Under Construction,1117
-800,36.965556,122.52,China,Under Construction,1534
-801,36.965556,122.52,China,Under Construction,1534
-802,19.46075,108.899917,China,Under Construction,1000
-803,40.351389,120.545833,China,Planned,
-804,40.351389,120.545833,China,Planned,
-805,40.351389,120.545833,China,Under Construction,1200
-806,40.351389,120.545833,China,Under Construction,1200
-807,34.6828,119.456,China,Under Construction,1171
-808,34.6828,119.456,China,Under Construction,1171
-809,19.46075,108.899917,China,Under Construction,1000
-810,19.46007,108.88992,China,Under Construction,100
-811,,,China,Planned,
-812,,,China,Planned,
-813,,,China,Planned,
-814,,,China,Planned,
-815,56.637414,84.90451,Russia,Under Construction,300
-816,27.201487,120.517974,China,Under Construction,1117
-817,31.044167,28.497778,Egypt,Under Construction,1100
-818,31.044167,28.497778,Egypt,Under Construction,1100
-819,,,China,Under Construction,1116
+Latitude,Longitude,Country,Status,Capacity
+59.206,18.0829,Sweden,Shutdown,9
+69.709579,170.30625,Russia,Operational,30
+69.709579,170.30625,Russia,Operational,30
+,,Iran,Planned,
+,,Iran,Planned,
+36.144444,33.541111,Türkiye,Under Construction,1114
+36.144444,33.541111,Türkiye,Under Construction,1114
+36.144444,33.541111,Türkiye,Under Construction,1114
+36.144444,33.541111,Türkiye,Under Construction,1114
+43.607,51.283,Kazakhstan,Shutdown,52
+39.807,-5.698,Spain,Operational,900
+39.807,-5.698,Spain,Operational,900
+-23.008,-44.457,Brazil,Operational,609
+-23.008,-44.457,Brazil,Operational,1245
+-23.01,-44.47,Brazil,Under Construction,1340
+55.084,36.57,Russia,Shutdown,5
+35.31,-93.23,United States,Operational,850
+35.31,-93.229,United States,Operational,912
+40.182,44.147,Armenia,Shutdown,376
+40.182,44.147,Armenia,Operational,375
+40.1808,44.1472,Armenia,Planned,
+41.202,0.571,Spain,Operational,888
+41.202,0.571,Spain,Operational,888
+-33.967,-59.209,Argentina,Operational,319
+-33.967,-59.209,Argentina,Operational,692
+52.092,47.952,Russia,Operational,950
+52.092,47.952,Russia,Operational,950
+52.092,47.952,Russia,Operational,950
+52.092,47.952,Russia,Operational,950
+54.939,22.162,Russia,Under Construction,1109
+23.952748,52.193298,United Arab Emirates,Operational,1310
+23.952748,52.193298,United Arab Emirates,Operational,1310
+23.952748,52.203298,United Arab Emirates,Operational,1310
+,,India,Planned,
+,,India,Planned,
+55.745,12.926,Sweden,Shutdown,570
+55.745,12.926,Sweden,Shutdown,570
+40.624,-80.432,United States,Operational,835
+40.624,-80.432,United States,Operational,836
+54.766667,26.116667,Belarus,Operational,1110
+54.766667,26.116667,Belarus,Operational,1110
+47.511,2.871,France,Operational,1310
+47.511,2.871,France,Operational,1310
+56.842,61.321,Russia,Shutdown,102
+56.842,61.321,Russia,Shutdown,146
+56.842,61.321,Russia,Operational,560
+56.842,61.321,Russia,Operational,820
+56.842,61.321,Russia,Planned,
+51.692,-2.494,United Kingdom,Shutdown,138
+51.692,-2.494,United Kingdom,Shutdown,138
+47.552,8.229,Switzerland,Operational,350
+47.552,8.229,Switzerland,Operational,350
+49.709,8.415,Germany,Shutdown,1146
+49.709,8.415,Germany,Shutdown,1178
+45.359,-85.195,United States,Shutdown,72
+68.059,166.492,Russia,Shutdown,11
+68.059,166.492,Russia,Operational,11
+68.059,166.492,Russia,Operational,11
+68.059,166.492,Russia,Operational,11
+45.256,-0.691,France,Operational,910
+45.256,-0.691,France,Operational,910
+45.256,-0.691,France,Operational,910
+45.256,-0.691,France,Operational,910
+48.494,17.687,Slovakia,Shutdown,408
+48.494,17.687,Slovakia,Shutdown,408
+48.494,17.687,Slovakia,Operational,466
+48.494,17.687,Slovakia,Operational,466
+48.494,17.687,Slovakia,Shutdown,110
+18.365,-67.268,United States,Shutdown,17
+51.431,3.719,Netherlands,Operational,495
+51.217,5.099,Belgium,Shutdown,11
+51.742,0.899,United Kingdom,Shutdown,150
+51.742,0.899,United Kingdom,Shutdown,150
+41.247,-88.23,United States,Operational,1120
+41.247,-88.23,United States,Operational,1120
+53.85,9.345,Germany,Shutdown,1307
+34.704,-87.119,United States,Operational,1065
+34.704,-87.119,United States,Operational,1065
+34.704,-87.119,United States,Operational,1065
+44.341,-81.572,Canada,Operational,732
+44.341,-81.572,Canada,Operational,732
+44.341,-81.572,Canada,Operational,750
+44.341,-81.572,Canada,Operational,750
+44.341,-81.572,Canada,Operational,822
+44.341,-81.572,Canada,Operational,822
+44.341,-81.572,Canada,Operational,822
+44.341,-81.572,Canada,Operational,795
+53.891,9.202,Germany,Shutdown,770
+33.958,-78.007,United States,Operational,821
+33.958,-78.007,United States,Operational,821
+45.796,5.268,France,Shutdown,540
+45.796,5.268,France,Operational,920
+45.798,5.268,France,Operational,920
+45.8,5.267,France,Operational,900
+45.8,5.267,France,Operational,900
+28.831,50.887,Iran,Operational,915
+28.8287,50.8895,Iran,Under Construction,974
+28.8305,50.8872,Iran,Planned,
+28.8305,50.8872,Iran,Planned,
+42.074,-89.277,United States,Operational,1120
+42.074,-89.277,United States,Operational,1120
+54.42,-3.491,United Kingdom,Shutdown,35
+54.42,-3.491,United Kingdom,Shutdown,35
+54.42,-3.491,United Kingdom,Shutdown,35
+54.42,-3.491,United Kingdom,Shutdown,35
+38.763,-91.781,United States,Operational,1171
+38.435,-76.439,United States,Operational,845
+38.435,-76.439,United States,Operational,845
+45.072,9.872,Italy,Shutdown,840
+-33.966667,-59.211111,Argentina,Under Construction,25
+34.263,-81.33,United States,Shutdown,17
+35.053,-81.071,United States,Operational,1145
+35.053,-81.071,United States,Operational,1145
+49.416,6.217,France,Operational,1300
+49.416,6.217,France,Operational,1300
+49.416,6.217,France,Operational,1300
+49.416,6.217,France,Operational,1300
+39.739,116.03,China,Operational,20
+44.322,28.061,Romania,Operational,650
+44.322,28.061,Romania,Operational,650
+19.46075,108.899917,China,Operational,601
+19.46075,108.899917,China,Operational,601
+55.014,-3.223,United Kingdom,Shutdown,35
+55.014,-3.223,United Kingdom,Shutdown,35
+55.014,-3.223,United Kingdom,Shutdown,35
+55.014,-3.223,United Kingdom,Shutdown,35
+32.392,71.463,Pakistan,Operational,300
+32.392,71.463,Pakistan,Operational,300
+32.392,71.465,Pakistan,Operational,315
+32.391944,71.461667,Pakistan,Operational,313
+51.389,30.103,Ukraine,Shutdown,925
+51.389,30.103,Ukraine,Shutdown,925
+51.389,30.103,Ukraine,Shutdown,925
+51.389,30.103,Ukraine,Shutdown,925
+25.292,121.567,Taiwan,Shutdown,604
+25.292,121.567,Taiwan,Shutdown,604
+47.232,0.167,France,Shutdown,68
+47.232,0.167,France,Shutdown,170
+47.232,0.167,France,Shutdown,480
+47.232,0.167,France,Operational,870
+47.232,0.167,France,Operational,870
+47.232,0.167,France,Operational,905
+47.232,0.167,France,Operational,905
+50.086,4.792,France,Shutdown,280
+50.086,4.792,France,Operational,1455
+50.086,4.792,France,Operational,1455
+46.457,0.654,France,Operational,1450
+46.457,0.654,France,Operational,1450
+40.172,-88.834,United States,Operational,950
+39.216,-1.051,Spain,Operational,939
+46.471,-119.333,United States,Operational,1100
+32.301,-97.787,United States,Operational,1150
+32.301,-97.787,United States,Operational,1150
+40.361,-95.643,United States,Operational,778
+44.634,4.757,France,Operational,880
+44.634,4.757,France,Operational,915
+44.634,4.757,France,Operational,880
+44.634,4.757,France,Operational,880
+28.966,-82.697,United States,Shutdown,825
+47.732,2.513,France,Operational,890
+47.732,2.513,France,Operational,890
+47.732,2.513,France,Operational,890
+47.732,2.513,France,Operational,890
+43.867,-78.724,Canada,Operational,881
+43.867,-78.724,Canada,Operational,881
+43.867,-78.724,Canada,Operational,881
+43.867,-78.724,Canada,Operational,881
+43.8644,-78.7244,Canada,Planned,
+43.8633,-78.7244,Canada,Planned,
+41.597,-83.092,United States,Operational,906
+22.599,114.544,China,Operational,930
+22.599,114.544,China,Operational,930
+35.212,-120.854,United States,Operational,1084
+35.212,-120.854,United States,Operational,1106
+51.323,4.259,Belgium,Operational,392
+51.323,4.259,Belgium,Operational,445
+51.323,4.259,Belgium,Shutdown,890
+51.323,4.259,Belgium,Operational,1000
+41.975,-86.564,United States,Operational,1030
+41.975,-86.564,United States,Operational,1100
+44.326,-81.601,Canada,Shutdown,203
+58.577,-3.745,United Kingdom,Shutdown,14
+58.577,-3.745,United Kingdom,Shutdown,234
+41.353,-88.349,United States,Shutdown,192
+41.353,-88.349,United States,Operational,794
+41.353,-88.349,United States,Operational,794
+42.101,-91.776,United States,Shutdown,601
+49.089,16.149,Czechia,Operational,420
+49.089,16.149,Czechia,Operational,420
+49.089,16.149,Czechia,Operational,420
+49.089,16.149,Czechia,Operational,420
+50.914,0.962,United Kingdom,Shutdown,275
+50.914,0.962,United Kingdom,Shutdown,275
+50.914,0.962,United Kingdom,Shutdown,607
+50.914,0.962,United Kingdom,Shutdown,607
+31.044167,28.497778,Egypt,Under Construction,1100
+48.35,-3.866667,France,Shutdown,70
+45.297,-93.557,United States,Shutdown,22
+-32.232,-64.442,Argentina,Operational,608
+52.471,7.322,Germany,Shutdown,1242
+45.183333,8.283333,Italy,Shutdown,247
+41.96,-83.257,United States,Shutdown,60
+41.96,-83.257,United States,Operational,1093
+21.6,108.3,China,Operational,1000
+21.6,108.3,China,Operational,1000
+30.416,120.951,China,Operational,1000
+30.416,120.951,China,Operational,1000
+31.223,-85.115,United States,Operational,829
+31.223,-85.115,United States,Operational,829
+47.903,7.564,France,Shutdown,880
+47.903,7.564,France,Shutdown,880
+43.521,-76.403,United States,Operational,821
+49.537,-1.881,France,Operational,1330
+49.537,-1.881,France,Operational,1330
+49.537,-1.881,France,Under Construction,1630
+60.405,18.168,Sweden,Operational,900
+60.405,18.168,Sweden,Operational,900
+60.405,18.168,Sweden,Operational,1050
+41.52,-96.076,United States,Shutdown,478
+40.244,-104.874,United States,Shutdown,330
+35.751,136.02,Japan,Shutdown,148
+37.423,141.032,Japan,Shutdown,439
+37.423,141.032,Japan,Shutdown,760
+37.423,141.032,Japan,Shutdown,760
+37.423,141.032,Japan,Shutdown,760
+37.423,141.032,Japan,Shutdown,760
+37.423,141.032,Japan,Shutdown,1067
+37.315,141.024,Japan,Shutdown,1067
+37.315,141.024,Japan,Shutdown,1067
+37.315,141.024,Japan,Shutdown,1067
+37.315,141.024,Japan,Shutdown,1067
+25.443,119.453,China,Operational,1000
+25.443,119.453,China,Operational,1000
+25.720278,119.383889,China,Operational,1000
+25.720278,119.383889,China,Operational,1000
+25.720278,119.383889,China,Operational,1075
+25.720278,119.383889,China,Operational,1075
+44.142,4.713,France,Shutdown,36
+44.142,4.713,France,Shutdown,36
+41.258,13.835,Italy,Shutdown,150
+37.613056,-121.84,United States,Shutdown,24
+33.518,129.837,Japan,Shutdown,529
+33.518,129.837,Japan,Shutdown,529
+33.518,129.837,Japan,Operational,1127
+33.518,129.837,Japan,Operational,1127
+46.395,-72.357,Canada,Shutdown,250
+46.395,-72.357,Canada,Shutdown,645
+51.899,5.687,Netherlands,Shutdown,54
+47.366,7.969,Switzerland,Operational,920
+44.105,0.845,France,Operational,1310
+44.105,0.845,France,Operational,1310
+49.984,10.186,Germany,Shutdown,1225
+32.007,-91.045,United States,Operational,1250
+51.014,2.138,France,Operational,910
+51.014,2.138,France,Operational,910
+51.014,2.138,France,Operational,910
+51.014,2.138,France,Operational,910
+51.014,2.138,France,Operational,910
+51.014,2.138,France,Operational,910
+54.143,13.668,Germany,Shutdown,440
+54.143,13.668,Germany,Shutdown,408
+54.143,13.668,Germany,Shutdown,408
+54.143,13.668,Germany,Shutdown,408
+54.143,13.668,Germany,Shutdown,408
+52.033,9.412,Germany,Shutdown,1289
+50.055,8.985,Germany,Decommissioning Completed,23
+48.513,10.401,Germany,Shutdown,237
+48.513,10.401,Germany,Shutdown,1244
+48.513,10.401,Germany,Shutdown,1249
+34.402,-80.158,United States,Operational,700
+41.483,-72.5,United States,Shutdown,582
+36.704,121.382,China,Operational,1126
+36.704,121.382,China,Operational,1126
+36.704,121.382,China,Under Construction,1161
+36.704,121.382,China,Under Construction,1161
+40.559,-96.785,United States,Shutdown,75
+34.621,138.141,Japan,Shutdown,516
+34.621,138.141,Japan,Shutdown,814
+34.621,138.141,Japan,Suspended Operation,1056
+34.621,138.141,Japan,Suspended Operation,1092
+34.621,138.141,Japan,Suspended Operation,1325
+34.621,138.141,Japan,Planned,
+35.405,126.41,South Korea,Operational,903
+35.405,126.41,South Korea,Operational,903
+35.405,126.41,South Korea,Operational,950
+35.405,126.41,South Korea,Operational,950
+35.405,126.41,South Korea,Operational,950
+35.405,126.41,South Korea,Operational,993
+37.09,129.384444,South Korea,Operational,903
+37.09,129.384444,South Korea,Operational,903
+37.09,129.384444,South Korea,Operational,997
+37.09,129.384444,South Korea,Operational,950
+37.09,129.384444,South Korea,Operational,950
+37.09,129.384444,South Korea,Operational,950
+54.634,-1.18,United Kingdom,Operational,590
+54.634,-1.18,United Kingdom,Operational,595
+31.935,-82.346,United States,Operational,777
+31.935,-82.346,United States,Operational,784
+54.029,-2.912,United Kingdom,Operational,611
+54.029,-2.912,United Kingdom,Operational,611
+54.029,-2.912,United Kingdom,Operational,615
+54.029,-2.912,United Kingdom,Operational,615
+41.188,141.393,Japan,Suspended Operation,1067
+41.1856,141.388,Japan,Planned,
+41.1856,141.39,Japan,Planned,
+41.1856,141.389,Japan,Planned,
+51.209,-3.131,United Kingdom,Shutdown,250
+51.209,-3.131,United Kingdom,Shutdown,250
+51.209,-3.131,United Kingdom,Shutdown,625
+51.209,-3.131,United Kingdom,Shutdown,625
+51.2087,-3.1305,United Kingdom,Under Construction,1630
+51.2087,-3.1305,United Kingdom,Under Construction,1630
+,,China,Planned,
+,,China,Planned,
+39.797,121.4765,China,Operational,1061
+39.797,121.4765,China,Operational,1061
+39.797,121.4765,China,Operational,1061
+39.797,121.4765,China,Operational,1061
+39.797,121.4831,China,Operational,1061
+39.797,121.4831,China,Operational,1061
+39.467,-75.535,United States,Operational,1067
+40.741,-124.21,United States,Shutdown,65
+55.722,-4.893,United Kingdom,Shutdown,150
+55.722,-4.893,United Kingdom,Shutdown,150
+55.722,-4.893,United Kingdom,Shutdown,624
+55.722,-4.893,United Kingdom,Shutdown,624
+55.604,26.562,Lithuania,Shutdown,1500
+55.604,26.562,Lithuania,Shutdown,1500
+33.491,132.309,Japan,Shutdown,538
+33.491,132.309,Japan,Shutdown,538
+33.491,132.309,Japan,Operational,846
+41.27,-73.95,United States,Shutdown,265
+41.27,-73.95,United States,Shutdown,873
+41.27,-73.95,United States,Shutdown,965
+48.607,12.296,Germany,Shutdown,870
+48.607,12.296,Germany,Shutdown,1285
+16.595278,73.341111,India,Planned,
+16.595278,73.341111,India,Planned,
+,,Indonesia,Planned,
+40.362,-2.818,Spain,Shutdown,153
+36.4625,140.61,Japan,Shutdown,10
+50.903,6.421,Germany,Shutdown,13
+50.059,8.987,Germany,Decommissioning Completed,15
+14.865,74.438,India,Operational,202
+14.865,74.438,India,Operational,202
+14.865,74.438,India,Operational,202
+14.865,74.438,India,Operational,202
+14.868,74.4418,India,Planned,
+14.868,74.4422,India,Planned,
+21.236,73.351,India,Operational,202
+21.236,73.351,India,Operational,202
+21.236,73.351,India,Operational,630
+21.236,73.351,India,Under Construction,630
+57.903,35.057,Russia,Operational,950
+57.903,35.057,Russia,Operational,950
+57.903,35.057,Russia,Operational,950
+57.903,35.057,Russia,Operational,950
+12.553,80.174,India,Under Construction,470
+12.553,80.174,India,Suspended Operation,202
+12.553,80.174,India,Operational,202
+,,Japan,Planned,
+,,Japan,Planned,
+24.845,66.79,Pakistan,Shutdown,125
+49.104,8.432,Germany,Shutdown,50
+37.434,138.598,Japan,Suspended Operation,1067
+37.434,138.598,Japan,Suspended Operation,1067
+37.434,138.598,Japan,Suspended Operation,1067
+37.434,138.598,Japan,Suspended Operation,1067
+37.434,138.598,Japan,Suspended Operation,1067
+37.434,138.598,Japan,Suspended Operation,1315
+37.434,138.598,Japan,Suspended Operation,1315
+44.47,-87.498,United States,Shutdown,535
+50.301,26.649,Ukraine,Operational,950
+50.301,26.649,Ukraine,Operational,950
+50.303056,26.642778,Ukraine,Under Construction,1035
+50.303056,26.642778,Ukraine,Under Construction,1035
+49.098,8.441,Germany,Shutdown,18
+-33.677,18.433,South Africa,Operational,921
+-33.677,18.433,South Africa,Operational,921
+67.467,32.491,Russia,Operational,411
+67.467,32.491,Russia,Operational,411
+67.467,32.491,Russia,Operational,411
+67.467,32.491,Russia,Operational,411
+35.321,129.295,South Korea,Shutdown,558
+35.321,129.295,South Korea,Operational,618
+35.321,129.295,South Korea,Operational,1001
+35.321,129.295,South Korea,Operational,1012
+43.744,23.776,Bulgaria,Shutdown,408
+43.744,23.776,Bulgaria,Shutdown,408
+43.744,23.776,Bulgaria,Shutdown,408
+43.744,23.776,Bulgaria,Shutdown,408
+43.744,23.776,Bulgaria,Operational,953
+43.744,23.776,Bulgaria,Operational,1003
+45.939,15.516,Slovenia,Operational,632
+53.41,10.41,Germany,Shutdown,1260
+8.167,77.713,India,Operational,917
+8.167,77.713,India,Operational,917
+8.16705,77.708,India,Under Construction,917
+8.16666,77.708,India,Under Construction,917
+8.16627,77.708,India,Under Construction,917
+8.16588,77.708,India,Under Construction,917
+,,India,Planned,
+,,India,Planned,
+,,India,Planned,
+,,India,Planned,
+25.203,121.662,Taiwan,Shutdown,948
+25.203,121.662,Taiwan,Shutdown,948
+51.674,35.607,Russia,Shutdown,925
+51.674,35.607,Russia,Operational,925
+51.674,35.607,Russia,Operational,925
+51.674,35.607,Russia,Operational,925
+43.559,-91.23,United States,Shutdown,50
+19.719,-96.405,Mexico,Operational,780
+19.719,-96.405,Mexico,Operational,780
+41.246,-88.672,United States,Operational,1078
+41.246,-88.672,United States,Operational,1078
+41.427,12.808,Italy,Shutdown,200
+47.601,8.183,Switzerland,Operational,960
+59.837,29.039,Russia,Operational,1066
+59.837,29.039,Russia,Operational,1066
+59.837,29.039,Russia,Planned,1085
+59.837,29.039,Russia,Planned,1085
+59.837,29.039,Russia,Shutdown,925
+59.837,29.039,Russia,Shutdown,925
+59.837,29.039,Russia,Operational,925
+59.837,29.039,Russia,Operational,925
+,,China,Planned,
+,,China,Planned,
+40.225,-75.584,United States,Operational,1055
+40.225,-75.584,United States,Operational,1055
+22.606,114.55,China,Operational,950
+22.606,114.55,China,Operational,950
+22.609,114.552,China,Operational,1007
+22.609,114.552,China,Operational,1007
+52.483,7.302,Germany,Shutdown,183
+,,China,Planned,
+,,China,Planned,
+60.372,26.342,Finland,Operational,420
+60.372,26.342,Finland,Operational,420
+46.693,6.827,Switzerland,Shutdown,6
+25.038,121.924,Taiwan,Operational,936
+25.038,121.924,Taiwan,Operational,938
+43.951,-69.695,United States,Shutdown,825
+35.433,-80.946,United States,Operational,1180
+35.433,-80.946,United States,Operational,1180
+35.701,135.962,Japan,Shutdown,320
+35.701,135.962,Japan,Shutdown,470
+35.701,135.962,Japan,Operational,780
+41.312,-72.166,United States,Shutdown,660
+41.312,-72.166,United States,Operational,870
+41.312,-72.166,United States,Operational,1159
+48.261,18.455,Slovakia,Operational,408
+48.261,18.455,Slovakia,Operational,408
+48.261,18.455,Slovakia,Operational,440
+48.261,18.455,Slovakia,Under Construction,440
+35.739,135.988,Japan,Shutdown,246
+45.334,-93.85,United States,Operational,545
+46.969,7.266,Switzerland,Shutdown,306
+50.409,7.485,Germany,Shutdown,1219
+28.156,78.409,India,Operational,202
+28.155,78.409,India,Operational,202
+49.039,9.176,Germany,Shutdown,805
+49.039,9.176,Germany,Shutdown,1225
+48.604,12.304,Germany,Decommissioning Completed,100
+43.522,-76.412,United States,Operational,620
+43.522,-76.412,United States,Operational,1100
+27.046,120.287,China,Operational,1018
+27.046,120.287,China,Operational,1018
+27.046,120.287,China,Operational,1018
+27.046,120.287,China,Operational,1018
+27.046,120.287,China,Planned,
+27.046,120.287,China,Planned,
+55.786863,42.37215,Russia,Planned,
+55.787102,42.37215,Russia,Planned,
+48.517,3.52,France,Operational,1310
+48.517,3.52,France,Operational,1310
+38.061,-77.792,United States,Operational,907
+38.061,-77.792,United States,Operational,907
+51.273,39.197,Russia,Operational,1114
+51.273,39.197,Russia,Operational,1114
+51.275,39.206,Russia,Shutdown,197
+51.275,39.206,Russia,Shutdown,336
+51.275,39.206,Russia,Shutdown,385
+51.275,39.206,Russia,Operational,385
+52.381,39.211,Russia,Operational,950
+49.365,9.077,Germany,Shutdown,283
+34.796,-82.894,United States,Operational,887
+34.796,-82.894,United States,Operational,887
+34.796,-82.894,United States,Operational,887
+35.544,135.652,Japan,Shutdown,1120
+35.544,135.652,Japan,Shutdown,1120
+35.544,135.652,Japan,Operational,1127
+35.544,135.652,Japan,Operational,1127
+41.507,140.909,Japan,Under Construction,1328
+51.649,-2.567,United Kingdom,Shutdown,300
+51.649,-2.567,United Kingdom,Shutdown,300
+61.235,21.444,Finland,Operational,660
+61.235,21.444,Finland,Operational,660
+61.234,21.435,Finland,Operational,1600
+61.234352,21.436287,Finland,Planned,
+38.4,141.504,Japan,Shutdown,498
+38.4,141.504,Japan,Suspended Operation,796
+38.4,141.504,Japan,Suspended Operation,796
+57.415,16.666,Sweden,Shutdown,440
+57.415,16.666,Sweden,Shutdown,580
+57.415,16.666,Sweden,Operational,1050
+39.815,-74.208,United States,Shutdown,650
+46.574,18.855,Hungary,Operational,408
+46.574,18.855,Hungary,Operational,410
+46.574,18.855,Hungary,Operational,410
+46.574,18.855,Hungary,Operational,410
+42.323,-86.316,United States,Shutdown,805
+33.387,-112.863,United States,Operational,1221
+33.387,-112.863,United States,Operational,1304
+33.387,-112.863,United States,Operational,1304
+49.857,0.635,France,Operational,1330
+49.857,0.635,France,Operational,1330
+49.857,0.635,France,Operational,1330
+49.857,0.635,France,Operational,1330
+43.603,-96.636,United States,Shutdown,59
+39.759,-76.27,United States,Shutdown,40
+39.759,-76.27,United States,Operational,1065
+39.759,-76.27,United States,Operational,1065
+,,China,Planned,
+,,China,Planned,
+49.975,1.215,France,Operational,1330
+49.975,1.215,France,Operational,1330
+49.977611,1.21409,France,Planned,
+41.801,-81.147,United States,Operational,1205
+44.142,4.712,France,Shutdown,233
+49.253,8.432,Germany,Shutdown,864
+49.253,8.432,Germany,Shutdown,1268
+43.812,-79.07,Canada,Operational,508
+43.812,-79.07,Canada,Shutdown,508
+43.812,-79.07,Canada,Shutdown,508
+43.812,-79.07,Canada,Operational,508
+43.812,-79.07,Canada,Operational,516
+43.812,-79.07,Canada,Operational,516
+43.812,-79.07,Canada,Operational,516
+43.812,-79.07,Canada,Operational,516
+41.945,-70.578,United States,Shutdown,655
+40.132222,-84.234722,United States,Shutdown,11
+44.282,-87.534,United States,Operational,497
+44.282,-87.534,United States,Operational,497
+45.068,-66.455,Canada,Operational,660
+45.068,-66.4546,Canada,Planned,
+44.622,-92.631,United States,Operational,530
+44.622,-92.631,United States,Operational,530
+30.44,120.95,China,Operational,289
+30.44,120.95,China,Operational,610
+30.44,120.95,China,Operational,610
+30.44,120.95,China,Operational,619
+30.44,120.95,China,Operational,619
+30.44,120.95,China,Operational,677
+30.44,120.95,China,Operational,677
+41.727,-90.308,United States,Operational,789
+41.727,-90.308,United States,Operational,789
+43.279,-77.311,United States,Operational,470
+24.876,75.608,India,Suspended Operation,207
+24.876,75.608,India,Operational,207
+24.876,75.608,India,Operational,202
+24.876,75.608,India,Operational,202
+24.876,75.608,India,Operational,202
+24.876,75.608,India,Operational,202
+24.876,75.608,India,Under Construction,630
+24.876,75.608,India,Under Construction,630
+38.345,-121.12,United States,Shutdown,918
+53.147,12.991,Germany,Shutdown,62
+57.259,12.111,Sweden,Shutdown,881
+57.259,12.111,Sweden,Shutdown,820
+57.259,12.111,Sweden,Operational,915
+57.259,12.111,Sweden,Operational,1130
+30.727,-91.372,United States,Operational,966
+46.201,-77.705,Canada,Shutdown,17
+47.599,42.373,Russia,Operational,950
+47.599,42.373,Russia,Operational,950
+47.599,42.373,Russia,Operational,950
+47.599,42.373,Russia,Operational,950
+51.326,25.9,Ukraine,Operational,361
+51.326,25.9,Ukraine,Operational,384
+51.326,25.9,Ukraine,Operational,950
+51.326,25.9,Ukraine,Operational,950
+39.463,-75.534,United States,Operational,1090
+39.463,-75.534,United States,Operational,1115
+33.368,-117.556,United States,Shutdown,436
+33.368,-117.556,United States,Shutdown,1070
+33.368,-117.556,United States,Shutdown,1070
+29.101,121.642,China,Operational,1157
+29.101,121.642,China,Operational,1157
+29.101111,121.651944,China,Under Construction,1163
+29.101111,121.656944,China,Under Construction,1163
+,,China,Planned,
+,,China,Planned,
+42.775,-3.205,Spain,Shutdown,440
+40.226944,-78.241944,United States,Shutdown,3
+42.897,-70.849,United States,Operational,1149
+31.834,130.193,Japan,Operational,846
+31.834,130.193,Japan,Operational,846
+,,Japan,Planned,
+35.228,-85.094,United States,Operational,1148
+35.228,-85.094,United States,Operational,1148
+,,China,Planned,
+,,China,Planned,
+,,China,Planned,
+,,China,Planned,
+,,China,Planned,
+35.635,-78.955,United States,Operational,900
+36.979167,122.530556,China,Operational,200
+37.061,136.728,Japan,Suspended Operation,505
+37.061,136.728,Japan,Suspended Operation,1304
+35.537,132.999,Japan,Shutdown,439
+35.537,132.999,Japan,Suspended Operation,789
+35.537,132.999,Japan,Under Construction,1325
+35.722,129.479,South Korea,Operational,950
+35.722,129.479,South Korea,Operational,950
+37.083889,129.391667,South Korea,Operational,1340
+37.083889,129.391667,South Korea,Under Construction,1340
+35.327,129.302,South Korea,Operational,998
+35.327,129.302,South Korea,Operational,995
+35.327,129.302,South Korea,Operational,1340
+35.327,129.302,South Korea,Operational,1340
+35.327,129.302,South Korea,Under Construction,1340
+35.327,129.302,South Korea,Under Construction,1340
+40.63,-80.417778,United States,Shutdown,60
+40.96,-72.866,United States,Shutdown,809
+42,35,Türkiye,Planned,
+42,35,Türkiye,Planned,
+42,35,Türkiye,Planned,
+42,35,Türkiye,Planned,
+52.212,1.621,United Kingdom,Shutdown,290
+52.212,1.621,United Kingdom,Shutdown,290
+52.212,1.621,United Kingdom,Operational,1188
+52.21939,1.6228,United Kingdom,Planned,
+52.21939,1.6238,United Kingdom,Planned,
+54.169,33.245,Russia,Operational,925
+54.169,33.245,Russia,Operational,925
+54.169,33.245,Russia,Operational,925
+28.797,-96.044,United States,Operational,1250
+28.796,-96.044,United States,Operational,1250
+47.811,31.22,Ukraine,Operational,950
+47.811,31.22,Ukraine,Operational,950
+47.811,31.22,Ukraine,Operational,950
+45.404,4.754,France,Operational,1335
+45.404,4.754,France,Operational,1335
+47.724,1.582,France,Shutdown,480
+47.724,1.582,France,Shutdown,515
+47.724,1.582,France,Operational,915
+47.72,1.581,France,Operational,880
+27.348,-80.244,United States,Operational,830
+27.348,-80.244,United States,Operational,830
+53.62,9.53,Germany,Shutdown,630
+34.299,-81.314,United States,Operational,900
+45.76,5.474,France,Shutdown,1200
+37.166,-76.7,United States,Operational,788
+37.166,-76.7,United States,Operational,788
+41.093,-76.143,United States,Operational,1065
+41.093,-76.143,United States,Operational,1065
+21.917778,112.981944,China,Operational,1660
+21.917778,112.981944,China,Operational,1660
+35.52,135.503,Japan,Suspended Operation,780
+35.52,135.503,Japan,Suspended Operation,780
+35.52,135.503,Japan,Operational,830
+35.52,135.503,Japan,Operational,830
+,,China,Planned,
+,,China,Planned,
+,,China,Planned,
+,,China,Planned,
+19.834,72.657,India,Suspended Operation,200
+19.834,72.657,India,Suspended Operation,200
+19.834,72.657,India,Operational,502
+19.834,72.657,India,Operational,502
+49.181,14.377,Czechia,Operational,1027
+49.181,14.377,Czechia,Operational,1029
+40.154,-76.727,United States,Shutdown,819
+40.154,-76.727,United States,Shutdown,906
+51.68,7.972,Germany,Shutdown,296
+34.69,119.456,China,Operational,990
+34.69,119.456,China,Operational,990
+34.6868,119.456,China,Operational,1060
+34.6858,119.456,China,Operational,1060
+34.6838,119.456,China,Operational,1000
+34.6828,119.456,China,Operational,1000
+50.533,5.271,Belgium,Operational,870
+50.533,5.271,Belgium,Shutdown,900
+50.533,5.271,Belgium,Operational,1020
+36.466,140.612,Japan,Shutdown,159
+36.466,140.612,Japan,Suspended Operation,1056
+43.038,140.515,Japan,Suspended Operation,550
+43.038,140.515,Japan,Suspended Operation,550
+43.038,140.515,Japan,Suspended Operation,866
+55.966,-2.399,United Kingdom,Operational,645
+55.966,-2.399,United Kingdom,Operational,645
+52.923,-3.947,United Kingdom,Shutdown,250
+52.922,-3.947,United Kingdom,Shutdown,250
+44.33,4.733,France,Operational,915
+44.33,4.733,France,Operational,915
+44.331,4.733,France,Operational,915
+44.331,4.733,France,Operational,915
+40.699,-2.622,Spain,Operational,990
+46.04,-122.887,United States,Shutdown,1130
+35.672,136.079,Japan,Shutdown,341
+35.672,136.079,Japan,Suspended Operation,1115
+,,Japan,Planned,
+,,Japan,Planned,
+25.435,-80.33,United States,Operational,693
+25.435,-80.33,United States,Operational,693
+53.429,8.477,Germany,Shutdown,1230
+40.949,0.867,Spain,Shutdown,480
+40.949,0.867,Spain,Operational,930
+42.779,-72.514,United States,Shutdown,514
+55.6057,26.575842,Lithuania,Planned,
+55.6057,26.575842,Lithuania,Planned,
+33.143,-81.76,United States,Operational,1122
+33.143,-81.76,United States,Operational,1101
+33.1399,-81.7686,United States,Operational,1117
+33.1399,-81.7712,United States,Under Construction,1117
+29.994,-90.471,United States,Operational,1104
+35.601,-84.789,United States,Operational,1218
+35.601,-84.789,United States,Operational,1165
+54.426,-3.505,United Kingdom,Shutdown,32
+50.68,-2.272,United Kingdom,Shutdown,92
+38.239,-95.691,United States,Operational,1170
+35.71,129.476,South Korea,Shutdown,629
+35.71,129.476,South Korea,Operational,652
+35.71,129.476,South Korea,Operational,665
+35.71,129.476,South Korea,Operational,669
+35.7101,129.481,South Korea,Planned,
+35.7101,129.481,South Korea,Planned,
+51.639,9.393,Germany,Shutdown,640
+,,China,Planned,
+,,China,Planned,
+53.416,-4.48,United Kingdom,Shutdown,550
+53.416,-4.48,United Kingdom,Shutdown,550
+29.66,114.67,China,Planned,
+29.66,114.67,China,Planned,
+,,China,Planned,
+,,China,Planned,
+21.706,112.256,China,Operational,1021
+21.706,112.256,China,Operational,1000
+21.706,112.256,China,Operational,1000
+21.8575,111.9825,China,Operational,1000
+21.8575,111.9825,China,Operational,1021
+21.8575,111.9825,China,Operational,1000
+,,China,Planned,
+,,China,Planned,
+42.728,-72.929,United States,Shutdown,175
+47.508,34.627,Ukraine,Operational,950
+47.508,34.627,Ukraine,Operational,950
+47.508,34.627,Ukraine,Operational,950
+47.508,34.627,Ukraine,Operational,950
+47.508,34.627,Ukraine,Operational,950
+47.508,34.627,Ukraine,Operational,950
+23.829167,117.491667,China,Under Construction,1126
+42.446,-87.801,United States,Shutdown,1040
+42.446,-87.801,United States,Shutdown,1040
+21.6,108.3,China,Operational,1000
+23.952748,52.203298,United Arab Emirates,Under Construction,1310
+24.845,66.79,Pakistan,Operational,1017
+21.6,108.3,China,Under Construction,1000
+24.845,66.79,Pakistan,Operational,1014
+24.066667,89.047222,Bangladesh,Under Construction,1080
+51.674,35.607,Russia,Under Construction,1200
+24.066667,89.047222,Bangladesh,Under Construction,1080
+51.674,35.607,Russia,Under Construction,1200
+22.693056,114.983333,China,Under Construction,1116
+23.829167,117.491667,China,Under Construction,1126
+22.693056,114.983333,China,Under Construction,1116
+26.803611,120.155,China,Under Construction,642
+26.803611,120.155,China,Under Construction,600
+27.201487,120.517974,China,Under Construction,1117
+36.965556,122.52,China,Under Construction,1534
+36.965556,122.52,China,Under Construction,1534
+19.46075,108.899917,China,Under Construction,1000
+40.351389,120.545833,China,Planned,
+40.351389,120.545833,China,Planned,
+40.351389,120.545833,China,Under Construction,1200
+40.351389,120.545833,China,Under Construction,1200
+34.6828,119.456,China,Under Construction,1171
+34.6828,119.456,China,Under Construction,1171
+19.46075,108.899917,China,Under Construction,1000
+19.46007,108.88992,China,Under Construction,100
+,,China,Planned,
+,,China,Planned,
+,,China,Planned,
+,,China,Planned,
+56.637414,84.90451,Russia,Under Construction,300
+27.201487,120.517974,China,Under Construction,1117
+31.044167,28.497778,Egypt,Under Construction,1100
+31.044167,28.497778,Egypt,Under Construction,1100
+,,China,Under Construction,1116
