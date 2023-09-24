@@ -40,8 +40,6 @@ Id,Latitude,Longitude,Country,Status,Capacity
 39,40.624,-80.432,United States,Operational,836
 40,54.766667,26.116667,Belarus,Operational,1110
 41,54.766667,26.116667,Belarus,Operational,1110
-42,43.62453,25.18675,Bulgaria,Cancelled Construction,953
-43,43.62453,25.1865,Bulgaria,Cancelled Construction,953
 44,47.511,2.871,France,Operational,1310
 45,47.511,2.871,France,Operational,1310
 46,56.842,61.321,Russia,Shutdown,102
@@ -121,7 +119,6 @@ Id,Latitude,Longitude,Country,Status,Capacity
 121,39.739,116.03,China,Operational,20
 122,44.322,28.061,Romania,Operational,650
 123,44.322,28.061,Romania,Operational,650
-124,44.322,28.061,Romania,Suspended Construction,655
 125,19.46075,108.899917,China,Operational,601
 126,19.46075,108.899917,China,Operational,601
 127,55.014,-3.223,United Kingdom,Shutdown,35
@@ -165,7 +162,6 @@ Id,Latitude,Longitude,Country,Status,Capacity
 165,47.732,2.513,France,Operational,890
 166,47.732,2.513,France,Operational,890
 167,47.732,2.513,France,Operational,890
-168,30.707778,48.38,Iran,Unknown,
 169,43.867,-78.724,Canada,Operational,881
 170,43.867,-78.724,Canada,Operational,881
 171,43.867,-78.724,Canada,Operational,881
@@ -331,7 +327,6 @@ Id,Latitude,Longitude,Country,Status,Capacity
 331,55.722,-4.893,United Kingdom,Shutdown,624
 332,55.604,26.562,Lithuania,Shutdown,1500
 333,55.604,26.562,Lithuania,Shutdown,1500
-334,55.604,26.562,Lithuania,Cancelled Construction,1380
 335,33.491,132.309,Japan,Shutdown,538
 336,33.491,132.309,Japan,Shutdown,538
 337,33.491,132.309,Japan,Operational,846
@@ -444,8 +439,6 @@ Id,Latitude,Longitude,Country,Status,Capacity
 444,60.372,26.342,Finland,Operational,420
 445,60.372,26.342,Finland,Operational,420
 446,46.693,6.827,Switzerland,Shutdown,6
-447,25.038,121.924,Taiwan,Suspended Construction,1300
-448,25.038,121.924,Taiwan,Suspended Construction,1300
 449,25.038,121.924,Taiwan,Operational,936
 450,25.038,121.924,Taiwan,Operational,938
 451,43.951,-69.695,United States,Shutdown,825
@@ -658,8 +651,6 @@ Id,Latitude,Longitude,Country,Status,Capacity
 659,27.348,-80.244,United States,Operational,830
 660,53.62,9.53,Germany,Shutdown,630
 661,34.299,-81.314,United States,Operational,900
-662,34.295833,-81.320278,United States,Suspended Construction,1117
-663,34.295833,-81.320278,United States,Suspended Construction,1117
 664,45.76,5.474,France,Shutdown,1200
 665,37.166,-76.7,United States,Operational,788
 666,37.166,-76.7,United States,Operational,788
@@ -777,10 +768,6 @@ Id,Latitude,Longitude,Country,Status,Capacity
 792,22.693056,114.983333,China,Under Construction,1116
 793,26.803611,120.155,China,Under Construction,642
 794,26.803611,120.155,China,Under Construction,600
-795,44.322,28.061,Romania,Suspended Construction,655
-796,44.322,28.061,Romania,Cancelled Construction,655
-797,48.3544,15.8847,Austria,Never Commissioned,692
-798,51.763056,6.326944,Germany,Never Commissioned,295
 799,27.201487,120.517974,China,Under Construction,1117
 800,36.965556,122.52,China,Under Construction,1534
 801,36.965556,122.52,China,Under Construction,1534
