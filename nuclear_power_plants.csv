@@ -2,8 +2,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 59.206,18.0829,Sweden,Shutdown,9
 69.709579,170.30625,Russia,Operational,30
 69.709579,170.30625,Russia,Operational,30
-,,Iran,Planned,
-,,Iran,Planned,
 36.144444,33.541111,Türkiye,Under Construction,1114
 36.144444,33.541111,Türkiye,Under Construction,1114
 36.144444,33.541111,Türkiye,Under Construction,1114
@@ -32,8 +30,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 23.952748,52.193298,United Arab Emirates,Operational,1310
 23.952748,52.193298,United Arab Emirates,Operational,1310
 23.952748,52.203298,United Arab Emirates,Operational,1310
-,,India,Planned,
-,,India,Planned,
 55.745,12.926,Sweden,Shutdown,570
 55.745,12.926,Sweden,Shutdown,570
 40.624,-80.432,United States,Operational,835
@@ -311,8 +307,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 51.209,-3.131,United Kingdom,Shutdown,625
 51.2087,-3.1305,United Kingdom,Under Construction,1630
 51.2087,-3.1305,United Kingdom,Under Construction,1630
-,,China,Planned,
-,,China,Planned,
 39.797,121.4765,China,Operational,1061
 39.797,121.4765,China,Operational,1061
 39.797,121.4765,China,Operational,1061
@@ -337,7 +331,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 48.607,12.296,Germany,Shutdown,1285
 16.595278,73.341111,India,Planned,
 16.595278,73.341111,India,Planned,
-,,Indonesia,Planned,
 40.362,-2.818,Spain,Shutdown,153
 36.4625,140.61,Japan,Shutdown,10
 50.903,6.421,Germany,Shutdown,13
@@ -359,8 +352,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 12.553,80.174,India,Under Construction,470
 12.553,80.174,India,Suspended Operation,202
 12.553,80.174,India,Operational,202
-,,Japan,Planned,
-,,Japan,Planned,
 24.845,66.79,Pakistan,Shutdown,125
 49.104,8.432,Germany,Shutdown,50
 37.434,138.598,Japan,Suspended Operation,1067
@@ -400,10 +391,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 8.16666,77.708,India,Under Construction,917
 8.16627,77.708,India,Under Construction,917
 8.16588,77.708,India,Under Construction,917
-,,India,Planned,
-,,India,Planned,
-,,India,Planned,
-,,India,Planned,
 25.203,121.662,Taiwan,Shutdown,948
 25.203,121.662,Taiwan,Shutdown,948
 51.674,35.607,Russia,Shutdown,925
@@ -425,8 +412,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 59.837,29.039,Russia,Shutdown,925
 59.837,29.039,Russia,Operational,925
 59.837,29.039,Russia,Operational,925
-,,China,Planned,
-,,China,Planned,
 40.225,-75.584,United States,Operational,1055
 40.225,-75.584,United States,Operational,1055
 22.606,114.55,China,Operational,950
@@ -434,8 +419,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 22.609,114.552,China,Operational,1007
 22.609,114.552,China,Operational,1007
 52.483,7.302,Germany,Shutdown,183
-,,China,Planned,
-,,China,Planned,
 60.372,26.342,Finland,Operational,420
 60.372,26.342,Finland,Operational,420
 46.693,6.827,Switzerland,Shutdown,6
@@ -522,8 +505,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 39.759,-76.27,United States,Shutdown,40
 39.759,-76.27,United States,Operational,1065
 39.759,-76.27,United States,Operational,1065
-,,China,Planned,
-,,China,Planned,
 49.975,1.215,France,Operational,1330
 49.975,1.215,France,Operational,1330
 49.977611,1.21409,France,Planned,
@@ -590,21 +571,13 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 29.101,121.642,China,Operational,1157
 29.101111,121.651944,China,Under Construction,1163
 29.101111,121.656944,China,Under Construction,1163
-,,China,Planned,
-,,China,Planned,
 42.775,-3.205,Spain,Shutdown,440
 40.226944,-78.241944,United States,Shutdown,3
 42.897,-70.849,United States,Operational,1149
 31.834,130.193,Japan,Operational,846
 31.834,130.193,Japan,Operational,846
-,,Japan,Planned,
 35.228,-85.094,United States,Operational,1148
 35.228,-85.094,United States,Operational,1148
-,,China,Planned,
-,,China,Planned,
-,,China,Planned,
-,,China,Planned,
-,,China,Planned,
 35.635,-78.955,United States,Operational,900
 36.979167,122.530556,China,Operational,200
 37.061,136.728,Japan,Suspended Operation,505
@@ -662,10 +635,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 35.52,135.503,Japan,Suspended Operation,780
 35.52,135.503,Japan,Operational,830
 35.52,135.503,Japan,Operational,830
-,,China,Planned,
-,,China,Planned,
-,,China,Planned,
-,,China,Planned,
 19.834,72.657,India,Suspended Operation,200
 19.834,72.657,India,Suspended Operation,200
 19.834,72.657,India,Operational,502
@@ -701,8 +670,6 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 46.04,-122.887,United States,Shutdown,1130
 35.672,136.079,Japan,Shutdown,341
 35.672,136.079,Japan,Suspended Operation,1115
-,,Japan,Planned,
-,,Japan,Planned,
 25.435,-80.33,United States,Operational,693
 25.435,-80.33,United States,Operational,693
 53.429,8.477,Germany,Shutdown,1230
@@ -728,22 +695,16 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 35.7101,129.481,South Korea,Planned,
 35.7101,129.481,South Korea,Planned,
 51.639,9.393,Germany,Shutdown,640
-,,China,Planned,
-,,China,Planned,
 53.416,-4.48,United Kingdom,Shutdown,550
 53.416,-4.48,United Kingdom,Shutdown,550
 29.66,114.67,China,Planned,
 29.66,114.67,China,Planned,
-,,China,Planned,
-,,China,Planned,
 21.706,112.256,China,Operational,1021
 21.706,112.256,China,Operational,1000
 21.706,112.256,China,Operational,1000
 21.8575,111.9825,China,Operational,1000
 21.8575,111.9825,China,Operational,1021
 21.8575,111.9825,China,Operational,1000
-,,China,Planned,
-,,China,Planned,
 42.728,-72.929,United States,Shutdown,175
 47.508,34.627,Ukraine,Operational,950
 47.508,34.627,Ukraine,Operational,950
@@ -780,12 +741,7 @@ Latitude,Longitude,Country,Status,Capacity (MWe)
 34.6828,119.456,China,Under Construction,1171
 19.46075,108.899917,China,Under Construction,1000
 19.46007,108.88992,China,Under Construction,100
-,,China,Planned,
-,,China,Planned,
-,,China,Planned,
-,,China,Planned,
 56.637414,84.90451,Russia,Under Construction,300
 27.201487,120.517974,China,Under Construction,1117
 31.044167,28.497778,Egypt,Under Construction,1100
 31.044167,28.497778,Egypt,Under Construction,1100
-,,China,Under Construction,1116
