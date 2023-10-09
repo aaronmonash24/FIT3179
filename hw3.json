@@ -28,8 +28,11 @@
         "data": {
           "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/nuclear_power_plants.csv"
         },
-        "mark": {"type": "circle", "tooltip": {"content": "data"}},
+        "mark": {"type": "circle","tooltip":true},
+       
+        
         "encoding": {
+          
           "longitude": {"field": "Longitude", "type": "quantitative"},
           "latitude": {"field": "Latitude", "type": "quantitative"},
           
