@@ -1,0 +1,22 @@
+Country,Attribute,Value
+United States,Less than 10 years,1
+United States,10-30 years,8
+United States,Over 30 years,90
+European Union,Less than 10 years,0
+European Union,10-30 years,17
+European Union,Over 30 years,83
+Russia,Less than 10 years,25
+Russia,10-30 years,14
+Russia,Over 30 years,61
+Japan,Less than 10 years,2
+Japan,10-30 years,53
+Japan,Over 30 years,45
+Korea,Less than 10 years,24
+Korea,10-30 years,48
+Korea,Over 30 years,28
+India,Less than 10 years,40
+India,10-30 years,45
+India,Over 30 years,16
+China,Less than 10 years,80
+China,10-30 years,20
+China,Over 30 years,0
