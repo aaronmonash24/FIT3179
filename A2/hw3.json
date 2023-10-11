@@ -3,11 +3,25 @@
     "width": 850,
     "height": 600,
     "title": "History of Nuclear Reactors Around the World ",
-    "projection": {"type": "mercator"},
+    
+    "data": {
+          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(6).json",
+          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+        },
+        
+    "mark": {"type": "geoshape", "fill": "#f7ede2", "stroke": "black"},
+      
+    "projection": {"type": "equirectangular"},
     "layer": [
+      {"data": {
+          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(6).json",
+          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+        },
+        
+    "mark": {"type": "geoshape", "fill": "#f7ede2", "stroke": "black"}},
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(4).json",
+          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(6).json",
           "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
         },
         
@@ -16,12 +30,14 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(4).json",
-          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+          "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/7_others/oceans.topojson",
+          "format": {"type": "topojson", "feature": "oceans"}
         },
         
-        "mark": {"type": "geoshape", "fill": "#f7ede2", "stroke": "black"}
+        "mark": {"type": "geoshape", "fill": "blues",
+          "strokeWidth": 0.1}
       },
+      
       
       {
         
