@@ -15,7 +15,7 @@
     },
     "y": {"aggregate": "sum", "field": "CO2_Emissions_Avoided_GtCO2"},
     "color": {"field": "Country", "scale": {"scheme": "tableau10"}},
-    "tooltip":[{"field":"Country"},{"field":"CO2 Emissions Avoided (GtCO2)","format":".2f"}]
+    "tooltip":[{"field":"Country"},{"field":"CO2_Emissions_Avoided_GtCO2","format":".2f"}]
   },
   "config": {}
 }
