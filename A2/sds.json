@@ -1,0 +1,27 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/wind-and-solar-pv-generation-by-scenario-2019-2040%20(1).csv"
+  },
+  "repeat": {
+    "layer": ["Sustainable Development Scenario", "SDS with nuclear fade"]
+  },
+  "spec": {
+    "mark": "line",
+    "encoding": {
+      "x": {"field": "Year", "type": "ordinal"},
+      "y": {
+        "aggregate": "sum",
+        "field": {"repeat": "layer"},
+        "type": "quantitative",
+        "title": "Wind and Solar Generated Electricity (TWh)"
+      },
+      "color": {"datum": {"repeat": "layer"}, "type": "nominal"},
+      "tooltip": [
+        {"field": {"repeat": "layer"}, "title": "Electric Generated (TW)"},
+        {"field": "Year"}
+      ]
+    }
+  },
+  "config": {}
+}

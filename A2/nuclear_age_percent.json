@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/age-profile-of-nuclear-power-capacity-in-selected-regions-2019.csv"
+  },
+  "height": {"step": 30},
+  "width":500,
+  "encoding": {"y": {"field": "Country"}},
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "aggregate": "sum",
+          "field": "Percentage",
+          "title": "Age Percentage",
+          "stack": "normalize"
+        },
+        "color": {"field": "Age"}
+      },
+      "tooltip": [
+        {"field": "Country", "title": "Country"},
+        {"field": "Age", "title": "Age"}
+      ]
+    }
+  ],
+  "config": {}
+}

@@ -1,0 +1,84 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 500,
+  "title": "Electric generated source per capita (kWh)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/electric_source_per_capita.csv"
+  },
+  "params": [
+    {
+      "name": "energy_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Bioenergy electricity per capita (kWh)",
+          "Coal electricity per capita (kWh)",
+          "Gas electricity per capita (kWh)",
+          "Hydro electricity per capita (kWh)",
+          "Nuclear electricity per capita (kWh)",
+          "Oil electricity per capita (kWh)",
+          "Solar electricity per capita (kWh)",
+          "Wind electricity per capita (kWh)"
+        ],
+        "labels": [
+          "Show All",
+          "Bioenergy electricity per capita (kWh)",
+          "Coal electricity per capita (kWh)",
+          "Gas electricity per capita (kWh)",
+          "Hydro electricity per capita (kWh)",
+          "Nuclear electricity per capita (kWh)",
+          "Oil electricity per capita (kWh)",
+          "Solar electricity per capita (kWh)",
+          "Wind electricity per capita (kWh)"
+        ],
+        "name": "Energy Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "energy_selection == null || datum['Energy Type'] == energy_selection"
+    }
+  ],
+  "layer": [
+    {
+      "mark": "area",
+      "encoding": {
+        "x": {
+          "timeUnit": "yearmonth",
+          "field": "Year",
+          "title": "Year",
+          "axis": {"format": "%Y"}
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "Value",
+          "title": "Electric Generated per Capita"
+        },
+        "color": {"field": "Energy Type", "scale": {"scheme": "category20"}},
+        "opacity": {"value": 1},
+        "tooltip": [
+          {
+            "aggregate": "sum",
+            "field": "Value",
+            "type": "quantitative",
+            "format": ".2f",
+            "title": "Electric Generated per Capita (kWh)"
+          },
+          {"field": "Energy Type", "type": "nominal"}
+        ]
+      }
+    },
+    {
+      "mark": "rule",
+      "encoding": {
+        "y": {"value": 279},
+        "color": {"value": "red"},
+        "size": {"value": 3}
+      }
+    }
+  ],
+  "config": {}
+}
