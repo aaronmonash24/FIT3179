@@ -5,7 +5,7 @@
     "title": "History of Nuclear Reactors Around the World ",
     
     "data": {
-          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(6).json",
+          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(4).json",
           "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
         },
         
@@ -14,14 +14,14 @@
     "projection": {"type": "equirectangular"},
     "layer": [
       {"data": {
-          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(6).json",
+          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(4).json",
           "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
         },
         
     "mark": {"type": "geoshape", "fill": "#f7ede2", "stroke": "black"}},
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(6).json",
+          "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/ne_110m%20(4).json",
           "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
         },
         
