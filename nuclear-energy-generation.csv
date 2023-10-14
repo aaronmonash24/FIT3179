@@ -1,27 +1,4 @@
 Entity,Code,Year,Electricity from nuclear (TWh)
-ASEAN (Ember),,2000,0
-ASEAN (Ember),,2001,0
-ASEAN (Ember),,2002,0
-ASEAN (Ember),,2003,0
-ASEAN (Ember),,2004,0
-ASEAN (Ember),,2005,0
-ASEAN (Ember),,2006,0
-ASEAN (Ember),,2007,0
-ASEAN (Ember),,2008,0
-ASEAN (Ember),,2009,0
-ASEAN (Ember),,2010,0
-ASEAN (Ember),,2011,0
-ASEAN (Ember),,2012,0
-ASEAN (Ember),,2013,0
-ASEAN (Ember),,2014,0
-ASEAN (Ember),,2015,0
-ASEAN (Ember),,2016,0
-ASEAN (Ember),,2017,0
-ASEAN (Ember),,2018,0
-ASEAN (Ember),,2019,0
-ASEAN (Ember),,2020,0
-ASEAN (Ember),,2021,0
-ASEAN (Ember),,2022,0
 Afghanistan,AFG,2000,0
 Afghanistan,AFG,2001,0
 Afghanistan,AFG,2002,0
@@ -440,145 +417,6 @@ Aruba,ABW,2018,0
 Aruba,ABW,2019,0
 Aruba,ABW,2020,0
 Aruba,ABW,2021,0
-Asia,,1965,0.025
-Asia,,1966,0.584
-Asia,,1967,0.629
-Asia,,1968,1.044
-Asia,,1969,1.8067815
-Asia,,1970,5.8891425
-Asia,,1971,9.030882
-Asia,,1972,10.606947
-Asia,,1973,12.040443
-Asia,,1974,22.028025
-Asia,,1975,27.878286
-Asia,,1976,37.25213
-Asia,,1977,34.008232
-Asia,,1978,66.738045
-Asia,,1979,82.273636
-Asia,,1980,96.79506
-Asia,,1981,104.019165
-Asia,,1982,121.65146
-Asia,,1983,145.50967
-Asia,,1984,175.01581
-Asia,,1985,215.21469
-Asia,,1986,228.92136
-Asia,,1987,271.00443
-Asia,,1988,255.73271
-Asia,,1989,266.97534
-Asia,,1990,287.1385
-Asia,,1991,306.6671
-Asia,,1992,314.83002
-Asia,,1993,348.87616
-Asia,,1994,372.4386
-Asia,,1995,410.58524
-Asia,,1996,433.6919
-Asia,,1997,461.36017
-Asia,,1998,480.07062
-Asia,,1999,488.14017
-Asia,,2000,482.7
-Asia,,2001,486.21
-Asia,,2002,481.41
-Asia,,2003,455.2
-Asia,,2004,507.85
-Asia,,2005,533.79004
-Asia,,2006,550.03
-Asia,,2007,529.1
-Asia,,2008,513.97
-Asia,,2009,537.54
-Asia,,2010,564.55
-Asia,,2011,468.99
-Asia,,2012,339.39
-Asia,,2013,340.17
-Asia,,2014,370.39
-Asia,,2015,416.96002
-Asia,,2016,465.91
-Asia,,2017,494.47
-Asia,,2018,554.70996
-Asia,,2019,646.25
-Asia,,2020,656.77
-Asia,,2021,713.87
-Asia,,2022,767.377
-Asia (Ember),,2000,482.7
-Asia (Ember),,2001,486.21
-Asia (Ember),,2002,481.41
-Asia (Ember),,2003,455.2
-Asia (Ember),,2004,507.85
-Asia (Ember),,2005,533.79
-Asia (Ember),,2006,550.03
-Asia (Ember),,2007,529.1
-Asia (Ember),,2008,513.97
-Asia (Ember),,2009,537.54
-Asia (Ember),,2010,564.55
-Asia (Ember),,2011,468.88
-Asia (Ember),,2012,337.94
-Asia (Ember),,2013,335.91
-Asia (Ember),,2014,366.32
-Asia (Ember),,2015,413.46
-Asia (Ember),,2016,459.44
-Asia (Ember),,2017,487.51
-Asia (Ember),,2018,547.82
-Asia (Ember),,2019,639.84
-Asia (Ember),,2020,648.88
-Asia (Ember),,2021,708.54
-Asia (Ember),,2022,733.36
-Asia Pacific (EI),,1965,0.025
-Asia Pacific (EI),,1966,0.584
-Asia Pacific (EI),,1967,0.629
-Asia Pacific (EI),,1968,1.044
-Asia Pacific (EI),,1969,1.8067816
-Asia Pacific (EI),,1970,5.8891425
-Asia Pacific (EI),,1971,9.030881
-Asia Pacific (EI),,1972,10.606947
-Asia Pacific (EI),,1973,12.040443
-Asia Pacific (EI),,1974,22.028025
-Asia Pacific (EI),,1975,27.878286
-Asia Pacific (EI),,1976,37.25213
-Asia Pacific (EI),,1977,34.00823
-Asia Pacific (EI),,1978,66.738045
-Asia Pacific (EI),,1979,82.273636
-Asia Pacific (EI),,1980,96.79505
-Asia Pacific (EI),,1981,104.019165
-Asia Pacific (EI),,1982,121.65146
-Asia Pacific (EI),,1983,145.50966
-Asia Pacific (EI),,1984,175.0158
-Asia Pacific (EI),,1985,209.94678
-Asia Pacific (EI),,1986,226.16808
-Asia Pacific (EI),,1987,266.6734
-Asia Pacific (EI),,1988,250.91998
-Asia Pacific (EI),,1989,265.5965
-Asia Pacific (EI),,1990,287.13852
-Asia Pacific (EI),,1991,306.12796
-Asia Pacific (EI),,1992,314.366
-Asia Pacific (EI),,1993,348.42978
-Asia Pacific (EI),,1994,372.05853
-Asia Pacific (EI),,1995,410.20166
-Asia Pacific (EI),,1996,431.2795
-Asia Pacific (EI),,1997,459.45264
-Asia Pacific (EI),,1998,478.39322
-Asia Pacific (EI),,1999,486.06216
-Asia Pacific (EI),,2000,500.03928
-Asia Pacific (EI),,2001,506.60394
-Asia Pacific (EI),,2002,519.2897
-Asia Pacific (EI),,2003,462.02942
-Asia Pacific (EI),,2004,530.21045
-Asia Pacific (EI),,2005,553.1421
-Asia Pacific (EI),,2006,567.9177
-Asia Pacific (EI),,2007,544.76465
-Asia Pacific (EI),,2008,528.9006
-Asia Pacific (EI),,2009,553.4029
-Asia Pacific (EI),,2010,582.94543
-Asia Pacific (EI),,2011,483.1318
-Asia Pacific (EI),,2012,342.91373
-Asia Pacific (EI),,2013,344.09802
-Asia Pacific (EI),,2014,371.36877
-Asia Pacific (EI),,2015,419.74872
-Asia Pacific (EI),,2016,467.70105
-Asia Pacific (EI),,2017,493.5771
-Asia Pacific (EI),,2018,553.589
-Asia Pacific (EI),,2019,646.9148
-Asia Pacific (EI),,2020,654.9864
-Asia Pacific (EI),,2021,714.1384
-Asia Pacific (EI),,2022,737.86005
 Australia,AUS,2000,0
 Australia,AUS,2001,0
 Australia,AUS,2002,0
@@ -1271,64 +1109,6 @@ Burundi,BDI,2019,0
 Burundi,BDI,2020,0
 Burundi,BDI,2021,0
 Burundi,BDI,2022,0
-CIS (EI),,1965,1.8605675
-CIS (EI),,1966,2.0638597
-CIS (EI),,1967,2.253894
-CIS (EI),,1968,3.1333547
-CIS (EI),,1969,3.6327467
-CIS (EI),,1970,4.388464
-CIS (EI),,1971,5.3872485
-CIS (EI),,1972,9.833165
-CIS (EI),,1973,14.310018
-CIS (EI),,1974,21.460606
-CIS (EI),,1975,28.615616
-CIS (EI),,1976,38.15268
-CIS (EI),,1977,51.03081
-CIS (EI),,1978,52.462696
-CIS (EI),,1979,59.617706
-CIS (EI),,1980,73.9233
-CIS (EI),,1981,87.0887
-CIS (EI),,1982,100.25409
-CIS (EI),,1983,111.39539
-CIS (EI),,1984,143.79843
-CIS (EI),,1985,104.5851
-CIS (EI),,1986,107.97478
-CIS (EI),,1987,129.03322
-CIS (EI),,1988,139.62653
-CIS (EI),,1989,137.71735
-CIS (EI),,1990,118.32501
-CIS (EI),,1991,120.522964
-CIS (EI),,1992,120.090034
-CIS (EI),,1993,119.63236
-CIS (EI),,1994,98.200066
-CIS (EI),,1995,99.91555
-CIS (EI),,1996,111.438385
-CIS (EI),,1997,110.40552
-CIS (EI),,1998,105.396385
-CIS (EI),,1999,123.952
-CIS (EI),,2000,132.72
-CIS (EI),,2001,138.922
-CIS (EI),,2002,143.911
-CIS (EI),,2003,152.34
-CIS (EI),,2004,146.908
-CIS (EI),,2005,152.162
-CIS (EI),,2006,159.0763
-CIS (EI),,2007,162.6109
-CIS (EI),,2008,165.5455
-CIS (EI),,2009,166.0762
-CIS (EI),,2010,172.9047
-CIS (EI),,2011,175.4893
-CIS (EI),,2012,179.8449
-CIS (EI),,2013,174.8678
-CIS (EI),,2014,183.2222
-CIS (EI),,2015,198.2579
-CIS (EI),,2016,198.99489
-CIS (EI),,2017,205.7606
-CIS (EI),,2018,206.65715
-CIS (EI),,2019,211.18347
-CIS (EI),,2020,219.00858
-CIS (EI),,2021,230.17046
-CIS (EI),,2022,231.23549
 Cambodia,KHM,2000,0
 Cambodia,KHM,2001,0
 Cambodia,KHM,2002,0
@@ -2449,203 +2229,6 @@ Ethiopia,ETH,2018,0
 Ethiopia,ETH,2019,0
 Ethiopia,ETH,2020,0
 Ethiopia,ETH,2021,0
-Europe,,1965,21.537567
-Europe,,1966,27.854858
-Europe,,1967,32.127895
-Europe,,1968,36.945354
-Europe,,1969,44.73575
-Europe,,1970,48.95146
-Europe,,1971,56.25425
-Europe,,1972,77.34616
-Europe,,1973,88.68802
-Europe,,1974,108.83961
-Europe,,1975,145.27362
-Europe,,1976,174.25168
-Europe,,1977,212.47292
-Europe,,1978,234.00775
-Europe,,1979,262.03943
-Europe,,1980,310.425
-Europe,,1981,406.82385
-Europe,,1982,452.66302
-Europe,,1983,527.15424
-Europe,,1984,672.2562
-Europe,,1985,794.839
-Europe,,1986,844.0598
-Europe,,1987,893.6307
-Europe,,1988,981.0421
-Europe,,1989,1023.1629
-Europe,,1990,1012.8706
-Europe,,1991,1037.9144
-Europe,,1992,1043.9802
-Europe,,1993,1080.0144
-Europe,,1994,1050.0826
-Europe,,1995,1076.607
-Europe,,1996,1141.0214
-Europe,,1997,1150.7856
-Europe,,1998,1137.3876
-Europe,,1999,1162.0802
-Europe,,2000,1169.93
-Europe,,2001,1205.99
-Europe,,2002,1228.19
-Europe,,2003,1244.56
-Europe,,2004,1258.5599
-Europe,,2005,1246.21
-Europe,,2006,1251.13
-Europe,,2007,1202.29
-Europe,,2008,1205.39
-Europe,,2009,1155.99
-Europe,,2010,1190.37
-Europe,,2011,1184.5801
-Europe,,2012,1163.12
-Europe,,2013,1146.2999
-Europe,,2014,1160.15
-Europe,,2015,1149.5599
-Europe,,2016,1124.92
-Europe,,2017,1124.94
-Europe,,2018,1117.57
-Europe,,2019,1125.34
-Europe,,2020,1049.63
-Europe,,2021,1111.45
-Europe,,2022,969.86993
-Europe (EI),,1965,19.677
-Europe (EI),,1966,25.791
-Europe (EI),,1967,29.874
-Europe (EI),,1968,33.812
-Europe (EI),,1969,41.103
-Europe (EI),,1970,44.563
-Europe (EI),,1971,50.867
-Europe (EI),,1972,67.513
-Europe (EI),,1973,74.378
-Europe (EI),,1974,87.379
-Europe (EI),,1975,116.658
-Europe (EI),,1976,136.099
-Europe (EI),,1977,161.44211
-Europe (EI),,1978,181.54506
-Europe (EI),,1979,202.42174
-Europe (EI),,1980,236.50168
-Europe (EI),,1981,319.73517
-Europe (EI),,1982,352.40894
-Europe (EI),,1983,415.75885
-Europe (EI),,1984,528.45776
-Europe (EI),,1985,695.5218
-Europe (EI),,1986,738.8383
-Europe (EI),,1987,768.9285
-Europe (EI),,1988,846.2283
-Europe (EI),,1989,886.8244
-Europe (EI),,1990,894.5456
-Europe (EI),,1991,917.93066
-Europe (EI),,1992,924.35425
-Europe (EI),,1993,960.8284
-Europe (EI),,1994,952.2627
-Europe (EI),,1995,977.07513
-Europe (EI),,1996,1031.9954
-Europe (EI),,1997,1042.2876
-Europe (EI),,1998,1033.6686
-Europe (EI),,1999,1040.2062
-Europe (EI),,2000,1048.5891
-Europe (EI),,2001,1081.7748
-Europe (EI),,2002,1095.2294
-Europe (EI),,2003,1104.5619
-Europe (EI),,2004,1122.414
-Europe (EI),,2005,1109.9325
-Europe (EI),,2006,1107.8153
-Europe (EI),,2007,1055.5504
-Europe (EI),,2008,1054.8447
-Europe (EI),,2009,1004.4283
-Europe (EI),,2010,1031.8069
-Europe (EI),,2011,1023.9154
-Europe (EI),,2012,998.1299
-Europe (EI),,2013,986.2236
-Europe (EI),,2014,992.4439
-Europe (EI),,2015,968.0158
-Europe (EI),,2016,941.9212
-Europe (EI),,2017,935.89343
-Europe (EI),,2018,935.8184
-Europe (EI),,2019,929.73267
-Europe (EI),,2020,832.9836
-Europe (EI),,2021,882.3399
-Europe (EI),,2022,741.4806
-Europe (Ember),,2000,1169.93
-Europe (Ember),,2001,1205.99
-Europe (Ember),,2002,1228.19
-Europe (Ember),,2003,1244.56
-Europe (Ember),,2004,1258.56
-Europe (Ember),,2005,1246.21
-Europe (Ember),,2006,1251.13
-Europe (Ember),,2007,1202.29
-Europe (Ember),,2008,1205.39
-Europe (Ember),,2009,1155.99
-Europe (Ember),,2010,1190.37
-Europe (Ember),,2011,1184.58
-Europe (Ember),,2012,1163.12
-Europe (Ember),,2013,1146.3
-Europe (Ember),,2014,1160.15
-Europe (Ember),,2015,1149.56
-Europe (Ember),,2016,1124.92
-Europe (Ember),,2017,1124.94
-Europe (Ember),,2018,1117.57
-Europe (Ember),,2019,1125.34
-Europe (Ember),,2020,1049.63
-Europe (Ember),,2021,1111.45
-Europe (Ember),,2022,975.67
-European Union (27),,1965,4.542
-European Union (27),,1966,5.574
-European Union (27),,1967,6.597
-European Union (27),,1968,7.622
-European Union (27),,1969,11.443
-European Union (27),,1970,16.785
-European Union (27),,1971,21.928
-European Union (27),,1972,34.295
-European Union (27),,1973,40.071
-European Union (27),,1974,46.695
-European Union (27),,1975,78.559
-European Union (27),,1976,92.005
-European Union (27),,1977,113.307106
-European Union (27),,1978,135.92606
-European Union (27),,1979,152.30873
-European Union (27),,1980,185.13269
-European Union (27),,1981,266.14517
-European Union (27),,1982,290.77094
-European Union (27),,1983,346.20483
-European Union (27),,1984,451.61877
-European Union (27),,1985,554.66595
-European Union (27),,1986,610.60706
-European Union (27),,1987,635.927
-European Union (27),,1988,684.00275
-European Union (27),,1989,721.20917
-European Union (27),,1990,729.146
-European Union (27),,1991,749.463
-European Union (27),,1992,750.512
-European Union (27),,1993,773.044
-European Union (27),,1994,770.939
-European Union (27),,1995,792.866
-European Union (27),,1996,832.78
-European Union (27),,1997,839.476
-European Union (27),,1998,833.2931
-European Union (27),,1999,848.2472
-European Union (27),,2000,859.95
-European Union (27),,2001,888.89996
-European Union (27),,2002,902.34
-European Union (27),,2003,907.18
-European Union (27),,2004,928.45996
-European Union (27),,2005,916.08
-European Union (27),,2006,914.44
-European Union (27),,2007,872.24
-European Union (27),,2008,884.73004
-European Union (27),,2009,824.92
-European Union (27),,2010,854.47
-European Union (27),,2011,837.77
-European Union (27),,2012,811.95
-European Union (27),,2013,806.23
-European Union (27),,2014,812.57
-European Union (27),,2015,786.69
-European Union (27),,2016,767.95
-European Union (27),,2017,759.4
-European Union (27),,2018,761.94
-European Union (27),,2019,765.34
-European Union (27),,2020,683.51
-European Union (27),,2021,731.70996
-European Union (27),,2022,608.57654
 Falkland Islands,FLK,2000,0
 Falkland Islands,FLK,2001,0
 Falkland Islands,FLK,2002,0
@@ -2872,52 +2455,6 @@ French Polynesia,PYF,2018,0
 French Polynesia,PYF,2019,0
 French Polynesia,PYF,2020,0
 French Polynesia,PYF,2021,0
-G20 (Ember),,2000,2364.25
-G20 (Ember),,2001,2432.61
-G20 (Ember),,2002,2454.59
-G20 (Ember),,2003,2427.67
-G20 (Ember),,2004,2526.48
-G20 (Ember),,2005,2531.2
-G20 (Ember),,2006,2559.99
-G20 (Ember),,2007,2502.69
-G20 (Ember),,2008,2495.09
-G20 (Ember),,2009,2463.31
-G20 (Ember),,2010,2525.61
-G20 (Ember),,2011,2411.11
-G20 (Ember),,2012,2239.47
-G20 (Ember),,2013,2257.89
-G20 (Ember),,2014,2304.63
-G20 (Ember),,2015,2345.86
-G20 (Ember),,2016,2393.53
-G20 (Ember),,2017,2421.21
-G20 (Ember),,2018,2465
-G20 (Ember),,2019,2565.97
-G20 (Ember),,2020,2483.64
-G20 (Ember),,2021,2579.65
-G20 (Ember),,2022,2467.9
-G7 (Ember),,2000,1798.83
-G7 (Ember),,2001,1828.02
-G7 (Ember),,2002,1821.6
-G7 (Ember),,2003,1757.71
-G7 (Ember),,2004,1838.03
-G7 (Ember),,2005,1845.52
-G7 (Ember),,2006,1864.11
-G7 (Ember),,2007,1805.24
-G7 (Ember),,2008,1776.19
-G7 (Ember),,2009,1760.8
-G7 (Ember),,2010,1802.08
-G7 (Ember),,2011,1651.21
-G7 (Ember),,2012,1469.21
-G7 (Ember),,2013,1488.61
-G7 (Ember),,2014,1495.74
-G7 (Ember),,2015,1496.03
-G7 (Ember),,2016,1475.81
-G7 (Ember),,2017,1473.29
-G7 (Ember),,2018,1503.93
-G7 (Ember),,2019,1499.02
-G7 (Ember),,2020,1393.45
-G7 (Ember),,2021,1423.6
-G7 (Ember),,2022,1287.48
 Gabon,GAB,2000,0
 Gabon,GAB,2001,0
 Gabon,GAB,2002,0
@@ -3343,64 +2880,6 @@ Haiti,HTI,2018,0
 Haiti,HTI,2019,0
 Haiti,HTI,2020,0
 Haiti,HTI,2021,0
-High-income countries,,1965,23.679157
-High-income countries,,1966,32.35743
-High-income countries,,1967,38.71412
-High-income countries,,1968,48.96181
-High-income countries,,1969,57.374886
-High-income countries,,1970,73.13305
-High-income countries,,1971,103.25404
-High-income countries,,1972,141.14203
-High-income countries,,1973,187.21211
-High-income countries,,1974,240.82047
-High-income countries,,1975,333.3833
-High-income countries,,1976,383.7666
-High-income countries,,1977,477.81726
-High-income countries,,1978,562.09503
-High-income countries,,1979,579.97046
-High-income countries,,1980,626.968
-High-income countries,,1981,738.8021
-High-income countries,,1982,794.4145
-High-income countries,,1983,899.42847
-High-income countries,,1984,1079.0352
-High-income countries,,1985,1294.487
-High-income countries,,1986,1407.7585
-High-income countries,,1987,1519.1127
-High-income countries,,1988,1636.2867
-High-income countries,,1989,1699.0419
-High-income countries,,1990,1763.7083
-High-income countries,,1991,1859.0543
-High-income countries,,1992,1877.8276
-High-income countries,,1993,1947.5007
-High-income countries,,1994,2001.0806
-High-income countries,,1995,2084.5322
-High-income countries,,1996,2144.9124
-High-income countries,,1997,2123.3013
-High-income countries,,1998,2174.212
-High-income countries,,1999,2250.1963
-High-income countries,,2000,2222.97
-High-income countries,,2001,2272.48
-High-income countries,,2002,2280.69
-High-income countries,,2003,2229.67
-High-income countries,,2004,2323.6401
-High-income countries,,2005,2328.04
-High-income countries,,2006,2349.02
-High-income countries,,2007,2286.21
-High-income countries,,2008,2268.57
-High-income countries,,2009,2234.75
-High-income countries,,2010,2280.94
-High-income countries,,2011,2137.75
-High-income countries,,2012,1948.8201
-High-income countries,,2013,1958.67
-High-income countries,,2014,1976.76
-High-income countries,,2015,1953.84
-High-income countries,,2016,1946.25
-High-income countries,,2017,1925.69
-High-income countries,,2018,1939.97
-High-income countries,,2019,1970
-High-income countries,,2020,1850.69
-High-income countries,,2021,1888.78
-High-income countries,,2022,1833.4374
 Honduras,HND,2000,0
 Honduras,HND,2001,0
 Honduras,HND,2002,0
@@ -4237,29 +3716,6 @@ Laos,LAO,2018,0
 Laos,LAO,2019,0
 Laos,LAO,2020,0
 Laos,LAO,2021,0
-Latin America and Caribbean (Ember),,2000,18.74
-Latin America and Caribbean (Ember),,2001,29.1
-Latin America and Caribbean (Ember),,2002,28.49
-Latin America and Caribbean (Ember),,2003,30.41
-Latin America and Caribbean (Ember),,2004,27.64
-Latin America and Caribbean (Ember),,2005,25.89
-Latin America and Caribbean (Ember),,2006,30.53
-Latin America and Caribbean (Ember),,2007,28.32
-Latin America and Caribbean (Ember),,2008,29.42
-Latin America and Caribbean (Ember),,2009,29.92
-Latin America and Caribbean (Ember),,2010,26.12
-Latin America and Caribbean (Ember),,2011,30.35
-Latin America and Caribbean (Ember),,2012,29.48
-Latin America and Caribbean (Ember),,2013,31.76
-Latin America and Caribbean (Ember),,2014,29.02
-Latin America and Caribbean (Ember),,2015,31.73
-Latin America and Caribbean (Ember),,2016,33.06
-Latin America and Caribbean (Ember),,2017,31.2
-Latin America and Caribbean (Ember),,2018,34.62
-Latin America and Caribbean (Ember),,2019,34.01
-Latin America and Caribbean (Ember),,2020,34.14
-Latin America and Caribbean (Ember),,2021,36.3
-Latin America and Caribbean (Ember),,2022,32.37
 Latvia,LVA,1985,0
 Latvia,LVA,1986,0
 Latvia,LVA,1987,0
@@ -4424,86 +3880,6 @@ Lithuania,LTU,2019,0
 Lithuania,LTU,2020,0
 Lithuania,LTU,2021,0
 Lithuania,LTU,2022,0
-Low-income countries,,2000,0
-Low-income countries,,2001,0
-Low-income countries,,2002,0
-Low-income countries,,2003,0
-Low-income countries,,2004,0
-Low-income countries,,2005,0
-Low-income countries,,2006,0
-Low-income countries,,2007,0
-Low-income countries,,2008,0
-Low-income countries,,2009,0
-Low-income countries,,2010,0
-Low-income countries,,2011,0
-Low-income countries,,2012,0
-Low-income countries,,2013,0
-Low-income countries,,2014,0
-Low-income countries,,2015,0
-Low-income countries,,2016,0
-Low-income countries,,2017,0
-Low-income countries,,2018,0
-Low-income countries,,2019,0
-Low-income countries,,2020,0
-Low-income countries,,2021,0
-Lower-middle-income countries,,1965,0
-Lower-middle-income countries,,1966,0
-Lower-middle-income countries,,1967,0
-Lower-middle-income countries,,1968,0
-Lower-middle-income countries,,1969,0.7247816
-Lower-middle-income countries,,1970,1.3081424
-Lower-middle-income countries,,1971,1.0208814
-Lower-middle-income countries,,1972,1.126947
-Lower-middle-income countries,,1973,2.3334432
-Lower-middle-income countries,,1974,2.3290238
-Lower-middle-income countries,,1975,2.7532864
-Lower-middle-income countries,,1976,3.1731293
-Lower-middle-income countries,,1977,2.178764
-Lower-middle-income countries,,1978,2.43067
-Lower-middle-income countries,,1979,2.3997343
-Lower-middle-income countries,,1980,2.527897
-Lower-middle-income countries,,1981,2.6339624
-Lower-middle-income countries,,1982,2.3599596
-Lower-middle-income countries,,1983,3.3499053
-Lower-middle-income countries,,1984,4.3707867
-Lower-middle-income countries,,1985,58.2035
-Lower-middle-income countries,,1986,48.25543
-Lower-middle-income countries,,1987,56.05125
-Lower-middle-income countries,,1988,78.27199
-Lower-middle-income countries,,1989,70.657364
-Lower-middle-income countries,,1990,82.99371
-Lower-middle-income countries,,1991,80.96461
-Lower-middle-income countries,,1992,80.70614
-Lower-middle-income countries,,1993,81.87652
-Lower-middle-income countries,,1994,74.38109
-Lower-middle-income countries,,1995,78.65912
-Lower-middle-income countries,,1996,88.30532
-Lower-middle-income countries,,1997,89.95559
-Lower-middle-income countries,,1998,87.00344
-Lower-middle-income countries,,1999,84.87242
-Lower-middle-income countries,,2000,93.49
-Lower-middle-income countries,,2001,97.03999
-Lower-middle-income countries,,2002,99.14
-Lower-middle-income countries,,2003,101.36
-Lower-middle-income countries,,2004,110.21
-Lower-middle-income countries,,2005,108.9
-Lower-middle-income countries,,2006,110.4
-Lower-middle-income countries,,2007,112.68
-Lower-middle-income countries,,2008,106.81
-Lower-middle-income countries,,2009,102.38
-Lower-middle-income countries,,2010,114.79
-Lower-middle-income countries,,2011,126.42
-Lower-middle-income countries,,2012,130
-Lower-middle-income countries,,2013,125.18
-Lower-middle-income countries,,2014,131.73
-Lower-middle-income countries,,2015,133.76999
-Lower-middle-income countries,,2016,130.76
-Lower-middle-income countries,,2017,138.06
-Lower-middle-income countries,,2018,139.63
-Lower-middle-income countries,,2019,143.64
-Lower-middle-income countries,,2020,136.78
-Lower-middle-income countries,,2021,149.48999
-Lower-middle-income countries,,2022,137.11133
 Luxembourg,LUX,1990,0
 Luxembourg,LUX,1991,0
 Luxembourg,LUX,1992,0
@@ -4839,92 +4215,6 @@ Mexico,MEX,2019,10.88
 Mexico,MEX,2020,10.87
 Mexico,MEX,2021,11.43
 Mexico,MEX,2022,10.36
-Middle Africa (EI),,1985,0
-Middle Africa (EI),,1986,0
-Middle Africa (EI),,1987,0
-Middle Africa (EI),,1988,0
-Middle Africa (EI),,1989,0
-Middle Africa (EI),,1990,0
-Middle Africa (EI),,1991,0
-Middle Africa (EI),,1992,0
-Middle Africa (EI),,1993,0
-Middle Africa (EI),,1994,0
-Middle Africa (EI),,1995,0
-Middle Africa (EI),,1996,0
-Middle Africa (EI),,1997,0
-Middle Africa (EI),,1998,0
-Middle Africa (EI),,1999,0
-Middle Africa (EI),,2000,0
-Middle East (EI),,1965,0
-Middle East (EI),,1966,0
-Middle East (EI),,1967,0
-Middle East (EI),,1968,0
-Middle East (EI),,1969,0
-Middle East (EI),,1970,0
-Middle East (EI),,1971,0
-Middle East (EI),,1972,0
-Middle East (EI),,1973,0
-Middle East (EI),,1974,0
-Middle East (EI),,1975,0
-Middle East (EI),,1976,0
-Middle East (EI),,1977,0
-Middle East (EI),,1978,0
-Middle East (EI),,1979,0
-Middle East (EI),,1980,0
-Middle East (EI),,1981,0
-Middle East (EI),,1982,0
-Middle East (EI),,1983,0
-Middle East (EI),,1984,0
-Middle East (EI),,1985,0
-Middle East (EI),,1986,0
-Middle East (EI),,1987,0
-Middle East (EI),,1988,0
-Middle East (EI),,1989,0
-Middle East (EI),,1990,0
-Middle East (EI),,1991,0
-Middle East (EI),,1992,0
-Middle East (EI),,1993,0
-Middle East (EI),,1994,0
-Middle East (EI),,1995,0
-Middle East (EI),,1996,0
-Middle East (EI),,1997,0
-Middle East (EI),,1998,0
-Middle East (EI),,1999,0
-Middle East (EI),,2000,0
-Middle East (EI),,2011,0.107081965
-Middle East (EI),,2012,1.4517049
-Middle East (EI),,2013,4.255377
-Middle East (EI),,2014,4.069508
-Middle East (EI),,2015,3.4953442
-Middle East (EI),,2016,6.474284
-Middle East (EI),,2017,6.957607
-Middle East (EI),,2018,6.885377
-Middle East (EI),,2019,6.410634
-Middle East (EI),,2020,7.9571805
-Middle East (EI),,2021,14.084787
-Middle East (EI),,2022,26.670778
-Middle East (Ember),,2000,0
-Middle East (Ember),,2001,0
-Middle East (Ember),,2002,0
-Middle East (Ember),,2003,0
-Middle East (Ember),,2004,0
-Middle East (Ember),,2005,0
-Middle East (Ember),,2006,0
-Middle East (Ember),,2007,0
-Middle East (Ember),,2008,0
-Middle East (Ember),,2009,0
-Middle East (Ember),,2010,0
-Middle East (Ember),,2011,0.11
-Middle East (Ember),,2012,1.45
-Middle East (Ember),,2013,4.26
-Middle East (Ember),,2014,4.07
-Middle East (Ember),,2015,3.5
-Middle East (Ember),,2016,6.47
-Middle East (Ember),,2017,6.96
-Middle East (Ember),,2018,6.89
-Middle East (Ember),,2019,6.41
-Middle East (Ember),,2020,7.89
-Middle East (Ember),,2021,5.33
 Moldova,MDA,2000,0
 Moldova,MDA,2001,0
 Moldova,MDA,2002,0
@@ -5385,203 +4675,6 @@ Niue,NIU,2018,0
 Niue,NIU,2019,0
 Niue,NIU,2020,0
 Niue,NIU,2021,0
-Non-OECD (EI),,1965,1.8605675
-Non-OECD (EI),,1966,2.0758598
-Non-OECD (EI),,1967,2.291894
-Non-OECD (EI),,1968,3.1513546
-Non-OECD (EI),,1969,4.4085283
-Non-OECD (EI),,1970,5.7416067
-Non-OECD (EI),,1971,6.45013
-Non-OECD (EI),,1972,11.033112
-Non-OECD (EI),,1973,16.68946
-Non-OECD (EI),,1974,25.77963
-Non-OECD (EI),,1975,36.4649
-Non-OECD (EI),,1976,48.904808
-Non-OECD (EI),,1977,60.829575
-Non-OECD (EI),,1978,66.36937
-Non-OECD (EI),,1979,77.21844
-Non-OECD (EI),,1980,93.1552
-Non-OECD (EI),,1981,112.61666
-Non-OECD (EI),,1982,130.84726
-Non-OECD (EI),,1983,153.288
-Non-OECD (EI),,1984,200.12218
-Non-OECD (EI),,1985,223.16135
-Non-OECD (EI),,1986,213.918
-Non-OECD (EI),,1987,248.7488
-Non-OECD (EI),,1988,285.61377
-Non-OECD (EI),,1989,273.87283
-Non-OECD (EI),,1990,266.81668
-Non-OECD (EI),,1991,268.30365
-Non-OECD (EI),,1992,264.32068
-Non-OECD (EI),,1993,266.88702
-Non-OECD (EI),,1994,255.52971
-Non-OECD (EI),,1995,264.8703
-Non-OECD (EI),,1996,292.99838
-Non-OECD (EI),,1997,297.9766
-Non-OECD (EI),,1998,289.89078
-Non-OECD (EI),,1999,306.71243
-Non-OECD (EI),,2000,330.88196
-Non-OECD (EI),,2001,346.0799
-Non-OECD (EI),,2002,365.2124
-Non-OECD (EI),,2003,391.79898
-Non-OECD (EI),,2004,402.7682
-Non-OECD (EI),,2005,406.47156
-Non-OECD (EI),,2006,420.80566
-Non-OECD (EI),,2007,431.24454
-Non-OECD (EI),,2008,442.94257
-Non-OECD (EI),,2009,440.93573
-Non-OECD (EI),,2010,466.18372
-Non-OECD (EI),,2011,494.34805
-Non-OECD (EI),,2012,508.68805
-Non-OECD (EI),,2013,514.5954
-Non-OECD (EI),,2014,552.87213
-Non-OECD (EI),,2015,600.87573
-Non-OECD (EI),,2016,640.6841
-Non-OECD (EI),,2017,677.44604
-Non-OECD (EI),,2018,730.54626
-Non-OECD (EI),,2019,801.6239
-Non-OECD (EI),,2020,817.02997
-Non-OECD (EI),,2021,890.3616
-Non-OECD (EI),,2022,889.67267
-North America,,1965,3.9771569
-North America,,1966,5.9944305
-North America,,1967,8.24912
-North America,,1968,14.12381
-North America,,1969,15.189883
-North America,,1970,23.989052
-North America,,1971,44.377045
-North America,,1972,64.14904
-North America,,1973,103.12711
-North America,,1974,134.67047
-North America,,1975,194.1543
-North America,,1976,218.5776
-North America,,1977,290.4297
-North America,,1978,322.1526
-North America,,1979,303.8548
-North America,,1980,302.3642
-North America,,1981,327.09174
-North America,,1982,335.99304
-North America,,1983,357.74384
-North America,,1984,397.0874
-North America,,1985,464.40598
-North America,,1986,507.09653
-North America,,1987,556.493
-North America,,1988,637.5755
-North America,,1989,636.90436
-North America,,1990,682.6198
-North America,,1991,733.3863
-North America,,1992,735.28455
-North America,,1993,740.627
-North America,,1994,785.47046
-North America,,1995,814.45154
-North America,,1996,810.2407
-North America,,1997,754.1415
-North America,,1998,789.4177
-North America,,1999,849.5653
-North America,,2000,830.86
-North America,,2001,849.98004
-North America,,2002,861.07
-North America,,2003,844.86
-North America,,2004,883.13
-North America,,2005,879.14
-North America,,2006,890.06
-North America,,2007,904.56
-North America,,2008,903.87006
-North America,,2009,894.08997
-North America,,2010,898.16
-North America,,2011,888.15
-North America,,2012,867.23004
-North America,,2013,897.98004
-North America,,2014,907.68
-North America,,2015,904.41
-North America,,2016,911.65
-North America,,2017,911.09
-North America,,2018,915.43
-North America,,2019,915.75995
-North America,,2020,893.4
-North America,,2021,878.44
-North America,,2022,909.636
-North America (EI),,1965,3.9771569
-North America (EI),,1966,5.9824305
-North America (EI),,1967,8.21112
-North America (EI),,1968,14.105809
-North America (EI),,1969,15.189883
-North America (EI),,1970,23.98905
-North America (EI),,1971,44.37705
-North America (EI),,1972,64.14904
-North America (EI),,1973,103.12712
-North America (EI),,1974,134.67046
-North America (EI),,1975,194.1543
-North America (EI),,1976,218.5776
-North America (EI),,1977,290.42966
-North America (EI),,1978,322.1526
-North America (EI),,1979,303.85483
-North America (EI),,1980,302.3642
-North America (EI),,1981,327.09174
-North America (EI),,1982,335.99304
-North America (EI),,1983,357.7438
-North America (EI),,1984,397.08743
-North America (EI),,1985,464.40598
-North America (EI),,1986,507.09653
-North America (EI),,1987,556.493
-North America (EI),,1988,637.5755
-North America (EI),,1989,636.90436
-North America (EI),,1990,682.6198
-North America (EI),,1991,733.3863
-North America (EI),,1992,735.28455
-North America (EI),,1993,740.627
-North America (EI),,1994,785.4704
-North America (EI),,1995,814.45154
-North America (EI),,1996,810.24066
-North America (EI),,1997,754.1414
-North America (EI),,1998,789.4177
-North America (EI),,1999,849.5653
-North America (EI),,2000,874.0862
-North America (EI),,2001,894.17896
-North America (EI),,2002,905.8667
-North America (EI),,2003,888.80225
-North America (EI),,2004,928.9817
-North America (EI),,2005,925.3483
-North America (EI),,2006,936.8001
-North America (EI),,2007,952.1209
-North America (EI),,2008,953.79706
-North America (EI),,2009,940.86566
-North America (EI),,2010,945.34753
-North America (EI),,2011,934.8214
-North America (EI),,2012,912.7945
-North America (EI),,2013,945.06396
-North America (EI),,2014,955.3338
-North America (EI),,2015,951.81256
-North America (EI),,2016,959.3895
-North America (EI),,2017,958.793
-North America (EI),,2018,963.1486
-North America (EI),,2019,963.69354
-North America (EI),,2020,940.14197
-North America (EI),,2021,924.5865
-North America (EI),,2022,909.636
-North America (Ember),,2000,823.05
-North America (Ember),,2001,841.69
-North America (Ember),,2002,851.81
-North America (Ember),,2003,834.88
-North America (Ember),,2004,874.4
-North America (Ember),,2005,868.82
-North America (Ember),,2006,879.66
-North America (Ember),,2007,894.61
-North America (Ember),,2008,894.51
-North America (Ember),,2009,883.98
-North America (Ember),,2010,892.5
-North America (Ember),,2011,878.49
-North America (Ember),,2012,858.82
-North America (Ember),,2013,886.6
-North America (Ember),,2014,898.38
-North America (Ember),,2015,893.23
-North America (Ember),,2016,901.38
-North America (Ember),,2017,900.52
-North America (Ember),,2018,902.11
-North America (Ember),,2019,904.88
-North America (Ember),,2020,882.53
-North America (Ember),,2021,867.01
-North America (Ember),,2022,853.82
 North Korea,PRK,2000,0
 North Korea,PRK,2001,0
 North Korea,PRK,2002,0
@@ -5695,167 +4788,6 @@ Norway,NOR,2019,0
 Norway,NOR,2020,0
 Norway,NOR,2021,0
 Norway,NOR,2022,0
-OECD (EI),,1965,23.679157
-OECD (EI),,1966,32.35743
-OECD (EI),,1967,38.71412
-OECD (EI),,1968,48.96181
-OECD (EI),,1969,57.37488
-OECD (EI),,1970,73.13305
-OECD (EI),,1971,103.25405
-OECD (EI),,1972,141.14204
-OECD (EI),,1973,187.21211
-OECD (EI),,1974,240.82047
-OECD (EI),,1975,333.3833
-OECD (EI),,1976,383.7666
-OECD (EI),,1977,477.71823
-OECD (EI),,1978,559.42505
-OECD (EI),,1979,573.6415
-OECD (EI),,1980,618.76904
-OECD (EI),,1981,728.1341
-OECD (EI),,1982,781.33026
-OECD (EI),,1983,880.5247
-OECD (EI),,1984,1054.4463
-OECD (EI),,1985,1265.7603
-OECD (EI),,1986,1380.8177
-OECD (EI),,1987,1485.9844
-OECD (EI),,1988,1605.6355
-OECD (EI),,1989,1671.1377
-OECD (EI),,1990,1733.7792
-OECD (EI),,1991,1828.0062
-OECD (EI),,1992,1847.9021
-OECD (EI),,1993,1918.0775
-OECD (EI),,1994,1970.449
-OECD (EI),,1995,2057.6597
-OECD (EI),,1996,2113.6165
-OECD (EI),,1997,2092.0876
-OECD (EI),,1998,2141.3042
-OECD (EI),,1999,2216.9932
-OECD (EI),,2000,2249.7856
-OECD (EI),,2001,2307.4568
-OECD (EI),,2002,2330.7324
-OECD (EI),,2003,2249.5217
-OECD (EI),,2004,2358.591
-OECD (EI),,2005,2362.134
-OECD (EI),,2006,2382.305
-OECD (EI),,2007,2314.7231
-OECD (EI),,2008,2294.512
-OECD (EI),,2009,2257.7832
-OECD (EI),,2010,2302.081
-OECD (EI),,2011,2158.0784
-OECD (EI),,2012,1961.8545
-OECD (EI),,2013,1975.676
-OECD (EI),,2014,1988.2526
-OECD (EI),,2015,1974.4648
-OECD (EI),,2016,1972.9722
-OECD (EI),,2017,1959.5559
-OECD (EI),,2018,1969.6782
-OECD (EI),,2019,1994.134
-OECD (EI),,2020,1872.0143
-OECD (EI),,2021,1912.1879
-OECD (EI),,2022,1789.3385
-OECD (Ember),,2000,2186.82
-OECD (Ember),,2001,2239.83
-OECD (Ember),,2002,2244.89
-OECD (Ember),,2003,2195.85
-OECD (Ember),,2004,2287.33
-OECD (Ember),,2005,2292.84
-OECD (Ember),,2006,2313.92
-OECD (Ember),,2007,2247.91
-OECD (Ember),,2008,2225.87
-OECD (Ember),,2009,2191.54
-OECD (Ember),,2010,2233.35
-OECD (Ember),,2011,2093.54
-OECD (Ember),,2012,1905.34
-OECD (Ember),,2013,1916.79
-OECD (Ember),,2014,1931.99
-OECD (Ember),,2015,1916.91
-OECD (Ember),,2016,1913.57
-OECD (Ember),,2017,1902.3
-OECD (Ember),,2018,1914.23
-OECD (Ember),,2019,1937.28
-OECD (Ember),,2020,1817.09
-OECD (Ember),,2021,1859.35
-OECD (Ember),,2022,1740.74
-Oceania,,1965,0
-Oceania,,1966,0
-Oceania,,1967,0
-Oceania,,1968,0
-Oceania,,1969,0
-Oceania,,1970,0
-Oceania,,1971,0
-Oceania,,1972,0
-Oceania,,1973,0
-Oceania,,1974,0
-Oceania,,1975,0
-Oceania,,1976,0
-Oceania,,1977,0
-Oceania,,1978,0
-Oceania,,1979,0
-Oceania,,1980,0
-Oceania,,1981,0
-Oceania,,1982,0
-Oceania,,1983,0
-Oceania,,1984,0
-Oceania,,1985,0
-Oceania,,1986,0
-Oceania,,1987,0
-Oceania,,1988,0
-Oceania,,1989,0
-Oceania,,1990,0
-Oceania,,1991,0
-Oceania,,1992,0
-Oceania,,1993,0
-Oceania,,1994,0
-Oceania,,1995,0
-Oceania,,1996,0
-Oceania,,1997,0
-Oceania,,1998,0
-Oceania,,1999,0
-Oceania,,2000,0
-Oceania,,2001,0
-Oceania,,2002,0
-Oceania,,2003,0
-Oceania,,2004,0
-Oceania,,2005,0
-Oceania,,2006,0
-Oceania,,2007,0
-Oceania,,2008,0
-Oceania,,2009,0
-Oceania,,2010,0
-Oceania,,2011,0
-Oceania,,2012,0
-Oceania,,2013,0
-Oceania,,2014,0
-Oceania,,2015,0
-Oceania,,2016,0
-Oceania,,2017,0
-Oceania,,2018,0
-Oceania,,2019,0
-Oceania,,2020,0
-Oceania,,2021,0
-Oceania (Ember),,2000,0
-Oceania (Ember),,2001,0
-Oceania (Ember),,2002,0
-Oceania (Ember),,2003,0
-Oceania (Ember),,2004,0
-Oceania (Ember),,2005,0
-Oceania (Ember),,2006,0
-Oceania (Ember),,2007,0
-Oceania (Ember),,2008,0
-Oceania (Ember),,2009,0
-Oceania (Ember),,2010,0
-Oceania (Ember),,2011,0
-Oceania (Ember),,2012,0
-Oceania (Ember),,2013,0
-Oceania (Ember),,2014,0
-Oceania (Ember),,2015,0
-Oceania (Ember),,2016,0
-Oceania (Ember),,2017,0
-Oceania (Ember),,2018,0
-Oceania (Ember),,2019,0
-Oceania (Ember),,2020,0
-Oceania (Ember),,2021,0
-Oceania (Ember),,2022,0
 Oman,OMN,1980,0
 Oman,OMN,1981,0
 Oman,OMN,1982,0
@@ -7162,64 +6094,6 @@ South Sudan,SSD,2018,0
 South Sudan,SSD,2019,0
 South Sudan,SSD,2020,0
 South Sudan,SSD,2021,0
-South and Central America (EI),,1965,0
-South and Central America (EI),,1966,0.012
-South and Central America (EI),,1967,0.038
-South and Central America (EI),,1968,0.018
-South and Central America (EI),,1969,0.051
-South and Central America (EI),,1970,0.045
-South and Central America (EI),,1971,0.042
-South and Central America (EI),,1972,0.073
-South and Central America (EI),,1973,0.046
-South and Central America (EI),,1974,1.062
-South and Central America (EI),,1975,2.542
-South and Central America (EI),,1976,2.59
-South and Central America (EI),,1977,1.637
-South and Central America (EI),,1978,2.896
-South and Central America (EI),,1979,2.692
-South and Central America (EI),,1980,2.34
-South and Central America (EI),,1981,2.816
-South and Central America (EI),,1982,1.87
-South and Central America (EI),,1983,3.405
-South and Central America (EI),,1984,6.284
-South and Central America (EI),,1985,9.147
-South and Central America (EI),,1986,5.855
-South and Central America (EI),,1987,7.438
-South and Central America (EI),,1988,6.406
-South and Central America (EI),,1989,6.869
-South and Central America (EI),,1990,9.518
-South and Central America (EI),,1991,9.198
-South and Central America (EI),,1992,8.84
-South and Central America (EI),,1993,8.192
-South and Central America (EI),,1994,8.29
-South and Central America (EI),,1995,9.585
-South and Central America (EI),,1996,9.886
-South and Central America (EI),,1997,11.13
-South and Central America (EI),,1998,10.718
-South and Central America (EI),,1999,11.083
-South and Central America (EI),,2000,12.223
-South and Central America (EI),,2001,21.338
-South and Central America (EI),,2002,19.657
-South and Central America (EI),,2003,20.924
-South and Central America (EI),,2004,19.48
-South and Central America (EI),,2005,16.728
-South and Central America (EI),,2006,21.4751
-South and Central America (EI),,2007,19.60376
-South and Central America (EI),,2008,21.36258
-South and Central America (EI),,2009,21.14
-South and Central America (EI),,2010,21.733156
-South and Central America (EI),,2011,22.059376
-South and Central America (EI),,2012,22.4404
-South and Central America (EI),,2013,21.65669
-South and Central America (EI),,2014,20.892462
-South and Central America (EI),,2015,21.773153
-South and Central America (EI),,2016,24.149343
-South and Central America (EI),,2017,21.827196
-South and Central America (EI),,2018,22.545887
-South and Central America (EI),,2019,24.570824
-South and Central America (EI),,2020,24.063599
-South and Central America (EI),,2021,24.874403
-South and Central America (EI),,2022,22.028257
 Spain,ESP,1965,0
 Spain,ESP,1966,0
 Spain,ESP,1967,0
@@ -7863,26 +6737,26 @@ Turks and Caicos Islands,TCA,2018,0
 Turks and Caicos Islands,TCA,2019,0
 Turks and Caicos Islands,TCA,2020,0
 Turks and Caicos Islands,TCA,2021,0
-USSR,OWID_USS,1965,1.8605675
-USSR,OWID_USS,1966,2.0638597
-USSR,OWID_USS,1967,2.253894
-USSR,OWID_USS,1968,3.1333547
-USSR,OWID_USS,1969,3.6327467
-USSR,OWID_USS,1970,4.388464
-USSR,OWID_USS,1971,5.3872485
-USSR,OWID_USS,1972,9.833165
-USSR,OWID_USS,1973,14.310018
-USSR,OWID_USS,1974,21.460606
-USSR,OWID_USS,1975,28.615616
-USSR,OWID_USS,1976,38.15268
-USSR,OWID_USS,1977,51.03081
-USSR,OWID_USS,1978,52.462696
-USSR,OWID_USS,1979,59.617706
-USSR,OWID_USS,1980,73.9233
-USSR,OWID_USS,1981,87.0887
-USSR,OWID_USS,1982,100.25409
-USSR,OWID_USS,1983,111.39539
-USSR,OWID_USS,1984,143.79843
+Russia,OWID_USS,1965,1.8605675
+Russia,OWID_USS,1966,2.0638597
+Russia,OWID_USS,1967,2.253894
+Russia,OWID_USS,1968,3.1333547
+Russia,OWID_USS,1969,3.6327467
+Russia,OWID_USS,1970,4.388464
+Russia,OWID_USS,1971,5.3872485
+Russia,OWID_USS,1972,9.833165
+Russia,OWID_USS,1973,14.310018
+Russia,OWID_USS,1974,21.460606
+Russia,OWID_USS,1975,28.615616
+Russia,OWID_USS,1976,38.15268
+Russia,OWID_USS,1977,51.03081
+Russia,OWID_USS,1978,52.462696
+Russia,OWID_USS,1979,59.617706
+Russia,OWID_USS,1980,73.9233
+Russia,OWID_USS,1981,87.0887
+Russia,OWID_USS,1982,100.25409
+Russia,OWID_USS,1983,111.39539
+Russia,OWID_USS,1984,143.79843
 Uganda,UGA,2000,0
 Uganda,UGA,2001,0
 Uganda,UGA,2002,0
@@ -8059,144 +6933,64 @@ United Kingdom,GBR,2019,56.18
 United Kingdom,GBR,2020,50.85
 United Kingdom,GBR,2021,46.88
 United Kingdom,GBR,2022,48.16
-United States,USA,1965,3.8491569
-United States,USA,1966,5.8104305
-United States,USA,1967,8.05812
-United States,USA,1968,13.18781
-United States,USA,1969,14.660883
-United States,USA,1970,22.952051
-United States,USA,1971,40.110046
-United States,USA,1972,56.938038
-United States,USA,1973,87.873116
-United States,USA,1974,119.974464
-United States,USA,1975,181.58429
-United States,USA,1976,201.1616
-United States,USA,1977,264.08768
-United States,USA,1978,290.9506
-United States,USA,1979,268.5838
-United States,USA,1980,264.33218
-United States,USA,1981,287.02475
-United States,USA,1982,297.65604
-United States,USA,1983,309.13382
-United States,USA,1984,344.8774
-United States,USA,1985,403.88498
-United States,USA,1986,435.82953
-United States,USA,1987,479.232
-United States,USA,1988,554.7085
-United States,USA,1989,557.2155
-United States,USA,1990,607.22284
-United States,USA,1991,644.80536
-United States,USA,1992,651.34344
-United States,USA,1993,642.4118
-United States,USA,1994,674.1472
-United States,USA,1995,708.84436
-United States,USA,1996,710.2406
-United States,USA,1997,661.7307
-United States,USA,1998,709.1601
-United States,USA,1999,766.5833
-United States,USA,2000,753.89
-United States,USA,2001,768.83
-United States,USA,2002,780.06
-United States,USA,2003,763.73
-United States,USA,2004,788.53
-United States,USA,2005,781.99
-United States,USA,2006,787.22
-United States,USA,2007,806.42
-United States,USA,2008,806.21
-United States,USA,2009,798.85
-United States,USA,2010,806.97
-United States,USA,2011,790.2
-United States,USA,2012,769.33
-United States,USA,2013,789.02
-United States,USA,2014,797.17
-United States,USA,2015,797.18
-United States,USA,2016,805.69
-United States,USA,2017,804.95
-United States,USA,2018,807.08
-United States,USA,2019,809.41
-United States,USA,2020,789.88
-United States,USA,2021,779.65
-United States,USA,2022,771.54
-United States Virgin Islands,VIR,2000,0
-United States Virgin Islands,VIR,2001,0
-United States Virgin Islands,VIR,2002,0
-United States Virgin Islands,VIR,2003,0
-United States Virgin Islands,VIR,2004,0
-United States Virgin Islands,VIR,2005,0
-United States Virgin Islands,VIR,2006,0
-United States Virgin Islands,VIR,2007,0
-United States Virgin Islands,VIR,2008,0
-United States Virgin Islands,VIR,2009,0
-United States Virgin Islands,VIR,2010,0
-United States Virgin Islands,VIR,2011,0
-United States Virgin Islands,VIR,2012,0
-United States Virgin Islands,VIR,2013,0
-United States Virgin Islands,VIR,2014,0
-United States Virgin Islands,VIR,2015,0
-United States Virgin Islands,VIR,2016,0
-United States Virgin Islands,VIR,2017,0
-United States Virgin Islands,VIR,2018,0
-United States Virgin Islands,VIR,2019,0
-United States Virgin Islands,VIR,2020,0
-United States Virgin Islands,VIR,2021,0
-Upper-middle-income countries,,1965,1.8605675
-Upper-middle-income countries,,1966,2.0638597
-Upper-middle-income countries,,1967,2.253894
-Upper-middle-income countries,,1968,3.1333547
-Upper-middle-income countries,,1969,3.6327467
-Upper-middle-income countries,,1970,4.388464
-Upper-middle-income countries,,1971,5.3872485
-Upper-middle-income countries,,1972,9.833165
-Upper-middle-income countries,,1973,14.310018
-Upper-middle-income countries,,1974,23.424606
-Upper-middle-income countries,,1975,33.686615
-Upper-middle-income countries,,1976,45.71368
-Upper-middle-income countries,,1977,58.55181
-Upper-middle-income countries,,1978,61.268696
-Upper-middle-income countries,,1979,68.48971
-Upper-middle-income countries,,1980,82.4283
-Upper-middle-income countries,,1981,99.0237
-Upper-middle-income countries,,1982,112.87009
-Upper-middle-income countries,,1983,127.11839
-Upper-middle-income countries,,1984,166.74243
-Upper-middle-income countries,,1985,126.91018
-Upper-middle-income countries,,1986,131.9495
-Upper-middle-income countries,,1987,150.74321
-Upper-middle-income countries,,1988,167.7428
-Upper-middle-income countries,,1989,169.34613
-Upper-middle-income countries,,1990,153.89401
-Upper-middle-income countries,,1991,156.29097
-Upper-middle-income countries,,1992,153.68904
-Upper-middle-income countries,,1993,155.58736
-Upper-middle-income countries,,1994,150.51707
-Upper-middle-income countries,,1995,159.03455
-Upper-middle-income countries,,1996,171.07338
-Upper-middle-income countries,,1997,175.20052
-Upper-middle-income countries,,1998,168.3904
-Upper-middle-income countries,,1999,186.559
-Upper-middle-income countries,,2000,190.97
-Upper-middle-income countries,,2001,204.19
-Upper-middle-income countries,,2002,222.06
-Upper-middle-income countries,,2003,246.68001
-Upper-middle-income countries,,2004,248.88
-Upper-middle-income countries,,2005,250.01001
-Upper-middle-income countries,,2006,262
-Upper-middle-income countries,,2007,268.03
-Upper-middle-income countries,,2008,280.66
-Upper-middle-income countries,,2009,281.87
-Upper-middle-income countries,,2010,290.71
-Upper-middle-income countries,,2011,311.18
-Upper-middle-income countries,,2012,324.38998
-Upper-middle-income countries,,2013,334.59
-Upper-middle-income countries,,2014,364.21002
-Upper-middle-income countries,,2015,414.84
-Upper-middle-income countries,,2016,463.47
-Upper-middle-income countries,,2017,502.47
-Upper-middle-income countries,,2018,539.97
-Upper-middle-income countries,,2019,610.44
-Upper-middle-income countries,,2020,647.22003
-Upper-middle-income countries,,2021,702.51
-Upper-middle-income countries,,2022,705.61633
+United States of America,USA,1965,3.8491569
+United States of America,USA,1966,5.8104305
+United States of America,USA,1967,8.05812
+United States of America,USA,1968,13.18781
+United States of America,USA,1969,14.660883
+United States of America,USA,1970,22.952051
+United States of America,USA,1971,40.110046
+United States of America,USA,1972,56.938038
+United States of America,USA,1973,87.873116
+United States of America,USA,1974,119.974464
+United States of America,USA,1975,181.58429
+United States of America,USA,1976,201.1616
+United States of America,USA,1977,264.08768
+United States of America,USA,1978,290.9506
+United States of America,USA,1979,268.5838
+United States of America,USA,1980,264.33218
+United States of America,USA,1981,287.02475
+United States of America,USA,1982,297.65604
+United States of America,USA,1983,309.13382
+United States of America,USA,1984,344.8774
+United States of America,USA,1985,403.88498
+United States of America,USA,1986,435.82953
+United States of America,USA,1987,479.232
+United States of America,USA,1988,554.7085
+United States of America,USA,1989,557.2155
+United States of America,USA,1990,607.22284
+United States of America,USA,1991,644.80536
+United States of America,USA,1992,651.34344
+United States of America,USA,1993,642.4118
+United States of America,USA,1994,674.1472
+United States of America,USA,1995,708.84436
+United States of America,USA,1996,710.2406
+United States of America,USA,1997,661.7307
+United States of America,USA,1998,709.1601
+United States of America,USA,1999,766.5833
+United States of America,USA,2000,753.89
+United States of America,USA,2001,768.83
+United States of America,USA,2002,780.06
+United States of America,USA,2003,763.73
+United States of America,USA,2004,788.53
+United States of America,USA,2005,781.99
+United States of America,USA,2006,787.22
+United States of America,USA,2007,806.42
+United States of America,USA,2008,806.21
+United States of America,USA,2009,798.85
+United States of America,USA,2010,806.97
+United States of America,USA,2011,790.2
+United States of America,USA,2012,769.33
+United States of America,USA,2013,789.02
+United States of America,USA,2014,797.17
+United States of America,USA,2015,797.18
+United States of America,USA,2016,805.69
+United States of America,USA,2017,804.95
+United States of America,USA,2018,807.08
+United States of America,USA,2019,809.41
+United States of America,USA,2020,789.88
+United States of America,USA,2021,779.65
+United States of America,USA,2022,771.54
 Uruguay,URY,2000,0
 Uruguay,URY,2001,0
 Uruguay,URY,2002,0
@@ -8347,28 +7141,6 @@ Vietnam,VNM,2019,0
 Vietnam,VNM,2020,0
 Vietnam,VNM,2021,0
 Vietnam,VNM,2022,0
-Western Africa (EI),,1981,0
-Western Africa (EI),,1982,0
-Western Africa (EI),,1983,0
-Western Africa (EI),,1984,0
-Western Africa (EI),,1985,0
-Western Africa (EI),,1986,0
-Western Africa (EI),,1987,0
-Western Africa (EI),,1988,0
-Western Africa (EI),,1989,0
-Western Africa (EI),,1990,0
-Western Africa (EI),,1991,0
-Western Africa (EI),,1992,0
-Western Africa (EI),,1993,0
-Western Africa (EI),,1994,0
-Western Africa (EI),,1995,0
-Western Africa (EI),,1996,0
-Western Africa (EI),,1997,0
-Western Africa (EI),,1998,0
-Western Africa (EI),,1999,0
-Western Africa (EI),,2000,0
-Western Africa (EI),,2014,0
-Western Africa (EI),,2015,0
 Western Sahara,ESH,2000,0
 Western Sahara,ESH,2001,0
 Western Sahara,ESH,2002,0
@@ -8391,64 +7163,6 @@ Western Sahara,ESH,2018,0
 Western Sahara,ESH,2019,0
 Western Sahara,ESH,2020,0
 Western Sahara,ESH,2021,0
-World,OWID_WRL,1965,25.539724
-World,OWID_WRL,1966,34.43329
-World,OWID_WRL,1967,41.006016
-World,OWID_WRL,1968,52.113163
-World,OWID_WRL,1969,61.783413
-World,OWID_WRL,1970,78.87466
-World,OWID_WRL,1971,109.70418
-World,OWID_WRL,1972,152.17516
-World,OWID_WRL,1973,203.90158
-World,OWID_WRL,1974,266.6001
-World,OWID_WRL,1975,369.8482
-World,OWID_WRL,1976,432.67142
-World,OWID_WRL,1977,538.5478
-World,OWID_WRL,1978,625.7944
-World,OWID_WRL,1979,650.8599
-World,OWID_WRL,1980,711.9242
-World,OWID_WRL,1981,840.75073
-World,OWID_WRL,1982,912.17755
-World,OWID_WRL,1983,1033.8127
-World,OWID_WRL,1984,1254.5685
-World,OWID_WRL,1985,1488.9216
-World,OWID_WRL,1986,1594.7357
-World,OWID_WRL,1987,1734.7332
-World,OWID_WRL,1988,1891.2493
-World,OWID_WRL,1989,1945.0106
-World,OWID_WRL,1990,2000.596
-World,OWID_WRL,1991,2096.3098
-World,OWID_WRL,1992,2112.223
-World,OWID_WRL,1993,2184.9646
-World,OWID_WRL,1994,2225.9788
-World,OWID_WRL,1995,2322.5298
-World,OWID_WRL,1996,2406.615
-World,OWID_WRL,1997,2390.0642
-World,OWID_WRL,1998,2431.1948
-World,OWID_WRL,1999,2523.7056
-World,OWID_WRL,2000,2507.43
-World,OWID_WRL,2001,2573.71
-World,OWID_WRL,2002,2601.89
-World,OWID_WRL,2003,2577.71
-World,OWID_WRL,2004,2682.73
-World,OWID_WRL,2005,2686.95
-World,OWID_WRL,2006,2721.42
-World,OWID_WRL,2007,2666.92
-World,OWID_WRL,2008,2656.04
-World,OWID_WRL,2009,2619
-World,OWID_WRL,2010,2686.44
-World,OWID_WRL,2011,2575.35
-World,OWID_WRL,2012,2403.21
-World,OWID_WRL,2013,2418.44
-World,OWID_WRL,2014,2472.7
-World,OWID_WRL,2015,2502.45
-World,OWID_WRL,2016,2540.48
-World,OWID_WRL,2017,2566.22
-World,OWID_WRL,2018,2619.57
-World,OWID_WRL,2019,2724.08
-World,OWID_WRL,2020,2634.69
-World,OWID_WRL,2021,2740.78
-World,OWID_WRL,2022,2610.04
 Yemen,YEM,2000,0
 Yemen,YEM,2001,0
 Yemen,YEM,2002,0
