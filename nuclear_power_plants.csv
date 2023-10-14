@@ -1,804 +1,637 @@
-Latitude,Longitude,Country,Status,OperationalFrom,Capacity,Year
-59.206,18.0829,Sweden,Shutdown,1/5/1964,9,1964
-69.709579,170.30625,Russia,Operational,22/5/2020,30,2020
-69.709579,170.30625,Russia,Operational,22/5/2020,30,2020
-,,Iran,Planned,,,1900
-,,Iran,Planned,,,1900
-36.144444,33.541111,Türkiye,Under Construction,,1114,1900
-36.144444,33.541111,Türkiye,Under Construction,,1114,1900
-36.144444,33.541111,Türkiye,Under Construction,,1114,1900
-36.144444,33.541111,Türkiye,Under Construction,,1114,1900
-43.607,51.283,Kazakhstan,Shutdown,16/7/1973,52,1973
-39.807,-5.698,Spain,Operational,1/9/1983,900,1983
-39.807,-5.698,Spain,Operational,1/7/1984,900,1984
--23.008,-44.457,Brazil,Operational,1/1/1985,609,1985
--23.008,-44.457,Brazil,Operational,1/2/2001,1245,2001
--23.01,-44.47,Brazil,Under Construction,,1340,1900
-55.084,36.57,Russia,Shutdown,1/12/1954,5,1954
-35.31,-93.23,United States,Operational,19/12/1974,850,1974
-35.31,-93.229,United States,Operational,26/3/1980,912,1980
-40.182,44.147,Armenia,Shutdown,6/10/1977,376,1977
-40.182,44.147,Armenia,Operational,3/5/1980,375,1980
-40.1808,44.1472,Armenia,Planned,,,1900
-41.202,0.571,Spain,Operational,10/12/1984,888,1984
-41.202,0.571,Spain,Operational,31/3/1986,888,1986
--33.967,-59.209,Argentina,Operational,24/6/1974,319,1974
--33.967,-59.209,Argentina,Operational,25/5/2016,692,2016
-52.092,47.952,Russia,Operational,23/5/1986,950,1986
-52.092,47.952,Russia,Operational,18/1/1988,950,1988
-52.092,47.952,Russia,Operational,8/4/1989,950,1989
-52.092,47.952,Russia,Operational,22/12/1993,950,1993
-54.939,22.162,Russia,Under Construction,,1109,1900
-23.952748,52.193298,United Arab Emirates,Operational,1/4/2021,1310,2021
-23.952748,52.193298,United Arab Emirates,Operational,24/3/2022,1310,2022
-23.952748,52.203298,United Arab Emirates,Operational,24/2/2023,1310,2023
-,,India,Planned,,,1900
-,,India,Planned,,,1900
-55.745,12.926,Sweden,Shutdown,1/7/1975,570,1975
-55.745,12.926,Sweden,Shutdown,1/7/1977,570,1977
-40.624,-80.432,United States,Operational,1/10/1976,835,1976
-40.624,-80.432,United States,Operational,17/11/1987,836,1987
-54.766667,26.116667,Belarus,Operational,10/6/2021,1110,2021
-54.766667,26.116667,Belarus,Operational,,1110,1900
-43.62453,25.18675,Bulgaria,Cancelled Construction,,953,1900
-43.62453,25.1865,Bulgaria,Cancelled Construction,,953,1900
-47.511,2.871,France,Operational,1/6/1988,1310,1988
-47.511,2.871,France,Operational,1/1/1989,1310,1989
-56.842,61.321,Russia,Shutdown,26/4/1964,102,1964
-56.842,61.321,Russia,Shutdown,1/12/1969,146,1969
-56.842,61.321,Russia,Operational,1/11/1981,560,1981
-56.842,61.321,Russia,Operational,31/10/2016,820,2016
-56.842,61.321,Russia,Planned,,,1900
-51.692,-2.494,United Kingdom,Shutdown,12/6/1962,138,1962
-51.692,-2.494,United Kingdom,Shutdown,20/10/1962,138,1962
-47.552,8.229,Switzerland,Operational,9/12/1969,350,1969
-47.552,8.229,Switzerland,Operational,4/3/1972,350,1972
-49.709,8.415,Germany,Shutdown,26/2/1975,1146,1975
-49.709,8.415,Germany,Shutdown,31/1/1977,1178,1977
-45.359,-85.195,United States,Shutdown,29/3/1963,72,1963
-68.059,166.492,Russia,Shutdown,1/4/1974,11,1974
-68.059,166.492,Russia,Operational,1/2/1975,11,1975
-68.059,166.492,Russia,Operational,1/2/1976,11,1976
-68.059,166.492,Russia,Operational,1/1/1977,11,1977
-45.256,-0.691,France,Operational,1/12/1981,910,1981
-45.256,-0.691,France,Operational,1/2/1983,910,1983
-45.256,-0.691,France,Operational,14/11/1983,910,1983
-45.256,-0.691,France,Operational,1/10/1983,910,1983
-48.494,17.687,Slovakia,Shutdown,1/4/1980,408,1980
-48.494,17.687,Slovakia,Shutdown,1/1/1981,408,1981
-48.494,17.687,Slovakia,Operational,14/2/1985,466,1985
-48.494,17.687,Slovakia,Operational,18/12/1985,466,1985
-48.494,17.687,Slovakia,Shutdown,25/12/1972,110,1972
-18.365,-67.268,United States,Shutdown,1/9/1965,17,1965
-51.431,3.719,Netherlands,Operational,26/10/1973,495,1973
-51.217,5.099,Belgium,Shutdown,10/10/1962,11,1962
-51.742,0.899,United Kingdom,Shutdown,1/7/1962,150,1962
-51.742,0.899,United Kingdom,Shutdown,12/11/1962,150,1962
-41.247,-88.23,United States,Operational,29/7/1988,1120,1988
-41.247,-88.23,United States,Operational,17/10/1988,1120,1988
-53.85,9.345,Germany,Shutdown,22/12/1986,1307,1986
-34.704,-87.119,United States,Operational,20/12/1974,1065,1974
-34.704,-87.119,United States,Operational,1/3/1975,1065,1975
-34.704,-87.119,United States,Operational,1/3/1977,1065,1977
-44.341,-81.572,Canada,Operational,1/9/1977,732,1977
-44.341,-81.572,Canada,Operational,1/9/1977,732,1977
-44.341,-81.572,Canada,Operational,1/2/1978,750,1978
-44.341,-81.572,Canada,Operational,18/1/1979,750,1979
-44.341,-81.572,Canada,Operational,28/2/1985,822,1985
-44.341,-81.572,Canada,Operational,14/9/1984,822,1984
-44.341,-81.572,Canada,Operational,10/4/1986,822,1986
-44.341,-81.572,Canada,Operational,20/5/1987,795,1987
-53.891,9.202,Germany,Shutdown,9/2/1977,770,1977
-33.958,-78.007,United States,Operational,18/3/1977,821,1977
-33.958,-78.007,United States,Operational,3/11/1975,821,1975
-45.796,5.268,France,Shutdown,1/7/1972,540,1972
-45.796,5.268,France,Operational,1/3/1979,920,1979
-45.798,5.268,France,Operational,1/3/1979,920,1979
-45.8,5.267,France,Operational,1/7/1979,900,1979
-45.8,5.267,France,Operational,3/1/1980,900,1980
-28.831,50.887,Iran,Operational,23/9/2013,915,2013
-28.8287,50.8895,Iran,Under Construction,,974,1900
-28.8305,50.8872,Iran,Planned,,,1900
-28.8305,50.8872,Iran,Planned,,,1900
-42.074,-89.277,United States,Operational,16/9/1985,1120,1985
-42.074,-89.277,United States,Operational,2/8/1987,1120,1987
-54.42,-3.491,United Kingdom,Shutdown,1/10/1956,35,1956
-54.42,-3.491,United Kingdom,Shutdown,1/2/1957,35,1957
-54.42,-3.491,United Kingdom,Shutdown,1/5/1958,35,1958
-54.42,-3.491,United Kingdom,Shutdown,1/4/1959,35,1959
-38.763,-91.781,United States,Operational,19/12/1984,1171,1984
-38.435,-76.439,United States,Operational,8/5/1975,845,1975
-38.435,-76.439,United States,Operational,1/4/1977,845,1977
-45.072,9.872,Italy,Shutdown,1/12/1981,840,1981
--33.966667,-59.211111,Argentina,Under Construction,,25,1900
-34.263,-81.33,United States,Shutdown,18/12/1963,17,1963
-35.053,-81.071,United States,Operational,29/6/1985,1145,1985
-35.053,-81.071,United States,Operational,19/8/1986,1145,1986
-49.416,6.217,France,Operational,1/4/1987,1300,1987
-49.416,6.217,France,Operational,1/2/1988,1300,1988
-49.416,6.217,France,Operational,1/2/1991,1300,1991
-49.416,6.217,France,Operational,1/1/1992,1300,1992
-39.739,116.03,China,Operational,,20,1900
-44.322,28.061,Romania,Operational,2/12/1996,650,1996
-44.322,28.061,Romania,Operational,1/11/2007,650,2007
-44.322,28.061,Romania,Suspended Construction,,655,1900
-19.46075,108.899917,China,Operational,25/12/2015,601,2015
-19.46075,108.899917,China,Operational,12/8/2016,601,2016
-55.014,-3.223,United Kingdom,Shutdown,1/3/1959,35,1959
-55.014,-3.223,United Kingdom,Shutdown,1/8/1959,35,1959
-55.014,-3.223,United Kingdom,Shutdown,1/12/1959,35,1959
-55.014,-3.223,United Kingdom,Shutdown,1/3/1960,35,1960
-32.392,71.463,Pakistan,Operational,15/9/2000,300,2000
-32.392,71.463,Pakistan,Operational,18/5/2011,300,2011
-32.392,71.465,Pakistan,Operational,6/12/2016,315,2016
-32.391944,71.461667,Pakistan,Operational,19/9/2017,313,2017
-51.389,30.103,Ukraine,Shutdown,27/5/1978,925,1978
-51.389,30.103,Ukraine,Shutdown,28/5/1979,925,1979
-51.389,30.103,Ukraine,Shutdown,8/6/1982,925,1982
-51.389,30.103,Ukraine,Shutdown,26/3/1984,925,1984
-25.292,121.567,Taiwan,Shutdown,10/12/1978,604,1978
-25.292,121.567,Taiwan,Shutdown,15/7/1979,604,1979
-47.232,0.167,France,Shutdown,1/2/1964,68,1964
-47.232,0.167,France,Shutdown,24/2/1965,170,1965
-47.232,0.167,France,Shutdown,4/8/1966,480,1966
-47.232,0.167,France,Operational,1/2/1984,870,1984
-47.232,0.167,France,Operational,1/8/1984,870,1984
-47.232,0.167,France,Operational,4/3/1987,905,1987
-47.232,0.167,France,Operational,1/4/1988,905,1988
-50.086,4.792,France,Shutdown,15/4/1967,280,1967
-50.086,4.792,France,Operational,15/5/2000,1455,2000
-50.086,4.792,France,Operational,29/9/2000,1455,2000
-46.457,0.654,France,Operational,29/1/2002,1450,2002
-46.457,0.654,France,Operational,23/4/2002,1450,2002
-40.172,-88.834,United States,Operational,24/11/1987,950,1987
-39.216,-1.051,Spain,Operational,11/3/1985,939,1985
-46.471,-119.333,United States,Operational,13/12/1984,1100,1984
-32.301,-97.787,United States,Operational,13/8/1990,1150,1990
-32.301,-97.787,United States,Operational,3/8/1993,1150,1993
-40.361,-95.643,United States,Operational,1/7/1974,778,1974
-44.634,4.757,France,Operational,2/4/1984,880,1984
-44.634,4.757,France,Operational,1/4/1985,915,1985
-44.634,4.757,France,Operational,10/9/1984,880,1984
-44.634,4.757,France,Operational,11/2/1985,880,1985
-28.966,-82.697,United States,Shutdown,13/3/1977,825,1977
-47.732,2.513,France,Operational,10/9/1980,890,1980
-47.732,2.513,France,Operational,16/2/1981,890,1981
-47.732,2.513,France,Operational,27/5/1981,890,1981
-47.732,2.513,France,Operational,20/11/1981,890,1981
-30.707778,48.38,Iran,Unknown,,,1900
-43.867,-78.724,Canada,Operational,14/11/1992,881,1992
-43.867,-78.724,Canada,Operational,9/10/1990,881,1990
-43.867,-78.724,Canada,Operational,14/2/1993,881,1993
-43.867,-78.724,Canada,Operational,14/6/1993,881,1993
-43.8644,-78.7244,Canada,Planned,,,1900
-43.8633,-78.7244,Canada,Planned,,,1900
-41.597,-83.092,United States,Operational,31/7/1978,906,1978
-22.599,114.544,China,Operational,1/2/1994,930,1994
-22.599,114.544,China,Operational,6/5/1994,930,1994
-35.212,-120.854,United States,Operational,7/5/1985,1084,1985
-35.212,-120.854,United States,Operational,13/3/1986,1106,1986
-51.323,4.259,Belgium,Operational,15/2/1975,392,1975
-51.323,4.259,Belgium,Operational,1/12/1975,445,1975
-51.323,4.259,Belgium,Shutdown,1/10/1982,890,1982
-51.323,4.259,Belgium,Operational,1/7/1985,1000,1985
-41.975,-86.564,United States,Operational,28/8/1975,1030,1975
-41.975,-86.564,United States,Operational,1/7/1978,1100,1978
-44.326,-81.601,Canada,Shutdown,26/9/1968,203,1968
-58.577,-3.745,United Kingdom,Shutdown,1/10/1962,14,1962
-58.577,-3.745,United Kingdom,Shutdown,1/7/1976,234,1976
-41.353,-88.349,United States,Shutdown,4/7/1960,192,1960
-41.353,-88.349,United States,Operational,9/6/1970,794,1970
-41.353,-88.349,United States,Operational,16/11/1971,794,1971
-42.101,-91.776,United States,Shutdown,1/2/1975,601,1975
-49.089,16.149,Czechia,Operational,3/5/1985,420,1985
-49.089,16.149,Czechia,Operational,21/3/1986,420,1986
-49.089,16.149,Czechia,Operational,20/12/1986,420,1986
-49.089,16.149,Czechia,Operational,19/7/1987,420,1987
-50.914,0.962,United Kingdom,Shutdown,28/10/1965,275,1965
-50.914,0.962,United Kingdom,Shutdown,30/12/1965,275,1965
-50.914,0.962,United Kingdom,Shutdown,1/4/1985,607,1985
-50.914,0.962,United Kingdom,Shutdown,1/4/1989,607,1989
-31.044167,28.497778,Egypt,Under Construction,,1100,1900
-48.35,-3.866667,France,Shutdown,1/6/1968,70,1968
-45.297,-93.557,United States,Shutdown,1/7/1964,22,1964
--32.232,-64.442,Argentina,Operational,20/1/1984,608,1984
-52.471,7.322,Germany,Shutdown,20/6/1988,1242,1988
-45.183333,8.283333,Italy,Shutdown,1/1/1965,247,1965
-41.96,-83.257,United States,Shutdown,7/8/1966,60,1966
-41.96,-83.257,United States,Operational,23/1/1988,1093,1988
-21.6,108.3,China,Operational,1/1/2016,1000,2016
-21.6,108.3,China,Operational,1/10/2016,1000,2016
-30.416,120.951,China,Operational,15/12/2014,1000,2014
-30.416,120.951,China,Operational,12/2/2015,1000,2015
-31.223,-85.115,United States,Operational,1/12/1977,829,1977
-31.223,-85.115,United States,Operational,30/7/1981,829,1981
-47.903,7.564,France,Shutdown,1/1/1978,880,1978
-47.903,7.564,France,Shutdown,1/4/1978,880,1978
-43.521,-76.403,United States,Operational,28/7/1975,821,1975
-49.537,-1.881,France,Operational,1/12/1986,1330,1986
-49.537,-1.881,France,Operational,9/3/1987,1330,1987
-49.537,-1.881,France,Under Construction,,1630,1900
-60.405,18.168,Sweden,Operational,10/12/1980,900,1980
-60.405,18.168,Sweden,Operational,7/7/1981,900,1981
-60.405,18.168,Sweden,Operational,18/8/1985,1050,1985
-41.52,-96.076,United States,Shutdown,26/9/1973,478,1973
-40.244,-104.874,United States,Shutdown,1/7/1979,330,1979
-35.751,136.02,Japan,Shutdown,20/3/1979,148,1979
-37.423,141.032,Japan,Shutdown,26/3/1971,439,1971
-37.423,141.032,Japan,Shutdown,18/7/1974,760,1974
-37.423,141.032,Japan,Shutdown,27/3/1976,760,1976
-37.423,141.032,Japan,Shutdown,12/10/1978,760,1978
-37.423,141.032,Japan,Shutdown,18/4/1978,760,1978
-37.423,141.032,Japan,Shutdown,24/10/1979,1067,1979
-37.315,141.024,Japan,Shutdown,20/4/1982,1067,1982
-37.315,141.024,Japan,Shutdown,3/2/1984,1067,1984
-37.315,141.024,Japan,Shutdown,21/6/1985,1067,1985
-37.315,141.024,Japan,Shutdown,25/8/1987,1067,1987
-25.443,119.453,China,Operational,22/11/2014,1000,2014
-25.443,119.453,China,Operational,16/10/2015,1000,2015
-25.720278,119.383889,China,Operational,24/10/2016,1000,2016
-25.720278,119.383889,China,Operational,17/9/2017,1000,2017
-25.720278,119.383889,China,Operational,30/1/2021,1075,2021
-25.720278,119.383889,China,Operational,25/3/2022,1075,2022
-44.142,4.713,France,Shutdown,22/4/1959,36,1959
-44.142,4.713,France,Shutdown,4/4/1960,36,1960
-41.258,13.835,Italy,Shutdown,1/6/1964,150,1964
-37.613056,-121.84,United States,Shutdown,19/10/1957,24,1957
-33.518,129.837,Japan,Shutdown,15/10/1975,529,1975
-33.518,129.837,Japan,Shutdown,30/3/1981,529,1981
-33.518,129.837,Japan,Operational,18/3/1994,1127,1994
-33.518,129.837,Japan,Operational,25/7/1997,1127,1997
-46.395,-72.357,Canada,Shutdown,1/5/1972,250,1972
-46.395,-72.357,Canada,Shutdown,1/10/1983,645,1983
-51.899,5.687,Netherlands,Shutdown,26/3/1969,54,1969
-47.366,7.969,Switzerland,Operational,1/11/1979,920,1979
-44.105,0.845,France,Operational,1/2/1991,1310,1991
-44.105,0.845,France,Operational,4/3/1994,1310,1994
-49.984,10.186,Germany,Shutdown,17/6/1982,1225,1982
-32.007,-91.045,United States,Operational,1/7/1985,1250,1985
-51.014,2.138,France,Operational,25/11/1980,910,1980
-51.014,2.138,France,Operational,1/12/1980,910,1980
-51.014,2.138,France,Operational,1/6/1981,910,1981
-51.014,2.138,France,Operational,1/10/1981,910,1981
-51.014,2.138,France,Operational,15/1/1985,910,1985
-51.014,2.138,France,Operational,25/10/1985,910,1985
-54.143,13.668,Germany,Shutdown,12/7/1974,440,1974
-54.143,13.668,Germany,Shutdown,16/4/1975,408,1975
-54.143,13.668,Germany,Shutdown,1/5/1978,408,1978
-54.143,13.668,Germany,Shutdown,1/11/1979,408,1979
-54.143,13.668,Germany,Shutdown,1/11/1989,408,1989
-52.033,9.412,Germany,Shutdown,1/2/1985,1289,1985
-50.055,8.985,Germany,Decommissioning Completed,,23,1900
-48.513,10.401,Germany,Shutdown,12/4/1967,237,1967
-48.513,10.401,Germany,Shutdown,19/7/1984,1244,1984
-48.513,10.401,Germany,Shutdown,18/1/1985,1249,1985
-34.402,-80.158,United States,Operational,7/3/1971,700,1971
-41.483,-72.5,United States,Shutdown,1/1/1968,582,1968
-36.704,121.382,China,Operational,22/10/2018,1126,2018
-36.704,121.382,China,Operational,9/1/2019,1126,2019
-36.704,121.382,China,Under Construction,,1161,1900
-36.704,121.382,China,Under Construction,,1161,1900
-40.559,-96.785,United States,Shutdown,1/11/1963,75,1963
-34.621,138.141,Japan,Shutdown,17/3/1976,516,1976
-34.621,138.141,Japan,Shutdown,29/11/1978,814,1978
-34.621,138.141,Japan,Suspended Operation,28/8/1987,1056,1987
-34.621,138.141,Japan,Suspended Operation,3/9/1993,1092,1993
-34.621,138.141,Japan,Suspended Operation,18/1/2005,1325,2005
-34.621,138.141,Japan,Planned,,,1900
-35.405,126.41,South Korea,Operational,25/8/1986,903,1986
-35.405,126.41,South Korea,Operational,10/6/1987,903,1987
-35.405,126.41,South Korea,Operational,31/3/1995,950,1995
-35.405,126.41,South Korea,Operational,1/1/1996,950,1996
-35.405,126.41,South Korea,Operational,21/5/2002,950,2002
-35.405,126.41,South Korea,Operational,24/12/2002,993,2002
-37.09,129.384444,South Korea,Operational,10/9/1988,903,1988
-37.09,129.384444,South Korea,Operational,30/9/1989,903,1989
-37.09,129.384444,South Korea,Operational,11/8/1998,997,1998
-37.09,129.384444,South Korea,Operational,31/12/1999,950,1999
-37.09,129.384444,South Korea,Operational,29/7/2004,950,2004
-37.09,129.384444,South Korea,Operational,22/4/2005,950,2005
-54.634,-1.18,United Kingdom,Operational,1/4/1989,590,1989
-54.634,-1.18,United Kingdom,Operational,1/4/1989,595,1989
-31.935,-82.346,United States,Operational,31/12/1975,777,1975
-31.935,-82.346,United States,Operational,5/9/1979,784,1979
-54.029,-2.912,United Kingdom,Operational,1/4/1989,611,1989
-54.029,-2.912,United Kingdom,Operational,1/4/1989,611,1989
-54.029,-2.912,United Kingdom,Operational,1/4/1989,615,1989
-54.029,-2.912,United Kingdom,Operational,1/4/1989,615,1989
-41.188,141.393,Japan,Suspended Operation,8/12/2005,1067,2005
-41.1856,141.388,Japan,Planned,,,1900
-41.1856,141.39,Japan,Planned,,,1900
-41.1856,141.389,Japan,Planned,,,1900
-51.209,-3.131,United Kingdom,Shutdown,30/3/1965,250,1965
-51.209,-3.131,United Kingdom,Shutdown,5/5/1965,250,1965
-51.209,-3.131,United Kingdom,Shutdown,2/10/1978,625,1978
-51.209,-3.131,United Kingdom,Shutdown,27/9/1976,625,1976
-51.2087,-3.1305,United Kingdom,Under Construction,,1630,1900
-51.2087,-3.1305,United Kingdom,Under Construction,,1630,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-39.797,121.4765,China,Operational,6/6/2013,1061,2013
-39.797,121.4765,China,Operational,13/5/2014,1061,2014
-39.797,121.4765,China,Operational,16/8/2015,1061,2015
-39.797,121.4765,China,Operational,8/6/2016,1061,2016
-39.797,121.4831,China,Operational,31/7/2021,1061,2021
-39.797,121.4831,China,Operational,23/6/2022,1061,2022
-39.467,-75.535,United States,Operational,20/12/1986,1067,1986
-40.741,-124.21,United States,Shutdown,1/8/1963,65,1963
-55.722,-4.893,United Kingdom,Shutdown,5/2/1964,150,1964
-55.722,-4.893,United Kingdom,Shutdown,1/7/1964,150,1964
-55.722,-4.893,United Kingdom,Shutdown,7/2/1976,624,1976
-55.722,-4.893,United Kingdom,Shutdown,1/4/1977,624,1977
-55.604,26.562,Lithuania,Shutdown,1/5/1985,1500,1985
-55.604,26.562,Lithuania,Shutdown,1/12/1987,1500,1987
-55.604,26.562,Lithuania,Cancelled Construction,,1380,1900
-33.491,132.309,Japan,Shutdown,30/9/1977,538,1977
-33.491,132.309,Japan,Shutdown,19/3/1982,538,1982
-33.491,132.309,Japan,Operational,15/12/1994,846,1994
-41.27,-73.95,United States,Shutdown,1/10/1962,265,1962
-41.27,-73.95,United States,Shutdown,1/8/1974,873,1974
-41.27,-73.95,United States,Shutdown,28/8/1976,965,1976
-48.607,12.296,Germany,Shutdown,21/3/1979,870,1979
-48.607,12.296,Germany,Shutdown,9/4/1988,1285,1988
-16.595278,73.341111,India,Planned,,,1900
-16.595278,73.341111,India,Planned,,,1900
-,,Indonesia,Planned,,,1900
-40.362,-2.818,Spain,Shutdown,13/8/1969,153,1969
-36.4625,140.61,Japan,Shutdown,15/3/1965,10,1965
-50.903,6.421,Germany,Shutdown,19/5/1969,13,1969
-50.059,8.987,Germany,Decommissioning Completed,,15,1900
-14.865,74.438,India,Operational,16/11/2000,202,2000
-14.865,74.438,India,Operational,16/3/2000,202,2000
-14.865,74.438,India,Operational,6/5/2007,202,2007
-14.865,74.438,India,Operational,20/1/2011,202,2011
-14.868,74.4418,India,Planned,,,1900
-14.868,74.4422,India,Planned,,,1900
-21.236,73.351,India,Operational,6/5/1993,202,1993
-21.236,73.351,India,Operational,1/9/1995,202,1995
-21.236,73.351,India,Operational,,630,1900
-21.236,73.351,India,Under Construction,,630,1900
-57.903,35.057,Russia,Operational,12/6/1985,950,1985
-57.903,35.057,Russia,Operational,3/3/1987,950,1987
-57.903,35.057,Russia,Operational,8/11/2005,950,2005
-57.903,35.057,Russia,Operational,25/12/2012,950,2012
-12.553,80.174,India,Under Construction,,470,1900
-12.553,80.174,India,Suspended Operation,27/1/1984,202,1984
-12.553,80.174,India,Operational,21/3/1986,202,1986
-,,Japan,Planned,,,1900
-,,Japan,Planned,,,1900
-24.845,66.79,Pakistan,Shutdown,7/12/1972,125,1972
-49.104,8.432,Germany,Shutdown,19/12/1966,50,1966
-37.434,138.598,Japan,Suspended Operation,18/9/1985,1067,1985
-37.434,138.598,Japan,Suspended Operation,28/9/1990,1067,1990
-37.434,138.598,Japan,Suspended Operation,11/8/1993,1067,1993
-37.434,138.598,Japan,Suspended Operation,11/8/1994,1067,1994
-37.434,138.598,Japan,Suspended Operation,10/4/1990,1067,1990
-37.434,138.598,Japan,Suspended Operation,7/11/1996,1315,1996
-37.434,138.598,Japan,Suspended Operation,2/7/1997,1315,1997
-44.47,-87.498,United States,Shutdown,16/6/1974,535,1974
-50.301,26.649,Ukraine,Operational,13/8/1988,950,1988
-50.301,26.649,Ukraine,Operational,15/12/2005,950,2005
-50.303056,26.642778,Ukraine,Under Construction,,1035,1900
-50.303056,26.642778,Ukraine,Under Construction,,1035,1900
-49.098,8.441,Germany,Shutdown,3/3/1979,18,1979
--33.677,18.433,South Africa,Operational,21/7/1984,921,1984
--33.677,18.433,South Africa,Operational,9/11/1985,921,1985
-67.467,32.491,Russia,Operational,28/12/1973,411,1973
-67.467,32.491,Russia,Operational,21/2/1975,411,1975
-67.467,32.491,Russia,Operational,3/12/1982,411,1982
-67.467,32.491,Russia,Operational,6/12/1984,411,1984
-35.321,129.295,South Korea,Shutdown,29/4/1978,558,1978
-35.321,129.295,South Korea,Operational,25/7/1983,618,1983
-35.321,129.295,South Korea,Operational,30/9/1985,1001,1985
-35.321,129.295,South Korea,Operational,29/4/1986,1012,1986
-43.744,23.776,Bulgaria,Shutdown,28/10/1974,408,1974
-43.744,23.776,Bulgaria,Shutdown,10/11/1975,408,1975
-43.744,23.776,Bulgaria,Shutdown,20/1/1981,408,1981
-43.744,23.776,Bulgaria,Shutdown,20/6/1982,408,1982
-43.744,23.776,Bulgaria,Operational,23/12/1988,953,1988
-43.744,23.776,Bulgaria,Operational,30/12/1993,1003,1993
-45.939,15.516,Slovenia,Operational,1/1/1983,632,1983
-53.41,10.41,Germany,Shutdown,28/3/1984,1260,1984
-8.167,77.713,India,Operational,31/12/2014,917,2014
-8.167,77.713,India,Operational,31/3/2017,917,2017
-8.16705,77.708,India,Under Construction,,917,1900
-8.16666,77.708,India,Under Construction,,917,1900
-8.16627,77.708,India,Under Construction,,917,1900
-8.16588,77.708,India,Under Construction,,917,1900
-,,India,Planned,,,1900
-,,India,Planned,,,1900
-,,India,Planned,,,1900
-,,India,Planned,,,1900
-25.203,121.662,Taiwan,Shutdown,28/12/1981,948,1981
-25.203,121.662,Taiwan,Shutdown,16/3/1983,948,1983
-51.674,35.607,Russia,Shutdown,12/10/1977,925,1977
-51.674,35.607,Russia,Operational,17/8/1979,925,1979
-51.674,35.607,Russia,Operational,30/3/1984,925,1984
-51.674,35.607,Russia,Operational,5/2/1986,925,1986
-43.559,-91.23,United States,Shutdown,7/11/1969,50,1969
-19.719,-96.405,Mexico,Operational,28/7/1990,780,1990
-19.719,-96.405,Mexico,Operational,10/4/1995,780,1995
-41.246,-88.672,United States,Operational,1/1/1984,1078,1984
-41.246,-88.672,United States,Operational,19/10/1984,1078,1984
-41.427,12.808,Italy,Shutdown,1/1/1964,200,1964
-47.601,8.183,Switzerland,Operational,15/12/1984,960,1984
-59.837,29.039,Russia,Operational,29/10/2018,1066,2018
-59.837,29.039,Russia,Operational,18/3/2021,1066,2021
-59.837,29.039,Russia,Planned,,1085,1900
-59.837,29.039,Russia,Planned,,1085,1900
-59.837,29.039,Russia,Shutdown,1/11/1974,925,1974
-59.837,29.039,Russia,Shutdown,11/2/1976,925,1976
-59.837,29.039,Russia,Operational,29/6/1980,925,1980
-59.837,29.039,Russia,Operational,29/8/1981,925,1981
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-40.225,-75.584,United States,Operational,1/2/1986,1055,1986
-40.225,-75.584,United States,Operational,8/1/1990,1055,1990
-22.606,114.55,China,Operational,28/5/2002,950,2002
-22.606,114.55,China,Operational,8/1/2003,950,2003
-22.609,114.552,China,Operational,15/9/2010,1007,2010
-22.609,114.552,China,Operational,7/8/2011,1007,2011
-52.483,7.302,Germany,Shutdown,1/10/1968,183,1968
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-60.372,26.342,Finland,Operational,9/5/1977,420,1977
-60.372,26.342,Finland,Operational,5/1/1981,420,1981
-46.693,6.827,Switzerland,Shutdown,,6,1900
-25.038,121.924,Taiwan,Suspended Construction,,1300,1900
-25.038,121.924,Taiwan,Suspended Construction,,1300,1900
-25.038,121.924,Taiwan,Operational,27/7/1984,936,1984
-25.038,121.924,Taiwan,Operational,18/5/1985,938,1985
-43.951,-69.695,United States,Shutdown,28/12/1972,825,1972
-35.433,-80.946,United States,Operational,1/12/1981,1180,1981
-35.433,-80.946,United States,Operational,1/3/1984,1180,1984
-35.701,135.962,Japan,Shutdown,28/11/1970,320,1970
-35.701,135.962,Japan,Shutdown,25/7/1972,470,1972
-35.701,135.962,Japan,Operational,1/12/1976,780,1976
-41.312,-72.166,United States,Shutdown,1/3/1971,660,1971
-41.312,-72.166,United States,Operational,26/12/1975,870,1975
-41.312,-72.166,United States,Operational,23/4/1986,1159,1986
-48.261,18.455,Slovakia,Operational,29/10/1998,408,1998
-48.261,18.455,Slovakia,Operational,11/4/2000,408,2000
-48.261,18.455,Slovakia,Operational,,440,1900
-48.261,18.455,Slovakia,Under Construction,,440,1900
-35.739,135.988,Japan,Shutdown,,246,1900
-45.334,-93.85,United States,Operational,30/6/1971,545,1971
-46.969,7.266,Switzerland,Shutdown,6/11/1972,306,1972
-50.409,7.485,Germany,Shutdown,18/8/1987,1219,1987
-28.156,78.409,India,Operational,1/1/1991,202,1991
-28.155,78.409,India,Operational,1/7/1992,202,1992
-49.039,9.176,Germany,Shutdown,1/12/1976,805,1976
-49.039,9.176,Germany,Shutdown,15/4/1989,1225,1989
-48.604,12.304,Germany,Decommissioning Completed,,100,1900
-43.522,-76.412,United States,Operational,1/12/1969,620,1969
-43.522,-76.412,United States,Operational,11/3/1988,1100,1988
-27.046,120.287,China,Operational,15/4/2013,1018,2013
-27.046,120.287,China,Operational,4/5/2014,1018,2014
-27.046,120.287,China,Operational,10/6/2015,1018,2015
-27.046,120.287,China,Operational,21/7/2016,1018,2016
-27.046,120.287,China,Planned,,,1900
-27.046,120.287,China,Planned,,,1900
-55.786863,42.37215,Russia,Planned,,,1900
-55.787102,42.37215,Russia,Planned,,,1900
-48.517,3.52,France,Operational,24/2/1988,1310,1988
-48.517,3.52,France,Operational,1/5/1989,1310,1989
-38.061,-77.792,United States,Operational,6/6/1978,907,1978
-38.061,-77.792,United States,Operational,14/12/1980,907,1980
-51.273,39.197,Russia,Operational,27/2/2017,1114,2017
-51.273,39.197,Russia,Operational,31/10/2019,1114,2019
-51.275,39.206,Russia,Shutdown,31/12/1964,197,1964
-51.275,39.206,Russia,Shutdown,14/4/1970,336,1970
-51.275,39.206,Russia,Shutdown,29/6/1972,385,1972
-51.275,39.206,Russia,Operational,24/3/1973,385,1973
-52.381,39.211,Russia,Operational,20/2/1981,950,1981
-49.365,9.077,Germany,Shutdown,31/3/1969,283,1969
-34.796,-82.894,United States,Operational,15/7/1973,887,1973
-34.796,-82.894,United States,Operational,9/9/1974,887,1974
-34.796,-82.894,United States,Operational,16/12/1974,887,1974
-35.544,135.652,Japan,Shutdown,27/3/1979,1120,1979
-35.544,135.652,Japan,Shutdown,5/12/1979,1120,1979
-35.544,135.652,Japan,Operational,18/12/1991,1127,1991
-35.544,135.652,Japan,Operational,2/2/1993,1127,1993
-41.507,140.909,Japan,Under Construction,,1328,1900
-51.649,-2.567,United Kingdom,Shutdown,31/12/1967,300,1967
-51.649,-2.567,United Kingdom,Shutdown,30/9/1968,300,1968
-61.235,21.444,Finland,Operational,10/10/1979,660,1979
-61.235,21.444,Finland,Operational,10/7/1982,660,1982
-61.234,21.435,Finland,Operational,,1600,1900
-61.234352,21.436287,Finland,Planned,,,1900
-38.4,141.504,Japan,Shutdown,1/6/1984,498,1984
-38.4,141.504,Japan,Suspended Operation,28/7/1995,796,1995
-38.4,141.504,Japan,Suspended Operation,30/1/2002,796,2002
-57.415,16.666,Sweden,Shutdown,6/2/1972,440,1972
-57.415,16.666,Sweden,Shutdown,1/1/1975,580,1975
-57.415,16.666,Sweden,Operational,15/8/1985,1050,1985
-39.815,-74.208,United States,Shutdown,1/12/1969,650,1969
-46.574,18.855,Hungary,Operational,10/8/1983,408,1983
-46.574,18.855,Hungary,Operational,14/11/1984,410,1984
-46.574,18.855,Hungary,Operational,1/12/1986,410,1986
-46.574,18.855,Hungary,Operational,1/11/1987,410,1987
-42.323,-86.316,United States,Shutdown,,805,1900
-33.387,-112.863,United States,Operational,28/1/1986,1221,1986
-33.387,-112.863,United States,Operational,19/9/1986,1304,1986
-33.387,-112.863,United States,Operational,8/1/1988,1304,1988
-49.857,0.635,France,Operational,1/12/1985,1330,1985
-49.857,0.635,France,Operational,1/12/1985,1330,1985
-49.857,0.635,France,Operational,1/2/1986,1330,1986
-49.857,0.635,France,Operational,1/6/1986,1330,1986
-43.603,-96.636,United States,Shutdown,1/8/1966,59,1966
-39.759,-76.27,United States,Shutdown,1/6/1967,40,1967
-39.759,-76.27,United States,Operational,5/7/1974,1065,1974
-39.759,-76.27,United States,Operational,23/12/1974,1065,1974
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-49.975,1.215,France,Operational,1/12/1990,1330,1990
-49.975,1.215,France,Operational,1/11/1992,1330,1992
-49.977611,1.21409,France,Planned,,,1900
-41.801,-81.147,United States,Operational,18/11/1987,1205,1987
-44.142,4.712,France,Shutdown,14/7/1974,233,1974
-49.253,8.432,Germany,Shutdown,26/3/1980,864,1980
-49.253,8.432,Germany,Shutdown,18/4/1985,1268,1985
-43.812,-79.07,Canada,Operational,29/7/1971,508,1971
-43.812,-79.07,Canada,Shutdown,30/12/1971,508,1971
-43.812,-79.07,Canada,Shutdown,1/6/1972,508,1972
-43.812,-79.07,Canada,Operational,17/6/1973,508,1973
-43.812,-79.07,Canada,Operational,10/5/1983,516,1983
-43.812,-79.07,Canada,Operational,1/2/1984,516,1984
-43.812,-79.07,Canada,Operational,1/1/1985,516,1985
-43.812,-79.07,Canada,Operational,28/2/1986,516,1986
-41.945,-70.578,United States,Shutdown,1/12/1972,655,1972
-40.132222,-84.234722,United States,Shutdown,1/11/1963,11,1963
-44.282,-87.534,United States,Operational,21/12/1970,497,1970
-44.282,-87.534,United States,Operational,1/10/1972,497,1972
-45.068,-66.455,Canada,Operational,1/2/1983,660,1983
-45.068,-66.4546,Canada,Planned,,,1900
-44.622,-92.631,United States,Operational,16/12/1973,530,1973
-44.622,-92.631,United States,Operational,21/12/1974,530,1974
-30.44,120.95,China,Operational,1/4/1994,289,1994
-30.44,120.95,China,Operational,15/4/2002,610,2002
-30.44,120.95,China,Operational,3/5/2004,610,2004
-30.44,120.95,China,Operational,5/10/2010,619,2010
-30.44,120.95,China,Operational,30/12/2011,619,2011
-30.44,120.95,China,Operational,31/12/2002,677,2002
-30.44,120.95,China,Operational,24/7/2003,677,2003
-41.727,-90.308,United States,Operational,18/2/1973,789,1973
-41.727,-90.308,United States,Operational,10/3/1973,789,1973
-43.279,-77.311,United States,Operational,1/7/1970,470,1970
-24.876,75.608,India,Suspended Operation,16/12/1973,207,1973
-24.876,75.608,India,Operational,1/4/1981,207,1981
-24.876,75.608,India,Operational,1/6/2000,202,2000
-24.876,75.608,India,Operational,23/12/2000,202,2000
-24.876,75.608,India,Operational,4/2/2010,202,2010
-24.876,75.608,India,Operational,31/3/2010,202,2010
-24.876,75.608,India,Under Construction,,630,1900
-24.876,75.608,India,Under Construction,,630,1900
-38.345,-121.12,United States,Shutdown,17/4/1975,918,1975
-53.147,12.991,Germany,Shutdown,11/10/1966,62,1966
-57.259,12.111,Sweden,Shutdown,1/1/1976,881,1976
-57.259,12.111,Sweden,Shutdown,1/5/1975,820,1975
-57.259,12.111,Sweden,Operational,9/9/1981,915,1981
-57.259,12.111,Sweden,Operational,21/11/1983,1130,1983
-30.727,-91.372,United States,Operational,16/6/1986,966,1986
-46.201,-77.705,Canada,Shutdown,1/10/1962,17,1962
-47.599,42.373,Russia,Operational,25/12/2001,950,2001
-47.599,42.373,Russia,Operational,10/12/2010,950,2010
-47.599,42.373,Russia,Operational,17/9/2015,950,2015
-47.599,42.373,Russia,Operational,28/9/2018,950,2018
-51.326,25.9,Ukraine,Operational,22/9/1981,361,1981
-51.326,25.9,Ukraine,Operational,29/7/1982,384,1982
-51.326,25.9,Ukraine,Operational,16/5/1987,950,1987
-51.326,25.9,Ukraine,Operational,6/4/2006,950,2006
-39.463,-75.534,United States,Operational,30/6/1977,1090,1977
-39.463,-75.534,United States,Operational,13/10/1981,1115,1981
-33.368,-117.556,United States,Shutdown,1/1/1968,436,1968
-33.368,-117.556,United States,Shutdown,8/8/1983,1070,1983
-33.368,-117.556,United States,Shutdown,1/4/1984,1070,1984
-29.101,121.642,China,Operational,21/9/2018,1157,2018
-29.101,121.642,China,Operational,5/11/2018,1157,2018
-29.101111,121.651944,China,Under Construction,,1163,1900
-29.101111,121.656944,China,Under Construction,,1163,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-42.775,-3.205,Spain,Shutdown,11/5/1971,440,1971
-40.226944,-78.241944,United States,Shutdown,,3,1900
-42.897,-70.849,United States,Operational,19/8/1990,1149,1990
-31.834,130.193,Japan,Operational,4/7/1984,846,1984
-31.834,130.193,Japan,Operational,28/11/1985,846,1985
-,,Japan,Planned,,,1900
-35.228,-85.094,United States,Operational,1/7/1981,1148,1981
-35.228,-85.094,United States,Operational,1/6/1982,1148,1982
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-35.635,-78.955,United States,Operational,2/5/1987,900,1987
-36.979167,122.530556,China,Operational,,200,1900
-37.061,136.728,Japan,Suspended Operation,30/7/1993,505,1993
-37.061,136.728,Japan,Suspended Operation,15/3/2006,1304,2006
-35.537,132.999,Japan,Shutdown,29/3/1974,439,1974
-35.537,132.999,Japan,Suspended Operation,10/2/1989,789,1989
-35.537,132.999,Japan,Under Construction,,1325,1900
-35.722,129.479,South Korea,Operational,31/7/2012,950,2012
-35.722,129.479,South Korea,Operational,24/7/2015,950,2015
-37.083889,129.391667,South Korea,Operational,7/12/2022,1340,2022
-37.083889,129.391667,South Korea,Under Construction,,1340,1900
-35.327,129.302,South Korea,Operational,28/2/2011,998,2011
-35.327,129.302,South Korea,Operational,20/7/2012,995,2012
-35.327,129.302,South Korea,Operational,20/12/2016,1340,2016
-35.327,129.302,South Korea,Operational,29/8/2019,1340,2019
-35.327,129.302,South Korea,Under Construction,,1340,1900
-35.327,129.302,South Korea,Under Construction,,1340,1900
-40.63,-80.417778,United States,Shutdown,26/5/1958,60,1958
-40.96,-72.866,United States,Shutdown,,809,1900
-42,35,Türkiye,Planned,,,1900
-42,35,Türkiye,Planned,,,1900
-42,35,Türkiye,Planned,,,1900
-42,35,Türkiye,Planned,,,1900
-52.212,1.621,United Kingdom,Shutdown,25/3/1966,290,1966
-52.212,1.621,United Kingdom,Shutdown,15/9/1966,290,1966
-52.212,1.621,United Kingdom,Operational,22/9/1995,1188,1995
-52.21939,1.6228,United Kingdom,Planned,,,1900
-52.21939,1.6238,United Kingdom,Planned,,,1900
-54.169,33.245,Russia,Operational,30/9/1983,925,1983
-54.169,33.245,Russia,Operational,2/7/1985,925,1985
-54.169,33.245,Russia,Operational,12/10/1990,925,1990
-28.797,-96.044,United States,Operational,25/8/1988,1250,1988
-28.796,-96.044,United States,Operational,19/6/1989,1250,1989
-47.811,31.22,Ukraine,Operational,2/12/1983,950,1983
-47.811,31.22,Ukraine,Operational,6/4/1985,950,1985
-47.811,31.22,Ukraine,Operational,29/12/1989,950,1989
-45.404,4.754,France,Operational,1/5/1986,1335,1986
-45.404,4.754,France,Operational,1/3/1987,1335,1987
-47.724,1.582,France,Shutdown,1/6/1969,480,1969
-47.724,1.582,France,Shutdown,1/11/1971,515,1971
-47.724,1.582,France,Operational,1/8/1983,915,1983
-47.72,1.581,France,Operational,1/8/1983,880,1983
-27.348,-80.244,United States,Operational,21/12/1976,830,1976
-27.348,-80.244,United States,Operational,8/8/1983,830,1983
-53.62,9.53,Germany,Shutdown,19/5/1972,630,1972
-34.299,-81.314,United States,Operational,1/1/1984,900,1984
-34.295833,-81.320278,United States,Suspended Construction,,1117,1900
-34.295833,-81.320278,United States,Suspended Construction,,1117,1900
-45.76,5.474,France,Shutdown,1/12/1986,1200,1986
-37.166,-76.7,United States,Operational,22/12/1972,788,1972
-37.166,-76.7,United States,Operational,1/5/1973,788,1973
-41.093,-76.143,United States,Operational,8/6/1983,1065,1983
-41.093,-76.143,United States,Operational,12/2/1985,1065,1985
-21.917778,112.981944,China,Operational,13/12/2018,1660,2018
-21.917778,112.981944,China,Operational,7/9/2019,1660,2019
-35.52,135.503,Japan,Suspended Operation,14/11/1974,780,1974
-35.52,135.503,Japan,Suspended Operation,14/11/1975,780,1975
-35.52,135.503,Japan,Operational,17/1/1985,830,1985
-35.52,135.503,Japan,Operational,5/6/1985,830,1985
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-19.834,72.657,India,Suspended Operation,28/10/1969,200,1969
-19.834,72.657,India,Suspended Operation,28/10/1969,200,1969
-19.834,72.657,India,Operational,18/8/2006,502,2006
-19.834,72.657,India,Operational,12/9/2005,502,2005
-49.181,14.377,Czechia,Operational,10/6/2002,1027,2002
-49.181,14.377,Czechia,Operational,18/4/2003,1029,2003
-40.154,-76.727,United States,Shutdown,2/9/1974,819,1974
-40.154,-76.727,United States,Shutdown,30/12/1978,906,1978
-51.68,7.972,Germany,Shutdown,1/6/1987,296,1987
-34.69,119.456,China,Operational,17/5/2007,990,2007
-34.69,119.456,China,Operational,16/8/2007,990,2007
-34.6868,119.456,China,Operational,14/2/2018,1060,2018
-34.6858,119.456,China,Operational,22/12/2018,1060,2018
-34.6838,119.456,China,Operational,8/9/2020,1000,2020
-34.6828,119.456,China,Operational,2/6/2021,1000,2021
-50.533,5.271,Belgium,Operational,1/10/1975,870,1975
-50.533,5.271,Belgium,Shutdown,1/6/1983,900,1983
-50.533,5.271,Belgium,Operational,1/9/1985,1020,1985
-36.466,140.612,Japan,Shutdown,25/7/1966,159,1966
-36.466,140.612,Japan,Suspended Operation,28/11/1978,1056,1978
-43.038,140.515,Japan,Suspended Operation,22/6/1989,550,1989
-43.038,140.515,Japan,Suspended Operation,12/4/1991,550,1991
-43.038,140.515,Japan,Suspended Operation,22/12/2009,866,2009
-55.966,-2.399,United Kingdom,Operational,25/5/1988,645,1988
-55.966,-2.399,United Kingdom,Operational,3/2/1989,645,1989
-52.923,-3.947,United Kingdom,Shutdown,24/3/1965,250,1965
-52.922,-3.947,United Kingdom,Shutdown,24/3/1965,250,1965
-44.33,4.733,France,Operational,1/12/1980,915,1980
-44.33,4.733,France,Operational,1/12/1980,915,1980
-44.331,4.733,France,Operational,11/5/1981,915,1981
-44.331,4.733,France,Operational,1/11/1981,915,1981
-40.699,-2.622,Spain,Operational,6/8/1988,990,1988
-46.04,-122.887,United States,Shutdown,20/5/1976,1130,1976
-35.672,136.079,Japan,Shutdown,14/3/1970,341,1970
-35.672,136.079,Japan,Suspended Operation,17/2/1987,1115,1987
-,,Japan,Planned,,,1900
-,,Japan,Planned,,,1900
-25.435,-80.33,United States,Operational,14/12/1972,693,1972
-25.435,-80.33,United States,Operational,7/9/1973,693,1973
-53.429,8.477,Germany,Shutdown,6/9/1979,1230,1979
-40.949,0.867,Spain,Shutdown,2/8/1972,480,1972
-40.949,0.867,Spain,Operational,8/3/1988,930,1988
-42.779,-72.514,United States,Shutdown,30/11/1972,514,1972
-55.6057,26.575842,Lithuania,Planned,,,1900
-55.6057,26.575842,Lithuania,Planned,,,1900
-33.143,-81.76,United States,Operational,1/6/1987,1122,1987
-33.143,-81.76,United States,Operational,20/5/1989,1101,1989
-33.1399,-81.7686,United States,Operational,31/7/2023,1117,2023
-33.1399,-81.7712,United States,Under Construction,,1117,1900
-29.994,-90.471,United States,Operational,24/9/1985,1104,1985
-35.601,-84.789,United States,Operational,27/5/1996,1218,1996
-35.601,-84.789,United States,Operational,19/10/2016,1165,2016
-54.426,-3.505,United Kingdom,Shutdown,1/3/1963,32,1963
-50.68,-2.272,United Kingdom,Shutdown,1/1/1968,92,1968
-38.239,-95.691,United States,Operational,3/9/1985,1170,1985
-35.71,129.476,South Korea,Shutdown,22/4/1983,629,1983
-35.71,129.476,South Korea,Operational,1/7/1997,652,1997
-35.71,129.476,South Korea,Operational,1/7/1998,665,1998
-35.71,129.476,South Korea,Operational,1/10/1999,669,1999
-35.7101,129.481,South Korea,Planned,,,1900
-35.7101,129.481,South Korea,Planned,,,1900
-51.639,9.393,Germany,Shutdown,11/11/1975,640,1975
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-53.416,-4.48,United Kingdom,Shutdown,1/11/1971,550,1971
-53.416,-4.48,United Kingdom,Shutdown,3/1/1972,550,1972
-29.66,114.67,China,Planned,,,1900
-29.66,114.67,China,Planned,,,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-21.706,112.256,China,Operational,25/3/2014,1021,2014
-21.706,112.256,China,Operational,5/6/2015,1000,2015
-21.706,112.256,China,Operational,1/1/2016,1000,2016
-21.8575,111.9825,China,Operational,15/3/2017,1000,2017
-21.8575,111.9825,China,Operational,12/7/2018,1021,2018
-21.8575,111.9825,China,Operational,24/7/2019,1000,2019
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-42.728,-72.929,United States,Shutdown,1/7/1961,175,1961
-47.508,34.627,Ukraine,Operational,25/12/1985,950,1985
-47.508,34.627,Ukraine,Operational,15/2/1986,950,1986
-47.508,34.627,Ukraine,Operational,5/3/1987,950,1987
-47.508,34.627,Ukraine,Operational,14/4/1988,950,1988
-47.508,34.627,Ukraine,Operational,27/10/1989,950,1989
-47.508,34.627,Ukraine,Operational,17/9/1996,950,1996
-23.829167,117.491667,China,Under Construction,,1126,1900
-42.446,-87.801,United States,Shutdown,31/12/1973,1040,1973
-42.446,-87.801,United States,Shutdown,17/9/1974,1040,1974
-21.6,108.3,China,Operational,25/3/2023,1000,2023
-23.952748,52.203298,United Arab Emirates,Under Construction,,1310,1900
-24.845,66.79,Pakistan,Operational,21/5/2021,1017,2021
-21.6,108.3,China,Under Construction,,1000,1900
-24.845,66.79,Pakistan,Operational,18/4/2022,1014,2022
-24.066667,89.047222,Bangladesh,Under Construction,,1080,1900
-51.674,35.607,Russia,Under Construction,,1200,1900
-24.066667,89.047222,Bangladesh,Under Construction,,1080,1900
-51.674,35.607,Russia,Under Construction,,1200,1900
-22.693056,114.983333,China,Under Construction,,1116,1900
-23.829167,117.491667,China,Under Construction,,1126,1900
-22.693056,114.983333,China,Under Construction,,1116,1900
-26.803611,120.155,China,Under Construction,,642,1900
-26.803611,120.155,China,Under Construction,,600,1900
-44.322,28.061,Romania,Suspended Construction,,655,1900
-44.322,28.061,Romania,Cancelled Construction,,655,1900
-48.3544,15.8847,Austria,Never Commissioned,,692,1900
-51.763056,6.326944,Germany,Never Commissioned,,295,1900
-27.201487,120.517974,China,Under Construction,,1117,1900
-36.965556,122.52,China,Under Construction,,1534,1900
-36.965556,122.52,China,Under Construction,,1534,1900
-19.46075,108.899917,China,Under Construction,,1000,1900
-40.351389,120.545833,China,Planned,,,1900
-40.351389,120.545833,China,Planned,,,1900
-40.351389,120.545833,China,Under Construction,,1200,1900
-40.351389,120.545833,China,Under Construction,,1200,1900
-34.6828,119.456,China,Under Construction,,1171,1900
-34.6828,119.456,China,Under Construction,,1171,1900
-19.46075,108.899917,China,Under Construction,,1000,1900
-19.46007,108.88992,China,Under Construction,,100,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-,,China,Planned,,,1900
-56.637414,84.90451,Russia,Under Construction,,300,1900
-27.201487,120.517974,China,Under Construction,,1117,1900
-31.044167,28.497778,Egypt,Under Construction,,1100,1900
-31.044167,28.497778,Egypt,Under Construction,,1100,1900
-,,China,Under Construction,,1116,1900
+Latitude,Longitude,Country,Status,Capacity (MWe),Year
+59.206,18.0829,Sweden,Shutdown,9,1964
+69.709579,170.30625,Russia,Operational,30,2020
+69.709579,170.30625,Russia,Operational,30,2020
+43.607,51.283,Kazakhstan,Shutdown,52,1973
+39.807,-5.698,Spain,Operational,900,1983
+39.807,-5.698,Spain,Operational,900,1984
+-23.008,-44.457,Brazil,Operational,609,1985
+-23.008,-44.457,Brazil,Operational,1245,2001
+55.084,36.57,Russia,Shutdown,5,1954
+35.31,-93.23,United States,Operational,850,1974
+35.31,-93.229,United States,Operational,912,1980
+40.182,44.147,Armenia,Shutdown,376,1977
+40.182,44.147,Armenia,Operational,375,1980
+41.202,0.571,Spain,Operational,888,1984
+41.202,0.571,Spain,Operational,888,1986
+-33.967,-59.209,Argentina,Operational,319,1974
+-33.967,-59.209,Argentina,Operational,692,2016
+52.092,47.952,Russia,Operational,950,1986
+52.092,47.952,Russia,Operational,950,1988
+52.092,47.952,Russia,Operational,950,1989
+52.092,47.952,Russia,Operational,950,1993
+23.952748,52.193298,United Arab Emirates,Operational,1310,2021
+23.952748,52.193298,United Arab Emirates,Operational,1310,2022
+23.952748,52.203298,United Arab Emirates,Operational,1310,2023
+55.745,12.926,Sweden,Shutdown,570,1975
+55.745,12.926,Sweden,Shutdown,570,1977
+40.624,-80.432,United States,Operational,835,1976
+40.624,-80.432,United States,Operational,836,1987
+54.766667,26.116667,Belarus,Operational,1110,2021
+47.511,2.871,France,Operational,1310,1988
+47.511,2.871,France,Operational,1310,1989
+56.842,61.321,Russia,Shutdown,102,1964
+56.842,61.321,Russia,Shutdown,146,1969
+56.842,61.321,Russia,Operational,560,1981
+56.842,61.321,Russia,Operational,820,2016
+51.692,-2.494,United Kingdom,Shutdown,138,1962
+51.692,-2.494,United Kingdom,Shutdown,138,1962
+47.552,8.229,Switzerland,Operational,350,1969
+47.552,8.229,Switzerland,Operational,350,1972
+49.709,8.415,Germany,Shutdown,1146,1975
+49.709,8.415,Germany,Shutdown,1178,1977
+45.359,-85.195,United States,Shutdown,72,1963
+68.059,166.492,Russia,Shutdown,11,1974
+68.059,166.492,Russia,Operational,11,1975
+68.059,166.492,Russia,Operational,11,1976
+68.059,166.492,Russia,Operational,11,1977
+45.256,-0.691,France,Operational,910,1981
+45.256,-0.691,France,Operational,910,1983
+45.256,-0.691,France,Operational,910,1983
+45.256,-0.691,France,Operational,910,1983
+48.494,17.687,Slovakia,Shutdown,408,1980
+48.494,17.687,Slovakia,Shutdown,408,1981
+48.494,17.687,Slovakia,Operational,466,1985
+48.494,17.687,Slovakia,Operational,466,1985
+48.494,17.687,Slovakia,Shutdown,110,1972
+18.365,-67.268,United States,Shutdown,17,1965
+51.431,3.719,Netherlands,Operational,495,1973
+51.217,5.099,Belgium,Shutdown,11,1962
+51.742,0.899,United Kingdom,Shutdown,150,1962
+51.742,0.899,United Kingdom,Shutdown,150,1962
+41.247,-88.23,United States,Operational,1120,1988
+41.247,-88.23,United States,Operational,1120,1988
+53.85,9.345,Germany,Shutdown,1307,1986
+34.704,-87.119,United States,Operational,1065,1974
+34.704,-87.119,United States,Operational,1065,1975
+34.704,-87.119,United States,Operational,1065,1977
+44.341,-81.572,Canada,Operational,732,1977
+44.341,-81.572,Canada,Operational,732,1977
+44.341,-81.572,Canada,Operational,750,1978
+44.341,-81.572,Canada,Operational,750,1979
+44.341,-81.572,Canada,Operational,822,1985
+44.341,-81.572,Canada,Operational,822,1984
+44.341,-81.572,Canada,Operational,822,1986
+44.341,-81.572,Canada,Operational,795,1987
+53.891,9.202,Germany,Shutdown,770,1977
+33.958,-78.007,United States,Operational,821,1977
+33.958,-78.007,United States,Operational,821,1975
+45.796,5.268,France,Shutdown,540,1972
+45.796,5.268,France,Operational,920,1979
+45.798,5.268,France,Operational,920,1979
+45.8,5.267,France,Operational,900,1979
+45.8,5.267,France,Operational,900,1980
+28.831,50.887,Iran,Operational,915,2013
+42.074,-89.277,United States,Operational,1120,1985
+42.074,-89.277,United States,Operational,1120,1987
+54.42,-3.491,United Kingdom,Shutdown,35,1956
+54.42,-3.491,United Kingdom,Shutdown,35,1957
+54.42,-3.491,United Kingdom,Shutdown,35,1958
+54.42,-3.491,United Kingdom,Shutdown,35,1959
+38.763,-91.781,United States,Operational,1171,1984
+38.435,-76.439,United States,Operational,845,1975
+38.435,-76.439,United States,Operational,845,1977
+45.072,9.872,Italy,Shutdown,840,1981
+34.263,-81.33,United States,Shutdown,17,1963
+35.053,-81.071,United States,Operational,1145,1985
+35.053,-81.071,United States,Operational,1145,1986
+49.416,6.217,France,Operational,1300,1987
+49.416,6.217,France,Operational,1300,1988
+49.416,6.217,France,Operational,1300,1991
+49.416,6.217,France,Operational,1300,1992
+44.322,28.061,Romania,Operational,650,1996
+44.322,28.061,Romania,Operational,650,2007
+19.46075,108.899917,China,Operational,601,2015
+19.46075,108.899917,China,Operational,601,2016
+55.014,-3.223,United Kingdom,Shutdown,35,1959
+55.014,-3.223,United Kingdom,Shutdown,35,1959
+55.014,-3.223,United Kingdom,Shutdown,35,1959
+55.014,-3.223,United Kingdom,Shutdown,35,1960
+32.392,71.463,Pakistan,Operational,300,2000
+32.392,71.463,Pakistan,Operational,300,2011
+32.392,71.465,Pakistan,Operational,315,2016
+32.391944,71.461667,Pakistan,Operational,313,2017
+51.389,30.103,Ukraine,Shutdown,925,1978
+51.389,30.103,Ukraine,Shutdown,925,1979
+51.389,30.103,Ukraine,Shutdown,925,1982
+51.389,30.103,Ukraine,Shutdown,925,1984
+25.292,121.567,Taiwan,Shutdown,604,1978
+25.292,121.567,Taiwan,Shutdown,604,1979
+47.232,0.167,France,Shutdown,68,1964
+47.232,0.167,France,Shutdown,170,1965
+47.232,0.167,France,Shutdown,480,1966
+47.232,0.167,France,Operational,870,1984
+47.232,0.167,France,Operational,870,1984
+47.232,0.167,France,Operational,905,1987
+47.232,0.167,France,Operational,905,1988
+50.086,4.792,France,Shutdown,280,1967
+50.086,4.792,France,Operational,1455,2000
+50.086,4.792,France,Operational,1455,2000
+46.457,0.654,France,Operational,1450,2002
+46.457,0.654,France,Operational,1450,2002
+40.172,-88.834,United States,Operational,950,1987
+39.216,-1.051,Spain,Operational,939,1985
+46.471,-119.333,United States,Operational,1100,1984
+32.301,-97.787,United States,Operational,1150,1990
+32.301,-97.787,United States,Operational,1150,1993
+40.361,-95.643,United States,Operational,778,1974
+44.634,4.757,France,Operational,880,1984
+44.634,4.757,France,Operational,915,1985
+44.634,4.757,France,Operational,880,1984
+44.634,4.757,France,Operational,880,1985
+28.966,-82.697,United States,Shutdown,825,1977
+47.732,2.513,France,Operational,890,1980
+47.732,2.513,France,Operational,890,1981
+47.732,2.513,France,Operational,890,1981
+47.732,2.513,France,Operational,890,1981
+43.867,-78.724,Canada,Operational,881,1992
+43.867,-78.724,Canada,Operational,881,1990
+43.867,-78.724,Canada,Operational,881,1993
+43.867,-78.724,Canada,Operational,881,1993
+41.597,-83.092,United States,Operational,906,1978
+22.599,114.544,China,Operational,930,1994
+22.599,114.544,China,Operational,930,1994
+35.212,-120.854,United States,Operational,1084,1985
+35.212,-120.854,United States,Operational,1106,1986
+51.323,4.259,Belgium,Operational,392,1975
+51.323,4.259,Belgium,Operational,445,1975
+51.323,4.259,Belgium,Shutdown,890,1982
+51.323,4.259,Belgium,Operational,1000,1985
+41.975,-86.564,United States,Operational,1030,1975
+41.975,-86.564,United States,Operational,1100,1978
+44.326,-81.601,Canada,Shutdown,203,1968
+58.577,-3.745,United Kingdom,Shutdown,14,1962
+58.577,-3.745,United Kingdom,Shutdown,234,1976
+41.353,-88.349,United States,Shutdown,192,1960
+41.353,-88.349,United States,Operational,794,1970
+41.353,-88.349,United States,Operational,794,1971
+42.101,-91.776,United States,Shutdown,601,1975
+49.089,16.149,Czechia,Operational,420,1985
+49.089,16.149,Czechia,Operational,420,1986
+49.089,16.149,Czechia,Operational,420,1986
+49.089,16.149,Czechia,Operational,420,1987
+50.914,0.962,United Kingdom,Shutdown,275,1965
+50.914,0.962,United Kingdom,Shutdown,275,1965
+50.914,0.962,United Kingdom,Shutdown,607,1985
+50.914,0.962,United Kingdom,Shutdown,607,1989
+48.35,-3.866667,France,Shutdown,70,1968
+45.297,-93.557,United States,Shutdown,22,1964
+-32.232,-64.442,Argentina,Operational,608,1984
+52.471,7.322,Germany,Shutdown,1242,1988
+45.183333,8.283333,Italy,Shutdown,247,1965
+41.96,-83.257,United States,Shutdown,60,1966
+41.96,-83.257,United States,Operational,1093,1988
+21.6,108.3,China,Operational,1000,2016
+21.6,108.3,China,Operational,1000,2016
+30.416,120.951,China,Operational,1000,2014
+30.416,120.951,China,Operational,1000,2015
+31.223,-85.115,United States,Operational,829,1977
+31.223,-85.115,United States,Operational,829,1981
+47.903,7.564,France,Shutdown,880,1978
+47.903,7.564,France,Shutdown,880,1978
+43.521,-76.403,United States,Operational,821,1975
+49.537,-1.881,France,Operational,1330,1986
+49.537,-1.881,France,Operational,1330,1987
+60.405,18.168,Sweden,Operational,900,1980
+60.405,18.168,Sweden,Operational,900,1981
+60.405,18.168,Sweden,Operational,1050,1985
+41.52,-96.076,United States,Shutdown,478,1973
+40.244,-104.874,United States,Shutdown,330,1979
+35.751,136.02,Japan,Shutdown,148,1979
+37.423,141.032,Japan,Shutdown,439,1971
+37.423,141.032,Japan,Shutdown,760,1974
+37.423,141.032,Japan,Shutdown,760,1976
+37.423,141.032,Japan,Shutdown,760,1978
+37.423,141.032,Japan,Shutdown,760,1978
+37.423,141.032,Japan,Shutdown,1067,1979
+37.315,141.024,Japan,Shutdown,1067,1982
+37.315,141.024,Japan,Shutdown,1067,1984
+37.315,141.024,Japan,Shutdown,1067,1985
+37.315,141.024,Japan,Shutdown,1067,1987
+25.443,119.453,China,Operational,1000,2014
+25.443,119.453,China,Operational,1000,2015
+25.720278,119.383889,China,Operational,1000,2016
+25.720278,119.383889,China,Operational,1000,2017
+25.720278,119.383889,China,Operational,1075,2021
+25.720278,119.383889,China,Operational,1075,2022
+44.142,4.713,France,Shutdown,36,1959
+44.142,4.713,France,Shutdown,36,1960
+41.258,13.835,Italy,Shutdown,150,1964
+37.613056,-121.84,United States,Shutdown,24,1957
+33.518,129.837,Japan,Shutdown,529,1975
+33.518,129.837,Japan,Shutdown,529,1981
+33.518,129.837,Japan,Operational,1127,1994
+33.518,129.837,Japan,Operational,1127,1997
+46.395,-72.357,Canada,Shutdown,250,1972
+46.395,-72.357,Canada,Shutdown,645,1983
+51.899,5.687,Netherlands,Shutdown,54,1969
+47.366,7.969,Switzerland,Operational,920,1979
+44.105,0.845,France,Operational,1310,1991
+44.105,0.845,France,Operational,1310,1994
+49.984,10.186,Germany,Shutdown,1225,1982
+32.007,-91.045,United States,Operational,1250,1985
+51.014,2.138,France,Operational,910,1980
+51.014,2.138,France,Operational,910,1980
+51.014,2.138,France,Operational,910,1981
+51.014,2.138,France,Operational,910,1981
+51.014,2.138,France,Operational,910,1985
+51.014,2.138,France,Operational,910,1985
+54.143,13.668,Germany,Shutdown,440,1974
+54.143,13.668,Germany,Shutdown,408,1975
+54.143,13.668,Germany,Shutdown,408,1978
+54.143,13.668,Germany,Shutdown,408,1979
+54.143,13.668,Germany,Shutdown,408,1989
+52.033,9.412,Germany,Shutdown,1289,1985
+48.513,10.401,Germany,Shutdown,237,1967
+48.513,10.401,Germany,Shutdown,1244,1984
+48.513,10.401,Germany,Shutdown,1249,1985
+34.402,-80.158,United States,Operational,700,1971
+41.483,-72.5,United States,Shutdown,582,1968
+36.704,121.382,China,Operational,1126,2018
+36.704,121.382,China,Operational,1126,2019
+40.559,-96.785,United States,Shutdown,75,1963
+34.621,138.141,Japan,Shutdown,516,1976
+34.621,138.141,Japan,Shutdown,814,1978
+34.621,138.141,Japan,Suspended Operation,1056,1987
+34.621,138.141,Japan,Suspended Operation,1092,1993
+34.621,138.141,Japan,Suspended Operation,1325,2005
+35.405,126.41,South Korea,Operational,903,1986
+35.405,126.41,South Korea,Operational,903,1987
+35.405,126.41,South Korea,Operational,950,1995
+35.405,126.41,South Korea,Operational,950,1996
+35.405,126.41,South Korea,Operational,950,2002
+35.405,126.41,South Korea,Operational,993,2002
+37.09,129.384444,South Korea,Operational,903,1988
+37.09,129.384444,South Korea,Operational,903,1989
+37.09,129.384444,South Korea,Operational,997,1998
+37.09,129.384444,South Korea,Operational,950,1999
+37.09,129.384444,South Korea,Operational,950,2004
+37.09,129.384444,South Korea,Operational,950,2005
+54.634,-1.18,United Kingdom,Operational,590,1989
+54.634,-1.18,United Kingdom,Operational,595,1989
+31.935,-82.346,United States,Operational,777,1975
+31.935,-82.346,United States,Operational,784,1979
+54.029,-2.912,United Kingdom,Operational,611,1989
+54.029,-2.912,United Kingdom,Operational,611,1989
+54.029,-2.912,United Kingdom,Operational,615,1989
+54.029,-2.912,United Kingdom,Operational,615,1989
+41.188,141.393,Japan,Suspended Operation,1067,2005
+51.209,-3.131,United Kingdom,Shutdown,250,1965
+51.209,-3.131,United Kingdom,Shutdown,250,1965
+51.209,-3.131,United Kingdom,Shutdown,625,1978
+51.209,-3.131,United Kingdom,Shutdown,625,1976
+39.797,121.4765,China,Operational,1061,2013
+39.797,121.4765,China,Operational,1061,2014
+39.797,121.4765,China,Operational,1061,2015
+39.797,121.4765,China,Operational,1061,2016
+39.797,121.4831,China,Operational,1061,2021
+39.797,121.4831,China,Operational,1061,2022
+39.467,-75.535,United States,Operational,1067,1986
+40.741,-124.21,United States,Shutdown,65,1963
+55.722,-4.893,United Kingdom,Shutdown,150,1964
+55.722,-4.893,United Kingdom,Shutdown,150,1964
+55.722,-4.893,United Kingdom,Shutdown,624,1976
+55.722,-4.893,United Kingdom,Shutdown,624,1977
+55.604,26.562,Lithuania,Shutdown,1500,1985
+55.604,26.562,Lithuania,Shutdown,1500,1987
+33.491,132.309,Japan,Shutdown,538,1977
+33.491,132.309,Japan,Shutdown,538,1982
+33.491,132.309,Japan,Operational,846,1994
+41.27,-73.95,United States,Shutdown,265,1962
+41.27,-73.95,United States,Shutdown,873,1974
+41.27,-73.95,United States,Shutdown,965,1976
+48.607,12.296,Germany,Shutdown,870,1979
+48.607,12.296,Germany,Shutdown,1285,1988
+40.362,-2.818,Spain,Shutdown,153,1969
+36.4625,140.61,Japan,Shutdown,10,1965
+50.903,6.421,Germany,Shutdown,13,1969
+14.865,74.438,India,Operational,202,2000
+14.865,74.438,India,Operational,202,2000
+14.865,74.438,India,Operational,202,2007
+14.865,74.438,India,Operational,202,2011
+21.236,73.351,India,Operational,202,1993
+21.236,73.351,India,Operational,202,1995
+57.903,35.057,Russia,Operational,950,1985
+57.903,35.057,Russia,Operational,950,1987
+57.903,35.057,Russia,Operational,950,2005
+57.903,35.057,Russia,Operational,950,2012
+12.553,80.174,India,Suspended Operation,202,1984
+12.553,80.174,India,Operational,202,1986
+24.845,66.79,Pakistan,Shutdown,125,1972
+49.104,8.432,Germany,Shutdown,50,1966
+37.434,138.598,Japan,Suspended Operation,1067,1985
+37.434,138.598,Japan,Suspended Operation,1067,1990
+37.434,138.598,Japan,Suspended Operation,1067,1993
+37.434,138.598,Japan,Suspended Operation,1067,1994
+37.434,138.598,Japan,Suspended Operation,1067,1990
+37.434,138.598,Japan,Suspended Operation,1315,1996
+37.434,138.598,Japan,Suspended Operation,1315,1997
+44.47,-87.498,United States,Shutdown,535,1974
+50.301,26.649,Ukraine,Operational,950,1988
+50.301,26.649,Ukraine,Operational,950,2005
+49.098,8.441,Germany,Shutdown,18,1979
+-33.677,18.433,South Africa,Operational,921,1984
+-33.677,18.433,South Africa,Operational,921,1985
+67.467,32.491,Russia,Operational,411,1973
+67.467,32.491,Russia,Operational,411,1975
+67.467,32.491,Russia,Operational,411,1982
+67.467,32.491,Russia,Operational,411,1984
+35.321,129.295,South Korea,Shutdown,558,1978
+35.321,129.295,South Korea,Operational,618,1983
+35.321,129.295,South Korea,Operational,1001,1985
+35.321,129.295,South Korea,Operational,1012,1986
+43.744,23.776,Bulgaria,Shutdown,408,1974
+43.744,23.776,Bulgaria,Shutdown,408,1975
+43.744,23.776,Bulgaria,Shutdown,408,1981
+43.744,23.776,Bulgaria,Shutdown,408,1982
+43.744,23.776,Bulgaria,Operational,953,1988
+43.744,23.776,Bulgaria,Operational,1003,1993
+45.939,15.516,Slovenia,Operational,632,1983
+53.41,10.41,Germany,Shutdown,1260,1984
+8.167,77.713,India,Operational,917,2014
+8.167,77.713,India,Operational,917,2017
+25.203,121.662,Taiwan,Shutdown,948,1981
+25.203,121.662,Taiwan,Shutdown,948,1983
+51.674,35.607,Russia,Shutdown,925,1977
+51.674,35.607,Russia,Operational,925,1979
+51.674,35.607,Russia,Operational,925,1984
+51.674,35.607,Russia,Operational,925,1986
+43.559,-91.23,United States,Shutdown,50,1969
+19.719,-96.405,Mexico,Operational,780,1990
+19.719,-96.405,Mexico,Operational,780,1995
+41.246,-88.672,United States,Operational,1078,1984
+41.246,-88.672,United States,Operational,1078,1984
+41.427,12.808,Italy,Shutdown,200,1964
+47.601,8.183,Switzerland,Operational,960,1984
+59.837,29.039,Russia,Operational,1066,2018
+59.837,29.039,Russia,Operational,1066,2021
+59.837,29.039,Russia,Shutdown,925,1974
+59.837,29.039,Russia,Shutdown,925,1976
+59.837,29.039,Russia,Operational,925,1980
+59.837,29.039,Russia,Operational,925,1981
+40.225,-75.584,United States,Operational,1055,1986
+40.225,-75.584,United States,Operational,1055,1990
+22.606,114.55,China,Operational,950,2002
+22.606,114.55,China,Operational,950,2003
+22.609,114.552,China,Operational,1007,2010
+22.609,114.552,China,Operational,1007,2011
+52.483,7.302,Germany,Shutdown,183,1968
+60.372,26.342,Finland,Operational,420,1977
+60.372,26.342,Finland,Operational,420,1981
+25.038,121.924,Taiwan,Operational,936,1984
+25.038,121.924,Taiwan,Operational,938,1985
+43.951,-69.695,United States,Shutdown,825,1972
+35.433,-80.946,United States,Operational,1180,1981
+35.433,-80.946,United States,Operational,1180,1984
+35.701,135.962,Japan,Shutdown,320,1970
+35.701,135.962,Japan,Shutdown,470,1972
+35.701,135.962,Japan,Operational,780,1976
+41.312,-72.166,United States,Shutdown,660,1971
+41.312,-72.166,United States,Operational,870,1975
+41.312,-72.166,United States,Operational,1159,1986
+48.261,18.455,Slovakia,Operational,408,1998
+48.261,18.455,Slovakia,Operational,408,2000
+45.334,-93.85,United States,Operational,545,1971
+46.969,7.266,Switzerland,Shutdown,306,1972
+50.409,7.485,Germany,Shutdown,1219,1987
+28.156,78.409,India,Operational,202,1991
+28.155,78.409,India,Operational,202,1992
+49.039,9.176,Germany,Shutdown,805,1976
+49.039,9.176,Germany,Shutdown,1225,1989
+43.522,-76.412,United States,Operational,620,1969
+43.522,-76.412,United States,Operational,1100,1988
+27.046,120.287,China,Operational,1018,2013
+27.046,120.287,China,Operational,1018,2014
+27.046,120.287,China,Operational,1018,2015
+27.046,120.287,China,Operational,1018,2016
+48.517,3.52,France,Operational,1310,1988
+48.517,3.52,France,Operational,1310,1989
+38.061,-77.792,United States,Operational,907,1978
+38.061,-77.792,United States,Operational,907,1980
+51.273,39.197,Russia,Operational,1114,2017
+51.273,39.197,Russia,Operational,1114,2019
+51.275,39.206,Russia,Shutdown,197,1964
+51.275,39.206,Russia,Shutdown,336,1970
+51.275,39.206,Russia,Shutdown,385,1972
+51.275,39.206,Russia,Operational,385,1973
+52.381,39.211,Russia,Operational,950,1981
+49.365,9.077,Germany,Shutdown,283,1969
+34.796,-82.894,United States,Operational,887,1973
+34.796,-82.894,United States,Operational,887,1974
+34.796,-82.894,United States,Operational,887,1974
+35.544,135.652,Japan,Shutdown,1120,1979
+35.544,135.652,Japan,Shutdown,1120,1979
+35.544,135.652,Japan,Operational,1127,1991
+35.544,135.652,Japan,Operational,1127,1993
+51.649,-2.567,United Kingdom,Shutdown,300,1967
+51.649,-2.567,United Kingdom,Shutdown,300,1968
+61.235,21.444,Finland,Operational,660,1979
+61.235,21.444,Finland,Operational,660,1982
+38.4,141.504,Japan,Shutdown,498,1984
+38.4,141.504,Japan,Suspended Operation,796,1995
+38.4,141.504,Japan,Suspended Operation,796,2002
+57.415,16.666,Sweden,Shutdown,440,1972
+57.415,16.666,Sweden,Shutdown,580,1975
+57.415,16.666,Sweden,Operational,1050,1985
+39.815,-74.208,United States,Shutdown,650,1969
+46.574,18.855,Hungary,Operational,408,1983
+46.574,18.855,Hungary,Operational,410,1984
+46.574,18.855,Hungary,Operational,410,1986
+46.574,18.855,Hungary,Operational,410,1987
+33.387,-112.863,United States,Operational,1221,1986
+33.387,-112.863,United States,Operational,1304,1986
+33.387,-112.863,United States,Operational,1304,1988
+49.857,0.635,France,Operational,1330,1985
+49.857,0.635,France,Operational,1330,1985
+49.857,0.635,France,Operational,1330,1986
+49.857,0.635,France,Operational,1330,1986
+43.603,-96.636,United States,Shutdown,59,1966
+39.759,-76.27,United States,Shutdown,40,1967
+39.759,-76.27,United States,Operational,1065,1974
+39.759,-76.27,United States,Operational,1065,1974
+49.975,1.215,France,Operational,1330,1990
+49.975,1.215,France,Operational,1330,1992
+41.801,-81.147,United States,Operational,1205,1987
+44.142,4.712,France,Shutdown,233,1974
+49.253,8.432,Germany,Shutdown,864,1980
+49.253,8.432,Germany,Shutdown,1268,1985
+43.812,-79.07,Canada,Operational,508,1971
+43.812,-79.07,Canada,Shutdown,508,1971
+43.812,-79.07,Canada,Shutdown,508,1972
+43.812,-79.07,Canada,Operational,508,1973
+43.812,-79.07,Canada,Operational,516,1983
+43.812,-79.07,Canada,Operational,516,1984
+43.812,-79.07,Canada,Operational,516,1985
+43.812,-79.07,Canada,Operational,516,1986
+41.945,-70.578,United States,Shutdown,655,1972
+40.132222,-84.234722,United States,Shutdown,11,1963
+44.282,-87.534,United States,Operational,497,1970
+44.282,-87.534,United States,Operational,497,1972
+45.068,-66.455,Canada,Operational,660,1983
+44.622,-92.631,United States,Operational,530,1973
+44.622,-92.631,United States,Operational,530,1974
+30.44,120.95,China,Operational,289,1994
+30.44,120.95,China,Operational,610,2002
+30.44,120.95,China,Operational,610,2004
+30.44,120.95,China,Operational,619,2010
+30.44,120.95,China,Operational,619,2011
+30.44,120.95,China,Operational,677,2002
+30.44,120.95,China,Operational,677,2003
+41.727,-90.308,United States,Operational,789,1973
+41.727,-90.308,United States,Operational,789,1973
+43.279,-77.311,United States,Operational,470,1970
+24.876,75.608,India,Suspended Operation,207,1973
+24.876,75.608,India,Operational,207,1981
+24.876,75.608,India,Operational,202,2000
+24.876,75.608,India,Operational,202,2000
+24.876,75.608,India,Operational,202,2010
+24.876,75.608,India,Operational,202,2010
+38.345,-121.12,United States,Shutdown,918,1975
+53.147,12.991,Germany,Shutdown,62,1966
+57.259,12.111,Sweden,Shutdown,881,1976
+57.259,12.111,Sweden,Shutdown,820,1975
+57.259,12.111,Sweden,Operational,915,1981
+57.259,12.111,Sweden,Operational,1130,1983
+30.727,-91.372,United States,Operational,966,1986
+46.201,-77.705,Canada,Shutdown,17,1962
+47.599,42.373,Russia,Operational,950,2001
+47.599,42.373,Russia,Operational,950,2010
+47.599,42.373,Russia,Operational,950,2015
+47.599,42.373,Russia,Operational,950,2018
+51.326,25.9,Ukraine,Operational,361,1981
+51.326,25.9,Ukraine,Operational,384,1982
+51.326,25.9,Ukraine,Operational,950,1987
+51.326,25.9,Ukraine,Operational,950,2006
+39.463,-75.534,United States,Operational,1090,1977
+39.463,-75.534,United States,Operational,1115,1981
+33.368,-117.556,United States,Shutdown,436,1968
+33.368,-117.556,United States,Shutdown,1070,1983
+33.368,-117.556,United States,Shutdown,1070,1984
+29.101,121.642,China,Operational,1157,2018
+29.101,121.642,China,Operational,1157,2018
+42.775,-3.205,Spain,Shutdown,440,1971
+42.897,-70.849,United States,Operational,1149,1990
+31.834,130.193,Japan,Operational,846,1984
+31.834,130.193,Japan,Operational,846,1985
+35.228,-85.094,United States,Operational,1148,1981
+35.228,-85.094,United States,Operational,1148,1982
+35.635,-78.955,United States,Operational,900,1987
+37.061,136.728,Japan,Suspended Operation,505,1993
+37.061,136.728,Japan,Suspended Operation,1304,2006
+35.537,132.999,Japan,Shutdown,439,1974
+35.537,132.999,Japan,Suspended Operation,789,1989
+35.722,129.479,South Korea,Operational,950,2012
+35.722,129.479,South Korea,Operational,950,2015
+37.083889,129.391667,South Korea,Operational,1340,2022
+35.327,129.302,South Korea,Operational,998,2011
+35.327,129.302,South Korea,Operational,995,2012
+35.327,129.302,South Korea,Operational,1340,2016
+35.327,129.302,South Korea,Operational,1340,2019
+40.63,-80.417778,United States,Shutdown,60,1958
+52.212,1.621,United Kingdom,Shutdown,290,1966
+52.212,1.621,United Kingdom,Shutdown,290,1966
+52.212,1.621,United Kingdom,Operational,1188,1995
+54.169,33.245,Russia,Operational,925,1983
+54.169,33.245,Russia,Operational,925,1985
+54.169,33.245,Russia,Operational,925,1990
+28.797,-96.044,United States,Operational,1250,1988
+28.796,-96.044,United States,Operational,1250,1989
+47.811,31.22,Ukraine,Operational,950,1983
+47.811,31.22,Ukraine,Operational,950,1985
+47.811,31.22,Ukraine,Operational,950,1989
+45.404,4.754,France,Operational,1335,1986
+45.404,4.754,France,Operational,1335,1987
+47.724,1.582,France,Shutdown,480,1969
+47.724,1.582,France,Shutdown,515,1971
+47.724,1.582,France,Operational,915,1983
+47.72,1.581,France,Operational,880,1983
+27.348,-80.244,United States,Operational,830,1976
+27.348,-80.244,United States,Operational,830,1983
+53.62,9.53,Germany,Shutdown,630,1972
+34.299,-81.314,United States,Operational,900,1984
+45.76,5.474,France,Shutdown,1200,1986
+37.166,-76.7,United States,Operational,788,1972
+37.166,-76.7,United States,Operational,788,1973
+41.093,-76.143,United States,Operational,1065,1983
+41.093,-76.143,United States,Operational,1065,1985
+21.917778,112.981944,China,Operational,1660,2018
+21.917778,112.981944,China,Operational,1660,2019
+35.52,135.503,Japan,Suspended Operation,780,1974
+35.52,135.503,Japan,Suspended Operation,780,1975
+35.52,135.503,Japan,Operational,830,1985
+35.52,135.503,Japan,Operational,830,1985
+19.834,72.657,India,Suspended Operation,200,1969
+19.834,72.657,India,Suspended Operation,200,1969
+19.834,72.657,India,Operational,502,2006
+19.834,72.657,India,Operational,502,2005
+49.181,14.377,Czechia,Operational,1027,2002
+49.181,14.377,Czechia,Operational,1029,2003
+40.154,-76.727,United States,Shutdown,819,1974
+40.154,-76.727,United States,Shutdown,906,1978
+51.68,7.972,Germany,Shutdown,296,1987
+34.69,119.456,China,Operational,990,2007
+34.69,119.456,China,Operational,990,2007
+34.6868,119.456,China,Operational,1060,2018
+34.6858,119.456,China,Operational,1060,2018
+34.6838,119.456,China,Operational,1000,2020
+34.6828,119.456,China,Operational,1000,2021
+50.533,5.271,Belgium,Operational,870,1975
+50.533,5.271,Belgium,Shutdown,900,1983
+50.533,5.271,Belgium,Operational,1020,1985
+36.466,140.612,Japan,Shutdown,159,1966
+36.466,140.612,Japan,Suspended Operation,1056,1978
+43.038,140.515,Japan,Suspended Operation,550,1989
+43.038,140.515,Japan,Suspended Operation,550,1991
+43.038,140.515,Japan,Suspended Operation,866,2009
+55.966,-2.399,United Kingdom,Operational,645,1988
+55.966,-2.399,United Kingdom,Operational,645,1989
+52.923,-3.947,United Kingdom,Shutdown,250,1965
+52.922,-3.947,United Kingdom,Shutdown,250,1965
+44.33,4.733,France,Operational,915,1980
+44.33,4.733,France,Operational,915,1980
+44.331,4.733,France,Operational,915,1981
+44.331,4.733,France,Operational,915,1981
+40.699,-2.622,Spain,Operational,990,1988
+46.04,-122.887,United States,Shutdown,1130,1976
+35.672,136.079,Japan,Shutdown,341,1970
+35.672,136.079,Japan,Suspended Operation,1115,1987
+25.435,-80.33,United States,Operational,693,1972
+25.435,-80.33,United States,Operational,693,1973
+53.429,8.477,Germany,Shutdown,1230,1979
+40.949,0.867,Spain,Shutdown,480,1972
+40.949,0.867,Spain,Operational,930,1988
+42.779,-72.514,United States,Shutdown,514,1972
+33.143,-81.76,United States,Operational,1122,1987
+33.143,-81.76,United States,Operational,1101,1989
+33.1399,-81.7686,United States,Operational,1117,2023
+29.994,-90.471,United States,Operational,1104,1985
+35.601,-84.789,United States,Operational,1218,1996
+35.601,-84.789,United States,Operational,1165,2016
+54.426,-3.505,United Kingdom,Shutdown,32,1963
+50.68,-2.272,United Kingdom,Shutdown,92,1968
+38.239,-95.691,United States,Operational,1170,1985
+35.71,129.476,South Korea,Shutdown,629,1983
+35.71,129.476,South Korea,Operational,652,1997
+35.71,129.476,South Korea,Operational,665,1998
+35.71,129.476,South Korea,Operational,669,1999
+51.639,9.393,Germany,Shutdown,640,1975
+53.416,-4.48,United Kingdom,Shutdown,550,1971
+53.416,-4.48,United Kingdom,Shutdown,550,1972
+21.706,112.256,China,Operational,1021,2014
+21.706,112.256,China,Operational,1000,2015
+21.706,112.256,China,Operational,1000,2016
+21.8575,111.9825,China,Operational,1000,2017
+21.8575,111.9825,China,Operational,1021,2018
+21.8575,111.9825,China,Operational,1000,2019
+42.728,-72.929,United States,Shutdown,175,1961
+47.508,34.627,Ukraine,Operational,950,1985
+47.508,34.627,Ukraine,Operational,950,1986
+47.508,34.627,Ukraine,Operational,950,1987
+47.508,34.627,Ukraine,Operational,950,1988
+47.508,34.627,Ukraine,Operational,950,1989
+47.508,34.627,Ukraine,Operational,950,1996
+42.446,-87.801,United States,Shutdown,1040,1973
+42.446,-87.801,United States,Shutdown,1040,1974
+21.6,108.3,China,Operational,1000,2023
+24.845,66.79,Pakistan,Operational,1017,2021
+24.845,66.79,Pakistan,Operational,1014,2022
