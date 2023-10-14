@@ -1,6 +1,16 @@
-Year,OECD countries,Non-OECD countries,Non-OECD share
-2020,313,102,25
-2025,326,131,29
-2030,337,180,35
-2035,322,234,42
-2040,298,284,49
+Year,Country,Nuclear_Capacity
+2020,OECD countries,313
+2020,Non-OECD countries,102
+2020,Non-OECD share,25
+2025,OECD countries,326
+2025,Non-OECD countries,131
+2025,Non-OECD share,29
+2030,OECD countries,337
+2030,Non-OECD countries,180
+2030,Non-OECD share,35
+2035,OECD countries,322
+2035,Non-OECD countries,234
+2035,Non-OECD share,42
+2040,OECD countries,298
+2040,Non-OECD countries,284
+2040,Non-OECD share,49
