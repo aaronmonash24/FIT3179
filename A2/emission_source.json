@@ -6,7 +6,7 @@
     "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/co2_emmision_from_energy.csv"
   },
   "encoding": {
-    "y": {"field": "Energy Soue", "type": "nominal","title":"Source"},
+    "y": {"field": "Energy Source", "type": "nominal","title":"Source"},
     "x": {
       "field": "CO2-equivalent Emissions Per GWh (tonnes)",
       "type": "quantitative"
