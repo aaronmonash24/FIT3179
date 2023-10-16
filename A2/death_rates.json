@@ -1,17 +1,16 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  
   "width":150,
   "data": {
-    "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/co2_emmision_from_energy.csv"
+    "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/death-rates-from-energy-production-per-twh.csv"
   },
   "encoding": {
-    "y": {"field": "Energy Source", "type": "nominal","title":"Source"},
+    "y": {"field": "Entity", "type": "nominal","title":"Source"},
     "x": {
-      "field": "CO2-equivalent Emissions Per GWh (tonnes)",
+      "field": "Deaths per TWh of electricity production",
       "type": "quantitative"
     },
-    "color": {"field": "Energy Source","title":"Source"}
+    "color": {"field": "Entity","title":"Source"}
   },
   "layer": [
     {"mark": "bar"},
@@ -19,7 +18,7 @@
       "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 4},
       "encoding": {
         "text": {
-          "field": "CO2-equivalent Emissions Per GWh (tonnes)",
+          "field": "Deaths per TWh of electricity production",
           "type": "quantitative"
         }
       }
