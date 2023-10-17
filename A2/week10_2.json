@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
-  "height": 500,
+  "width": 400,
+  "height": 400,
   "title": "Electric generated source per capita (kWh)",
   "data": {
     "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/electric_source_per_capita.csv"
@@ -13,14 +13,14 @@
         "input": "select",
         "options": [
           null,
-          "Bioenergy electricity per capita (kWh)",
-          "Coal electricity per capita (kWh)",
-          "Gas electricity per capita (kWh)",
-          "Hydro electricity per capita (kWh)",
-          "Nuclear electricity per capita (kWh)",
-          "Oil electricity per capita (kWh)",
-          "Solar electricity per capita (kWh)",
-          "Wind electricity per capita (kWh)"
+          "Bioenergy",
+          "Coal",
+          "Gas",
+          "Hydro",
+          "Nuclear",
+          "Oil",
+          "Solar",
+          "Wind"
         ],
         "labels": [
           "Show All",
@@ -57,7 +57,7 @@
           "field": "Value",
           "title": "Electric Generated per Capita"
         },
-        "color": {"field": "Energy Type", "scale": {"scheme": "category20"}},
+        "color": {"field": "Energy Type", "type":"nominal","scale": {"scheme": "category20"}},
         "opacity": {"value": 1},
         "tooltip": [
           {
@@ -70,15 +70,8 @@
           {"field": "Energy Type", "type": "nominal"}
         ]
       }
-    },
-    {
-      "mark": "rule",
-      "encoding": {
-        "y": {"value": 279},
-        "color": {"value": "red"},
-        "size": {"value": 3}
-      }
     }
+    
   ],
   "config": {}
 }
