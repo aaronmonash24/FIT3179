@@ -1,6 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
+  "title":"World Nuclear Capacity",
+  "width": 450,
   "height": 200,
   "data": {
     "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/nuclear-capacity-operating-in-selected-advanced-economies-in-the-nuclear-fade-case-2018-2040%20(1).csv"
@@ -17,7 +18,7 @@
     "y": {
       "aggregate": "sum",
       "field": "Capacity (GW)",
-      "title": "Nuclear Capacity"
+      "title": "Nuclear Capacity (GW)"
     },
     "color": {"field": "Country", "scale": {"scheme": "category10"}},
     "size": {"value": 40},

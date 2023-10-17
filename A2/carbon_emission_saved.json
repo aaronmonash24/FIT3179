@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
+  "width": 110,
   "height": 200,
   "data": {
     "url": "https://raw.githubusercontent.com/aaronmonash24/FIT3179/main/emission_saved.csv"
@@ -13,8 +13,8 @@
       "title": "Year",
       "axis": {"format": "%Y"}
     },
-    "y": {"aggregate": "sum", "field": "CO2_Emissions_Avoided_GtCO2"},
-    "color": {"field": "Country", "scale": {"scheme": "tableau10"}},
+    "y": {"aggregate": "sum", "field": "CO2_Emissions_Avoided_GtCO2","title":"Total CO2 Emissions Avoided (GTCO2)"},
+    "color": {"field": "Country", "scale": {"scheme": "tableau10"},"legend": { "symbolSize": 30}},
     "tooltip":[{"field":"Country"},{"field":"CO2_Emissions_Avoided_GtCO2","format":".2f"}]
   },
   "config": {}
