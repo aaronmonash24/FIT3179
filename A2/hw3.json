@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 850,
+  "width":  850,
   "height": 500,
   "title": "History of Nuclear Reactors Around the World ",
   "params": [

@@ -8,7 +8,13 @@ h1 {
     font-weight: 900;
 }
 
+.nuclear_text{
+    color:rgb(159, 152, 19)
+}
 
+.energy_text{
+    color: rgb(237, 23, 16);
+}
 
 body {
     background-image: url("Depositphotos_109693792_original.jpg");
